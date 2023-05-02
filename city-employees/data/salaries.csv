@@ -1,0 +1,1001 @@
+,department,division,job_title,employee_classification,start_date,title_date,flsa_status,annual_base_rate
+0,City Council,City Council,Member Of Council,Elected Official,1998-07-24T00:00:00.000,2010-07-01T00:00:00.000,Exempt,25000.0
+1,City Council,City Council,Member Of Council,Elected Official,2021-01-14T00:00:00.000,2021-01-14T00:00:00.000,Exempt,25000.0
+2,City Council,City Council,Member Of Council,Elected Official,2023-01-01T00:00:00.000,2023-01-01T00:00:00.000,Exempt,25000.0
+3,City Council,City Council,Member Of Council,Elected Official,2014-07-01T00:00:00.000,2014-07-01T00:00:00.000,Exempt,25000.08
+4,City Council,City Council,Member Of Council,Elected Official,2018-07-01T00:00:00.000,2018-07-01T00:00:00.000,Exempt,25000.0
+5,City Council,City Council,Member Of Council,Elected Official,2016-07-01T00:00:00.000,2016-07-01T00:00:00.000,Exempt,25000.0
+6,City Council,City Council,President Of Council,Elected Official,2016-07-01T00:00:00.000,2016-07-01T00:00:00.000,Exempt,27000.0
+7,City Council,City Council,Member Of Council,Elected Official,1999-06-21T00:00:00.000,2016-08-31T00:00:00.000,Exempt,25000.0
+8,City Manager,City Manager - Norfolk Arts,Bureau Manager,Permanent Full-time,2006-01-03T00:00:00.000,2006-01-03T00:00:00.000,Exempt,103158.21
+9,City Manager,Executive City Manager,Special Assistant,Permanent Full-time,2023-01-03T00:00:00.000,2022-12-31T00:00:00.000,Exempt,85000.0
+10,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer I,Special Project w/ Retirement,2021-04-10T00:00:00.000,2022-05-23T00:00:00.000,Nonexempt,18.48
+11,City Manager,City Manager - Norfolk Arts,Arts Manager,Permanent Full-time,2012-03-05T00:00:00.000,2012-03-05T00:00:00.000,Exempt,74761.83
+12,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,2014-01-22T00:00:00.000,2014-01-22T00:00:00.000,Nonexempt,23.26
+13,City Manager,City Manager-NCJS Adlt Com Sup,Administrative Technician,Special Project w/ Retirement,2006-11-27T00:00:00.000,2008-07-01T00:00:00.000,Nonexempt,18.37
+14,City Manager,Executive City Manager,Deputy City Manager,Permanent Full-time,2007-06-18T00:00:00.000,2021-07-03T00:00:00.000,Exempt,204863.4
+15,City Manager,City Manager - Norfolk Arts,Multimedia Comm Specialist II,Permanent Full-time,1989-07-10T00:00:00.000,2010-11-23T00:00:00.000,Exempt,52754.98
+16,City Manager,Executive City Manager,Deputy City Manager,Permanent Full-time,2021-07-26T00:00:00.000,2021-07-26T00:00:00.000,Exempt,204863.4
+17,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer I,Special Project w/ Retirement,2023-03-25T00:00:00.000,2023-03-25T00:00:00.000,Nonexempt,18.48
+18,City Manager,Executive City Manager,Mgmt Analyst III (CMO Only),Permanent Full-time,2006-01-09T00:00:00.000,2022-04-11T00:00:00.000,Exempt,84000.0
+19,City Manager,Executive City Manager,Deputy City Manager,Permanent Full-time,2021-09-07T00:00:00.000,2021-09-07T00:00:00.000,Exempt,204863.4
+20,City Manager,Executive City Manager,Management Analyst II,Permanent Full-time,2002-09-30T00:00:00.000,2022-06-21T00:00:00.000,Exempt,60900.0
+21,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,2018-12-10T00:00:00.000,2018-12-10T00:00:00.000,Nonexempt,21.64
+22,City Manager,Executive City Manager,"Asst to the Cty Manager, Sr",Permanent Full-time,1998-08-04T00:00:00.000,2015-05-04T00:00:00.000,Exempt,100000.95
+23,City Manager,Executive City Manager,Intergovernmental Relations Of,Permanent Full-time,2015-06-01T00:00:00.000,2017-03-06T00:00:00.000,Exempt,110250.0
+24,City Manager,Executive City Manager,Chief of Staff,Permanent Full-time,2016-09-19T00:00:00.000,2021-08-16T00:00:00.000,Exempt,173250.0
+25,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,1999-08-24T00:00:00.000,1999-08-24T00:00:00.000,Nonexempt,29.07
+26,City Manager,Executive City Manager,Deputy City Manager,Permanent Full-time,2017-09-11T00:00:00.000,2017-09-11T00:00:00.000,Exempt,204863.82
+27,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer I,Special Project w/ Retirement,2017-06-24T00:00:00.000,2019-08-17T00:00:00.000,Nonexempt,18.48
+28,City Manager,Executive City Manager,Mgmt Analyst II (CMO Only),Permanent Full-time,2022-03-28T00:00:00.000,2022-03-28T00:00:00.000,Exempt,60900.0
+29,City Manager,Executive City Manager,Executive Specialist,Retiree Part-time,1978-07-24T00:00:00.000,2020-10-05T00:00:00.000,Nonexempt,64.89
+30,City Manager,Executive City Manager,Chief of Staff,Permanent Full-time,2006-08-01T00:00:00.000,2023-01-21T00:00:00.000,Exempt,150000.0
+31,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,2005-04-23T00:00:00.000,2008-07-01T00:00:00.000,Nonexempt,29.07
+32,City Manager,Executive City Manager,City Manager,Appointed by City Council,2019-09-16T00:00:00.000,2019-09-16T00:00:00.000,Exempt,281077.52
+33,City Manager,City Manager-NCJS Adlt Com Sup,Programs Manager,Special Project w/ Retirement,1994-11-21T00:00:00.000,2007-07-01T00:00:00.000,Exempt,89695.36
+34,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,2021-05-08T00:00:00.000,2021-05-08T00:00:00.000,Nonexempt,23.3
+35,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,2017-12-04T00:00:00.000,2017-12-04T00:00:00.000,Nonexempt,23.62
+36,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,1991-08-01T00:00:00.000,2007-07-01T00:00:00.000,Nonexempt,27.67
+37,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,1999-10-07T00:00:00.000,2008-07-01T00:00:00.000,Nonexempt,29.07
+38,City Manager,City Manager-NCJS Adlt Com Sup,Program Supervisor,Special Project w/ Retirement,2001-02-12T00:00:00.000,2015-02-18T00:00:00.000,Exempt,67118.16
+39,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,2005-01-31T00:00:00.000,2008-07-23T00:00:00.000,Nonexempt,26.34
+40,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Special Project w/ Retirement,2006-02-13T00:00:00.000,2007-07-01T00:00:00.000,Nonexempt,26.34
+41,City Attorney,Law,Deputy City Attorney I,Permanent Full-time,2007-08-20T00:00:00.000,2007-08-20T00:00:00.000,Exempt,124908.0
+42,City Attorney,Law,Legal Administrator,Permanent Full-time,1992-10-19T00:00:00.000,1997-02-07T00:00:00.000,Exempt,99007.0
+43,City Attorney,Law,Assistant City Attorney II,Permanent Full-time,2014-06-27T00:00:00.000,2019-08-17T00:00:00.000,Exempt,111375.0
+44,City Attorney,Law,Assistant City Attorney II,Permanent Full-time,2013-04-15T00:00:00.000,2013-04-15T00:00:00.000,Exempt,116803.0
+45,City Attorney,Law,Assistant City Attorney II,Permanent Full-time,2019-09-03T00:00:00.000,2019-09-03T00:00:00.000,Exempt,119041.0
+46,City Attorney,Law,Chief Deputy City Attorney,Permanent Full-time,2002-01-28T00:00:00.000,2016-07-01T00:00:00.000,Exempt,223376.0
+47,City Attorney,Law,City Attorney,Permanent Full-time,1984-10-08T00:00:00.000,1997-11-18T00:00:00.000,Exempt,239072.45
+48,City Attorney,Law,Deputy City Attorney I,Permanent Full-time,1998-06-01T00:00:00.000,2001-05-08T00:00:00.000,Exempt,123574.0
+49,City Attorney,Law,Deputy City Attorney I,Permanent Full-time,2014-08-01T00:00:00.000,2014-08-01T00:00:00.000,Exempt,150813.0
+50,City Attorney,Law,Support Technician,Permanent Full-time,2017-11-20T00:00:00.000,2021-09-07T00:00:00.000,Nonexempt,39440.0
+51,City Attorney,Law,Deputy City Attorney I,Permanent Full-time,2016-08-09T00:00:00.000,2016-08-09T00:00:00.000,Exempt,155379.0
+52,City Attorney,Law,Deputy City Attorney I,Permanent Full-time,2005-05-31T00:00:00.000,2010-01-19T00:00:00.000,Exempt,116917.0
+53,City Attorney,Law,Deputy City Attorney III,Permanent Full-time,2013-09-16T00:00:00.000,2013-09-16T00:00:00.000,Exempt,175522.0
+54,City Attorney,Law,Chief Deputy City Attorney,Permanent Full-time,2013-08-26T00:00:00.000,2016-07-01T00:00:00.000,Exempt,223376.0
+55,City Attorney,Law,Legal Secretary II,Permanent Full-time,2018-10-15T00:00:00.000,2018-10-15T00:00:00.000,Nonexempt,54544.0
+56,City Attorney,Law,Deputy City Attorney II,Permanent Full-time,1989-10-03T00:00:00.000,1996-05-15T00:00:00.000,Exempt,161153.0
+57,City Attorney,Law,Legal Secretary II,Permanent Full-time,2002-02-19T00:00:00.000,2002-02-19T00:00:00.000,Nonexempt,58257.0
+58,City Attorney,Law,Assistant City Attorney III,Permanent Full-time,2014-08-01T00:00:00.000,2019-01-22T00:00:00.000,Exempt,126398.0
+59,City Attorney,Law,Deputy City Attorney II,Permanent Full-time,1999-06-01T00:00:00.000,2001-06-29T00:00:00.000,Exempt,137634.0
+60,City Attorney,Law,Paralegal Specialist II,Permanent Full-time,2022-11-05T00:00:00.000,2022-11-05T00:00:00.000,Nonexempt,54652.0
+61,City Attorney,Law,Deputy City Attorney I,Permanent Full-time,2001-01-29T00:00:00.000,2001-01-29T00:00:00.000,Exempt,141058.0
+62,City Attorney,Law,Deputy City Attorney I,Permanent Full-time,2006-02-06T00:00:00.000,2019-01-01T00:00:00.000,Exempt,148452.0
+63,City Attorney,Law,Legal Coordinator II,Permanent Full-time,1990-04-02T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,81914.0
+64,City Attorney,Law,Support Technician,Permanent Full-time,2019-01-22T00:00:00.000,2021-08-16T00:00:00.000,Nonexempt,39440.0
+65,City Attorney,Law,Legal Secretary II,Permanent Full-time,2022-10-22T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,45000.0
+66,City Attorney,Law,Legal Secretary II,Permanent Full-time,2020-10-24T00:00:00.000,2020-10-24T00:00:00.000,Nonexempt,50814.0
+67,City Attorney,Law,Legal Secretary II,Permanent Full-time,2013-08-01T00:00:00.000,2020-03-14T00:00:00.000,Nonexempt,50814.0
+68,City Attorney,Law,Legal Coordinator I,Permanent Full-time,2015-07-13T00:00:00.000,2018-06-04T00:00:00.000,Nonexempt,60506.0
+69,City Attorney,Law,Deputy City Attorney I,Permanent Full-time,2015-07-01T00:00:00.000,2015-07-01T00:00:00.000,Exempt,139324.0
+70,City Attorney,Law,Legal Secretary II,Permanent Full-time,2015-08-03T00:00:00.000,2015-08-03T00:00:00.000,Nonexempt,67154.0
+71,City Attorney,Law,Legal Secretary II,Permanent Full-time,2014-01-28T00:00:00.000,2015-05-11T00:00:00.000,Nonexempt,59765.0
+72,City Attorney,Law,Assistant City Attorney I,Appointed by City Council,2020-08-03T00:00:00.000,2022-12-03T00:00:00.000,Exempt,85000.0
+73,City Attorney,Law,Business Manager,Permanent Full-time,1974-01-14T00:00:00.000,1996-05-15T00:00:00.000,Exempt,86110.84
+74,City Attorney,Law,Paralegal Specialist I,Permanent Full-time,2007-10-03T00:00:00.000,2019-11-09T00:00:00.000,Nonexempt,71105.0
+75,City Attorney,Law,Paralegal Claims Investg - LD,Permanent Full-time,2023-04-22T00:00:00.000,2023-04-22T00:00:00.000,Nonexempt,65000.0
+76,City Attorney,Law,Assistant City Attorney III,Permanent Full-time,2019-10-26T00:00:00.000,2019-10-26T00:00:00.000,Exempt,125970.0
+77,Finance,Finance Purchasing,Procurement Specialist III,Permanent Full-time,2019-08-03T00:00:00.000,2019-08-03T00:00:00.000,Exempt,72450.0
+78,Finance,Finance Retirement Bureau,Retirement Benefits Spec II,Permanent Full-time,2017-06-26T00:00:00.000,2017-06-26T00:00:00.000,Exempt,53810.03
+79,Finance,Finance - Director's Office,Fiscal Systems Administrator,Permanent Full-time,2008-04-28T00:00:00.000,2015-12-08T00:00:00.000,Exempt,86100.0
+80,Finance,Finance Purchasing,Chief Procurement Officer,Permanent Full-time,2018-04-30T00:00:00.000,2018-04-30T00:00:00.000,Exempt,140649.08
+81,Finance,Finance - Director's Office,"Cash & Investments Analyst, Sr",Permanent Full-time,2022-11-19T00:00:00.000,2022-11-19T00:00:00.000,Exempt,65000.0
+82,Finance,Finance - Director's Office,Risk Analyst,Permanent Full-time,2021-03-13T00:00:00.000,2021-03-13T00:00:00.000,Exempt,75705.0
+83,Finance,Finance Purchasing,Procurement Specialist III,Permanent Full-time,2023-01-17T00:00:00.000,2023-01-17T00:00:00.000,Exempt,68000.0
+84,Finance,Finance Purchasing,Procurement Specialist II,Permanent Full-time,2003-09-02T00:00:00.000,2023-02-25T00:00:00.000,Exempt,63869.31
+85,Finance,Finance - Director's Office,Fiscal Systems Manager,Permanent Full-time,2014-09-03T00:00:00.000,2015-12-08T00:00:00.000,Exempt,96719.13
+86,Finance,Finance Purchasing,Procurement Specialist III,Permanent Full-time,2006-10-03T00:00:00.000,2013-08-19T00:00:00.000,Exempt,78814.2
+87,Finance,Finance Purchasing,Procurement Specialist IV,Permanent Full-time,2017-06-05T00:00:00.000,2022-07-30T00:00:00.000,Exempt,84000.0
+88,Finance,Finance - Director's Office,Business Manager,Permanent Full-time,2002-02-04T00:00:00.000,2022-09-12T00:00:00.000,Exempt,66500.0
+89,Finance,Finance Retirement Bureau,Retirement Benefits Admin,Permanent Full-time,2015-06-08T00:00:00.000,2019-03-30T00:00:00.000,Exempt,93450.0
+90,Finance,Finance - Director's Office,Risk Manager,Permanent Full-time,2019-05-28T00:00:00.000,2019-05-28T00:00:00.000,Exempt,101487.96
+91,Finance,Finance Retirement Bureau,Retirement Benefits Spec II,Permanent Full-time,2022-01-03T00:00:00.000,2022-01-03T00:00:00.000,Exempt,53810.03
+92,Finance,Finance City Controller,Sr Accountant II (Fin only),Permanent Full-time,2004-11-29T00:00:00.000,2017-06-26T00:00:00.000,Exempt,54879.35
+93,Finance,Finance City Controller,Collection Coord,Permanent Full-time,2017-02-27T00:00:00.000,2017-02-27T00:00:00.000,Exempt,55371.75
+94,Finance,Finance Retirement Bureau,Exec Mgr of Retirement Systems,Permanent Full-time,2012-06-25T00:00:00.000,2019-01-22T00:00:00.000,Exempt,121275.0
+95,Finance,Finance City Controller,Payroll Specialist,Permanent Full-time,2021-10-18T00:00:00.000,2021-10-18T00:00:00.000,Exempt,53810.4
+96,Finance,Finance - Director's Office,Assistant Director,Permanent Full-time,2017-04-17T00:00:00.000,2021-07-06T00:00:00.000,Exempt,131250.0
+97,Finance,Finance - Director's Office,Assistant Director,Permanent Full-time,2009-10-26T00:00:00.000,2016-06-20T00:00:00.000,Exempt,140649.08
+98,Finance,Finance City Controller,Customer Service Supervisor,Permanent Full-time,2014-12-01T00:00:00.000,2023-02-25T00:00:00.000,Exempt,65000.0
+99,Finance,Finance City Controller,Sr Accountant II (Fin only),Permanent Full-time,2015-04-27T00:00:00.000,2016-12-12T00:00:00.000,Exempt,55977.0
+100,Finance,Finance Retirement Bureau,Management Analyst III,Special Project w/ Retirement,2018-12-17T00:00:00.000,2022-03-28T00:00:00.000,Exempt,71400.0
+101,Finance,Finance Retirement Bureau,Sr Accountant IV (Fin only),Permanent Full-time,2020-09-12T00:00:00.000,2021-10-09T00:00:00.000,Exempt,75600.0
+102,Finance,Finance Purchasing,Procurement Specialist II,Permanent Full-time,2019-01-22T00:00:00.000,2019-01-22T00:00:00.000,Exempt,57362.76
+103,Finance,Finance - Director's Office,Debt Management Specialist I,Permanent Full-time,2022-08-29T00:00:00.000,2022-08-29T00:00:00.000,Exempt,65000.0
+104,Finance,Finance City Controller,Sr Accountant IV (Fin only),Permanent Full-time,2006-11-27T00:00:00.000,2022-05-25T00:00:00.000,Exempt,78408.75
+105,Finance,Finance City Controller,Sr Accountant IV (Fin only),Permanent Full-time,2018-04-02T00:00:00.000,2021-04-10T00:00:00.000,Exempt,78408.75
+106,Finance,Finance City Controller,Management Analyst III,Permanent Full-time,2017-08-14T00:00:00.000,2017-08-14T00:00:00.000,Exempt,80850.0
+107,Finance,Finance City Controller,Collection Coord,Permanent Full-time,2018-01-08T00:00:00.000,2022-09-26T00:00:00.000,Exempt,55371.75
+108,Finance,Finance City Controller,Accounts Receivable Manager,Permanent Full-time,2014-03-17T00:00:00.000,2014-03-17T00:00:00.000,Exempt,93303.87
+109,Finance,Finance Purchasing,Purchasing Agent,Permanent Full-time,2018-06-25T00:00:00.000,2018-06-25T00:00:00.000,Exempt,120395.6
+110,Finance,Finance City Controller,Management Analyst III,Permanent Full-time,2017-07-31T00:00:00.000,2022-03-28T00:00:00.000,Exempt,67053.0
+111,Finance,Finance Retirement Bureau,Retirement Benefits Spec II,Permanent Full-time,2008-03-24T00:00:00.000,2008-03-24T00:00:00.000,Exempt,56238.0
+112,Finance,Finance Retirement Bureau,Management Analyst II,Permanent Full-time,2020-01-04T00:00:00.000,2022-04-09T00:00:00.000,Exempt,58800.0
+113,Finance,Finance - Director's Office,Director of Finance,Permanent Full-time,1992-12-18T00:00:00.000,2016-01-08T00:00:00.000,Exempt,165268.29
+114,Finance,Finance Purchasing,Procurement Specialist II,Permanent Full-time,2007-03-05T00:00:00.000,2018-12-10T00:00:00.000,Exempt,56259.63
+115,Finance,Finance City Controller,Sr Accountant II (Fin only),Permanent Full-time,2021-12-20T00:00:00.000,2021-12-20T00:00:00.000,Exempt,52754.98
+116,Finance,Finance City Controller,Sr Accountant II (Fin only),Permanent Full-time,2022-09-24T00:00:00.000,2022-09-24T00:00:00.000,Exempt,52754.98
+117,Finance,Finance City Controller,Sr Accountant V (Fin only),Permanent Full-time,2007-07-09T00:00:00.000,2022-09-26T00:00:00.000,Exempt,91927.5
+118,Finance,Finance City Controller,Sr Accountant III (Fin only),Permanent Full-time,2022-03-14T00:00:00.000,2022-03-14T00:00:00.000,Exempt,65100.0
+119,Finance,Finance City Controller,Payroll Specialist,Permanent Full-time,2023-01-03T00:00:00.000,2023-01-03T00:00:00.000,Exempt,49300.5
+120,Finance,Finance City Controller,Sr Accountant V (Fin only),Permanent Full-time,2017-08-07T00:00:00.000,2020-09-14T00:00:00.000,Exempt,91927.5
+121,Finance,Finance City Controller,Payroll Administrator,Permanent Full-time,2018-05-29T00:00:00.000,2022-10-24T00:00:00.000,Exempt,72000.0
+122,Finance,Finance City Controller,City Controller,Permanent Full-time,2015-12-14T00:00:00.000,2021-07-06T00:00:00.000,Exempt,120750.0
+123,Finance,Finance City Controller,Sr Accountant IV (Fin only),Permanent Full-time,2003-11-17T00:00:00.000,2023-01-03T00:00:00.000,Exempt,75600.0
+124,Finance,Finance City Controller,Payroll Manager,Permanent Full-time,2015-06-23T00:00:00.000,2022-10-15T00:00:00.000,Exempt,96000.0
+125,Finance,Finance City Controller,Sr Accountant IV (Fin only),Permanent Full-time,2019-07-27T00:00:00.000,2022-08-27T00:00:00.000,Exempt,75705.0
+126,Finance,Finance City Controller,Accounts Payable Manager,Permanent Full-time,2009-06-15T00:00:00.000,2015-02-02T00:00:00.000,Exempt,106050.0
+127,Finance,Finance Purchasing,Administrative Assistant II,Permanent Full-time,1983-09-12T00:00:00.000,2015-04-16T00:00:00.000,Nonexempt,52210.45
+128,Finance,Finance City Controller,Sr Accountant IV (Fin only),Permanent Full-time,2020-03-14T00:00:00.000,2022-07-16T00:00:00.000,Exempt,75600.0
+129,Finance,Finance City Controller,Sr Accountant IV (Fin only),Permanent Full-time,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Exempt,75600.0
+130,Finance,Finance Purchasing,Procurement Specialist I,Permanent Full-time,2021-10-11T00:00:00.000,2021-10-11T00:00:00.000,Exempt,50400.0
+131,Finance,Finance City Controller,Sr Accounting Mgr (Finance),Permanent Full-time,2019-10-12T00:00:00.000,2023-01-17T00:00:00.000,Exempt,116000.0
+132,Finance,Finance City Controller,Bureau Manager,Permanent Full-time,2013-10-25T00:00:00.000,2018-12-18T00:00:00.000,Exempt,111211.79
+133,Human Resources,Human Resources,Comp & Staff Anly II (HR only),Permanent Full-time,2020-03-09T00:00:00.000,2020-03-09T00:00:00.000,Exempt,70297.5
+134,Human Resources,Human Resources,Org Dev Manager (HR only),Permanent Full-time,1999-05-24T00:00:00.000,2016-09-16T00:00:00.000,Exempt,97056.28
+135,Human Resources,Human Resources,Comp & Staff Anly II (HR only),Permanent Full-time,2022-12-17T00:00:00.000,2022-12-17T00:00:00.000,Exempt,67000.0
+136,Human Resources,Human Resources,Tota Abnce Mgmt Anly (HR only),Permanent Full-time,2022-06-21T00:00:00.000,2022-06-21T00:00:00.000,Exempt,66150.0
+137,Human Resources,Human Resources,Comp & Staff Manager (HR only),Permanent Full-time,2016-06-27T00:00:00.000,2021-06-05T00:00:00.000,Exempt,91927.5
+138,Human Resources,Human Resources,Human Resources Spec (HR only),Permanent Full-time,2019-01-02T00:00:00.000,2019-01-02T00:00:00.000,Nonexempt,44130.45
+139,Human Resources,Human Resources,Emp Rel Anly II (HR only),Permanent Full-time,2021-10-04T00:00:00.000,2021-10-04T00:00:00.000,Exempt,73500.0
+140,Human Resources,Human Resources,Assistant Director,Permanent Full-time,2015-04-20T00:00:00.000,2022-04-18T00:00:00.000,Exempt,126000.0
+141,Human Resources,Human Resources,Comp & Staff Anly I (HR only),Permanent Full-time,2015-12-14T00:00:00.000,2022-12-05T00:00:00.000,Exempt,67000.0
+142,Human Resources,Human Resources,Programs Manager,Permanent Full-time,2013-08-26T00:00:00.000,2023-02-27T00:00:00.000,Exempt,75812.49
+143,Human Resources,Human Resources,Human Resources Spec (HR only),Permanent Full-time,2020-01-21T00:00:00.000,2020-01-21T00:00:00.000,Nonexempt,44130.45
+144,Human Resources,Human Resources,Tota Abnce Mgmt Anly (HR only),Permanent Full-time,2022-04-25T00:00:00.000,2022-04-25T00:00:00.000,Exempt,66150.0
+145,Human Resources,Human Resources,Tota Abnce Mgmt Anly (HR only),Permanent Full-time,2022-03-14T00:00:00.000,2022-03-14T00:00:00.000,Exempt,66150.0
+146,Human Resources,Human Resources,Emp Relations Mgr (HR only),Permanent Full-time,2014-05-23T00:00:00.000,2022-03-14T00:00:00.000,Exempt,91875.0
+147,Human Resources,Human Resources,Emp Rel Anly I (HR only),Permanent Full-time,2022-07-18T00:00:00.000,2022-07-18T00:00:00.000,Exempt,75600.0
+148,Human Resources,Human Resources,City Safety Officer,Permanent Full-time,2022-08-01T00:00:00.000,2022-08-01T00:00:00.000,Exempt,77000.0
+149,Human Resources,Human Resources,Human Resources Spec (HR only),Permanent Full-time,2019-06-08T00:00:00.000,2019-06-08T00:00:00.000,Nonexempt,44130.45
+150,Human Resources,Human Resources,Human Resources Spec (HR only),Permanent Full-time,2002-01-23T00:00:00.000,2023-02-13T00:00:00.000,Nonexempt,48000.0
+151,Human Resources,Human Resources,Management Analyst II,Permanent Full-time,2018-11-13T00:00:00.000,2022-10-10T00:00:00.000,Exempt,60000.0
+152,Human Resources,Human Resources,Emp Rel Anly II (HR only),Permanent Full-time,2020-02-24T00:00:00.000,2020-02-24T00:00:00.000,Exempt,77868.0
+153,Human Resources,Human Resources,Comp & Staff Anly II (HR only),Permanent Full-time,2019-10-19T00:00:00.000,2019-10-19T00:00:00.000,Exempt,77868.0
+154,Human Resources,Human Resources,Emp Rel Anly I (HR only),Permanent Full-time,2018-10-15T00:00:00.000,2021-08-30T00:00:00.000,Exempt,57750.0
+155,Human Resources,Human Resources,Org Dev Analyst (HR only),Permanent Full-time,2014-01-01T00:00:00.000,2014-01-01T00:00:00.000,Exempt,55983.66
+156,Human Resources,Human Resources,Director of Human Resources,Permanent Full-time,2017-05-22T00:00:00.000,2017-05-22T00:00:00.000,Exempt,157234.41
+157,Human Resources,Human Resources,Total Abnce Mgmt Mgr (HR only),Special Project w/ Retirement,2021-06-05T00:00:00.000,2021-06-05T00:00:00.000,Exempt,86520.0
+158,Human Resources,Human Resources,HR Admin Mgr (HR only),Permanent Full-time,1992-02-03T00:00:00.000,2019-07-20T00:00:00.000,Exempt,88250.4
+159,Human Resources,Human Resources,Accountant II,Permanent Full-time,2022-09-26T00:00:00.000,2022-09-26T00:00:00.000,Exempt,51000.0
+160,Human Resources,Human Resources,Org Dev Analyst (HR only),Permanent Full-time,2011-09-21T00:00:00.000,2012-08-27T00:00:00.000,Exempt,55156.5
+161,Human Resources,Human Resources,Management Analyst III,Permanent Full-time,2023-01-28T00:00:00.000,2023-01-28T00:00:00.000,Exempt,65000.0
+162,Human Resources,Human Resources,Management Analyst III,Permanent Full-time,2022-10-31T00:00:00.000,2022-10-31T00:00:00.000,Exempt,65000.0
+163,Human Resources,Human Resources,Tota Abnce Mgmt Spec (HR only),Permanent Full-time,2020-12-14T00:00:00.000,2020-12-14T00:00:00.000,Nonexempt,48667.5
+164,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,1983-10-06T00:00:00.000,2017-07-22T00:00:00.000,Nonexempt,19.35
+165,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-01-14T00:00:00.000,2023-01-14T00:00:00.000,Nonexempt,20.8
+166,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,20.8
+167,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,20.8
+168,Sheriff and Jail,Judicial - Sheriff and Jail,Property Technician - SC,State Comp Board Retirement,2009-09-23T00:00:00.000,2022-08-13T00:00:00.000,Nonexempt,19.26
+169,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,1988-06-28T00:00:00.000,2009-10-23T00:00:00.000,Nonexempt,20.83
+170,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,1988-02-01T00:00:00.000,2017-08-21T00:00:00.000,Nonexempt,20.83
+171,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,20.8
+172,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-08-27T00:00:00.000,2022-08-27T00:00:00.000,Nonexempt,20.8
+173,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,20.8
+174,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-11-19T00:00:00.000,2022-11-19T00:00:00.000,Nonexempt,20.8
+175,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-01-16T00:00:00.000,2021-01-16T00:00:00.000,Nonexempt,22.63
+176,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-03-12T00:00:00.000,2022-03-12T00:00:00.000,Nonexempt,22.63
+177,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2020-10-10T00:00:00.000,2022-04-23T00:00:00.000,Nonexempt,22.63
+178,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-04-10T00:00:00.000,2021-04-10T00:00:00.000,Nonexempt,22.63
+179,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Sheriff - Full TIme,2021-07-03T00:00:00.000,2022-04-23T00:00:00.000,Nonexempt,22.63
+180,Sheriff and Jail,Judicial - Sheriff and Jail,Payroll & Benefits Coordinator,State Comp Board Retirement,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,Nonexempt,21.15
+181,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-08-28T00:00:00.000,2021-08-28T00:00:00.000,Nonexempt,22.63
+182,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,2002-10-08T00:00:00.000,2016-09-08T00:00:00.000,Nonexempt,21.24
+183,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,2003-02-08T00:00:00.000,2003-02-08T00:00:00.000,Nonexempt,21.78
+184,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,2003-02-08T00:00:00.000,2003-02-08T00:00:00.000,Nonexempt,21.78
+185,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,1971-07-26T00:00:00.000,2015-01-15T00:00:00.000,Nonexempt,22.08
+186,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,1972-01-07T00:00:00.000,2015-01-15T00:00:00.000,Nonexempt,22.08
+187,Sheriff and Jail,Judicial - Sheriff and Jail,Public Relations Assistant-SC,State Comp Board Retirement,1980-09-04T00:00:00.000,2017-07-08T00:00:00.000,Nonexempt,22.15
+188,Sheriff and Jail,Judicial - Sheriff and Jail,MicrocomputerSystemsAnalystSC,State Comp Board Retirement,2006-05-23T00:00:00.000,2018-08-18T00:00:00.000,Nonexempt,22.18
+189,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-06-23T00:00:00.000,2018-06-23T00:00:00.000,Nonexempt,22.63
+190,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Sheriff - Full TIme,2020-08-01T00:00:00.000,2020-08-01T00:00:00.000,Nonexempt,22.63
+191,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-07-06T00:00:00.000,2019-07-06T00:00:00.000,Nonexempt,22.63
+192,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Sheriff - Full TIme,2020-12-05T00:00:00.000,2020-12-05T00:00:00.000,Nonexempt,22.63
+193,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-09-25T00:00:00.000,2021-09-25T00:00:00.000,Nonexempt,22.63
+194,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,1988-09-01T00:00:00.000,2010-05-08T00:00:00.000,Nonexempt,21.66
+195,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Constitutional OfficePart-time,1972-10-16T00:00:00.000,2018-09-15T00:00:00.000,Nonexempt,22.63
+196,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Constitutional OfficePart-time,1990-04-04T00:00:00.000,2018-11-24T00:00:00.000,Nonexempt,22.63
+197,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Constitutional OfficePart-time,1996-10-28T00:00:00.000,2016-12-05T00:00:00.000,Nonexempt,23.2
+198,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,Nonexempt,18.0
+199,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,1998-12-18T00:00:00.000,2022-10-08T00:00:00.000,Nonexempt,18.0
+200,Sheriff and Jail,Judicial - Sheriff and Jail,Secretary II,Constitutional OfficePart-time,1978-08-21T00:00:00.000,2021-09-25T00:00:00.000,Nonexempt,18.36
+201,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,1973-11-30T00:00:00.000,2019-01-19T00:00:00.000,Nonexempt,18.36
+202,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,1996-08-13T00:00:00.000,2021-09-25T00:00:00.000,Nonexempt,18.36
+203,Sheriff and Jail,Judicial - Sheriff and Jail,Info Tech Systems Director,State Comp Board Retirement,2015-12-08T00:00:00.000,2015-12-08T00:00:00.000,Exempt,84218.27
+204,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,1994-07-08T00:00:00.000,1997-01-23T00:00:00.000,Nonexempt,40.54
+205,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,1998-08-08T00:00:00.000,2008-07-23T00:00:00.000,Nonexempt,40.54
+206,Sheriff and Jail,Judicial - Sheriff and Jail,Secretary I,State Comp Board Retirement,1997-08-25T00:00:00.000,2019-01-19T00:00:00.000,Nonexempt,19.48
+207,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,2015-07-08T00:00:00.000,2015-07-08T00:00:00.000,Nonexempt,19.8
+208,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,2014-11-08T00:00:00.000,2014-11-08T00:00:00.000,Nonexempt,19.8
+209,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-01-29T00:00:00.000,2022-01-29T00:00:00.000,Nonexempt,22.63
+210,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-03-12T00:00:00.000,2022-03-12T00:00:00.000,Nonexempt,22.63
+211,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2020-12-05T00:00:00.000,2020-12-05T00:00:00.000,Nonexempt,22.63
+212,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-01-16T00:00:00.000,2021-01-16T00:00:00.000,Nonexempt,22.63
+213,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-03-13T00:00:00.000,2021-03-13T00:00:00.000,Nonexempt,22.63
+214,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-08-28T00:00:00.000,2021-08-28T00:00:00.000,Nonexempt,22.63
+215,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Sheriff - Full TIme,2021-07-03T00:00:00.000,2022-04-23T00:00:00.000,Nonexempt,22.63
+216,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-12-04T00:00:00.000,2021-12-04T00:00:00.000,Nonexempt,22.63
+217,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-01-29T00:00:00.000,2022-01-29T00:00:00.000,Nonexempt,22.63
+218,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-10-08T00:00:00.000,2022-10-08T00:00:00.000,Nonexempt,20.8
+219,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-05-21T00:00:00.000,2022-05-21T00:00:00.000,Nonexempt,20.8
+220,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,Nonexempt,22.63
+221,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-08-17T00:00:00.000,2019-08-17T00:00:00.000,Nonexempt,22.63
+222,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-09-28T00:00:00.000,2019-09-28T00:00:00.000,Nonexempt,22.63
+223,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,20.8
+224,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-01-14T00:00:00.000,2023-01-14T00:00:00.000,Nonexempt,20.8
+225,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-05-21T00:00:00.000,2022-05-21T00:00:00.000,Nonexempt,20.8
+226,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-07-16T00:00:00.000,2022-07-16T00:00:00.000,Nonexempt,20.8
+227,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-03-12T00:00:00.000,2022-03-12T00:00:00.000,Nonexempt,20.8
+228,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-07-16T00:00:00.000,2022-07-16T00:00:00.000,Nonexempt,20.8
+229,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-05-21T00:00:00.000,2022-05-21T00:00:00.000,Nonexempt,20.8
+230,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,20.8
+231,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-11-19T00:00:00.000,2022-11-19T00:00:00.000,Nonexempt,20.8
+232,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-05-21T00:00:00.000,2022-05-21T00:00:00.000,Nonexempt,20.8
+233,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,20.8
+234,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-01-14T00:00:00.000,2023-01-14T00:00:00.000,Nonexempt,20.8
+235,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-11-19T00:00:00.000,2022-11-19T00:00:00.000,Nonexempt,20.8
+236,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,20.8
+237,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,20.8
+238,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-07-16T00:00:00.000,2022-07-16T00:00:00.000,Nonexempt,20.8
+239,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,20.8
+240,Sheriff and Jail,Judicial - Sheriff and Jail,Professional Std Office Analys,State Comp Board Retirement,2008-03-26T00:00:00.000,2008-03-26T00:00:00.000,Nonexempt,24.22
+241,Sheriff and Jail,Judicial - Sheriff and Jail,Procurement Specialist - SC,State Comp Board Retirement,2023-01-14T00:00:00.000,2023-01-14T00:00:00.000,Nonexempt,24.23
+242,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk II - SC,State Comp Board Retirement,2000-08-08T00:00:00.000,2000-08-08T00:00:00.000,Nonexempt,24.35
+243,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-04-17T00:00:00.000,2017-04-17T00:00:00.000,Nonexempt,24.37
+244,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,1989-02-06T00:00:00.000,2019-07-06T00:00:00.000,Nonexempt,24.37
+245,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Rehabilitation Coord,State Comp Board Retirement,2021-10-29T00:00:00.000,2022-09-24T00:00:00.000,Nonexempt,24.61
+246,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2010-10-08T00:00:00.000,2018-05-26T00:00:00.000,Nonexempt,25.05
+247,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,2005-07-25T00:00:00.000,2005-07-25T00:00:00.000,Nonexempt,20.81
+248,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2014-07-08T00:00:00.000,2023-01-14T00:00:00.000,Nonexempt,25.05
+249,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-11-08T00:00:00.000,2015-11-08T00:00:00.000,Nonexempt,25.05
+250,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,1998-08-23T00:00:00.000,2019-09-28T00:00:00.000,Nonexempt,25.05
+251,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2014-12-08T00:00:00.000,2014-12-08T00:00:00.000,Nonexempt,25.05
+252,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-02-23T00:00:00.000,2015-02-23T00:00:00.000,Nonexempt,25.05
+253,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2013-09-03T00:00:00.000,2013-09-03T00:00:00.000,Nonexempt,25.05
+254,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2014-04-23T00:00:00.000,2014-04-23T00:00:00.000,Nonexempt,25.05
+255,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2012-09-08T00:00:00.000,2012-09-08T00:00:00.000,Nonexempt,25.05
+256,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2014-05-08T00:00:00.000,2014-05-08T00:00:00.000,Nonexempt,25.05
+257,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2006-05-15T00:00:00.000,2015-05-12T00:00:00.000,Nonexempt,25.05
+258,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-07-08T00:00:00.000,2015-07-08T00:00:00.000,Nonexempt,25.05
+259,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2013-08-23T00:00:00.000,2013-08-23T00:00:00.000,Nonexempt,25.05
+260,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-11-19T00:00:00.000,2022-11-19T00:00:00.000,Nonexempt,20.8
+261,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,20.8
+262,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,1996-05-06T00:00:00.000,2022-10-08T00:00:00.000,Nonexempt,20.8
+263,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,Nonexempt,22.63
+264,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-12-04T00:00:00.000,2021-12-04T00:00:00.000,Nonexempt,22.63
+265,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2020-01-18T00:00:00.000,2020-01-18T00:00:00.000,Nonexempt,22.63
+266,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-11-09T00:00:00.000,2019-11-09T00:00:00.000,Nonexempt,22.63
+267,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-08-28T00:00:00.000,2021-08-28T00:00:00.000,Nonexempt,22.63
+268,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-01-29T00:00:00.000,2022-01-29T00:00:00.000,Nonexempt,22.63
+269,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-01-29T00:00:00.000,2022-01-29T00:00:00.000,Nonexempt,22.63
+270,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-03-02T00:00:00.000,2022-03-12T00:00:00.000,Nonexempt,22.63
+271,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Sheriff - Full TIme,2020-10-10T00:00:00.000,2020-10-10T00:00:00.000,Nonexempt,22.63
+272,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,Nonexempt,22.63
+273,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-02-13T00:00:00.000,2020-01-18T00:00:00.000,Nonexempt,22.63
+274,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-09-28T00:00:00.000,2019-09-28T00:00:00.000,Nonexempt,22.63
+275,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-01-16T00:00:00.000,2021-01-16T00:00:00.000,Nonexempt,22.63
+276,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-07-03T00:00:00.000,2021-07-03T00:00:00.000,Nonexempt,22.63
+277,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-05-21T00:00:00.000,2022-05-21T00:00:00.000,Nonexempt,22.63
+278,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-08-17T00:00:00.000,2019-08-17T00:00:00.000,Nonexempt,22.63
+279,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-08-17T00:00:00.000,2019-08-17T00:00:00.000,Nonexempt,22.63
+280,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-02-13T00:00:00.000,2021-02-13T00:00:00.000,Nonexempt,22.63
+281,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-08-28T00:00:00.000,2021-08-28T00:00:00.000,Nonexempt,22.63
+282,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,Nonexempt,22.63
+283,Sheriff and Jail,Judicial - Sheriff and Jail,Education Programs Specialist,State-Special Proj-Retiremet,2004-01-26T00:00:00.000,2019-02-16T00:00:00.000,Nonexempt,25.1
+284,Sheriff and Jail,Judicial - Sheriff and Jail,Property Technician - SC,State Comp Board Retirement,1994-07-11T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,25.24
+285,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Classif Specialist,State Comp Board Retirement,2000-01-12T00:00:00.000,2004-01-23T00:00:00.000,Nonexempt,25.29
+286,Sheriff and Jail,Judicial - Sheriff and Jail,Assist Procurement Specialist,State Comp Board Retirement,1996-01-02T00:00:00.000,2014-03-23T00:00:00.000,Nonexempt,25.54
+287,Sheriff and Jail,Judicial - Sheriff and Jail,Case Manager III,State Comp Board Retirement,2005-03-28T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,25.96
+288,Sheriff and Jail,Judicial - Sheriff and Jail,Payroll & Benefits Coordinator,State Comp Board Retirement,1988-02-01T00:00:00.000,2017-04-22T00:00:00.000,Nonexempt,26.16
+289,Sheriff and Jail,Judicial - Sheriff and Jail,Education Programs Specialist,State Comp Board Retirement,2011-04-23T00:00:00.000,2014-07-08T00:00:00.000,Nonexempt,26.21
+290,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,1992-01-27T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,26.23
+291,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,1995-07-10T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,26.23
+292,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2008-07-23T00:00:00.000,2017-08-02T00:00:00.000,Nonexempt,26.3
+293,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2007-08-23T00:00:00.000,2019-06-01T00:00:00.000,Nonexempt,26.3
+294,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2008-08-23T00:00:00.000,2008-08-23T00:00:00.000,Nonexempt,26.3
+295,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2012-07-02T00:00:00.000,2013-07-08T00:00:00.000,Nonexempt,26.3
+296,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2010-07-08T00:00:00.000,2010-07-08T00:00:00.000,Nonexempt,26.3
+297,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2007-07-08T00:00:00.000,2010-06-23T00:00:00.000,Nonexempt,26.3
+298,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2012-07-02T00:00:00.000,2013-07-08T00:00:00.000,Nonexempt,26.3
+299,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2008-03-08T00:00:00.000,2008-03-08T00:00:00.000,Nonexempt,26.3
+300,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2007-10-23T00:00:00.000,2007-10-23T00:00:00.000,Nonexempt,26.3
+301,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2008-05-08T00:00:00.000,2017-10-12T00:00:00.000,Nonexempt,26.3
+302,Sheriff and Jail,Judicial - Sheriff and Jail,Procurement Specialist - SC,State Comp Board Retirement,2005-08-23T00:00:00.000,2005-08-23T00:00:00.000,Nonexempt,26.85
+303,Sheriff and Jail,Judicial - Sheriff and Jail,Clinical Mental Health Profess,State Comp Board Retirement,2023-01-14T00:00:00.000,2023-01-14T00:00:00.000,Nonexempt,27.0
+304,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2012-05-08T00:00:00.000,2017-03-09T00:00:00.000,Nonexempt,27.1
+305,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Sheriff - Full TIme,2020-10-10T00:00:00.000,2021-04-10T00:00:00.000,Nonexempt,22.63
+306,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2020-12-21T00:00:00.000,2021-04-10T00:00:00.000,Nonexempt,22.63
+307,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-10-30T00:00:00.000,2021-10-30T00:00:00.000,Nonexempt,22.63
+308,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2020-01-18T00:00:00.000,2020-01-18T00:00:00.000,Nonexempt,22.63
+309,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-12-04T00:00:00.000,2021-12-04T00:00:00.000,Nonexempt,22.63
+310,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-12-04T00:00:00.000,2021-12-04T00:00:00.000,Nonexempt,22.63
+311,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-03-12T00:00:00.000,2022-03-12T00:00:00.000,Nonexempt,22.63
+312,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2016-11-28T00:00:00.000,2019-05-25T00:00:00.000,Nonexempt,23.2
+313,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,23.2
+314,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-07-21T00:00:00.000,2018-07-21T00:00:00.000,Nonexempt,23.2
+315,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-06-23T00:00:00.000,2018-06-23T00:00:00.000,Nonexempt,23.2
+316,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-07-21T00:00:00.000,2018-07-21T00:00:00.000,Nonexempt,23.2
+317,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-07-21T00:00:00.000,2018-07-21T00:00:00.000,Nonexempt,23.2
+318,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-04-13T00:00:00.000,2019-04-13T00:00:00.000,Nonexempt,23.2
+319,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-09-15T00:00:00.000,2018-09-15T00:00:00.000,Nonexempt,23.2
+320,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-05-25T00:00:00.000,2022-04-23T00:00:00.000,Nonexempt,23.2
+321,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-05-25T00:00:00.000,2019-05-25T00:00:00.000,Nonexempt,23.2
+322,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-06-23T00:00:00.000,2018-06-23T00:00:00.000,Nonexempt,23.2
+323,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2016-01-11T00:00:00.000,2018-06-23T00:00:00.000,Nonexempt,23.2
+324,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-11-24T00:00:00.000,2018-11-24T00:00:00.000,Nonexempt,23.2
+325,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-04-13T00:00:00.000,2019-04-13T00:00:00.000,Nonexempt,23.2
+326,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-11-24T00:00:00.000,2018-11-24T00:00:00.000,Nonexempt,23.2
+327,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,23.2
+328,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-11-24T00:00:00.000,2018-11-24T00:00:00.000,Nonexempt,23.2
+329,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-06-23T00:00:00.000,2018-06-23T00:00:00.000,Nonexempt,23.2
+330,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-04-13T00:00:00.000,2019-04-13T00:00:00.000,Nonexempt,23.2
+331,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-10-13T00:00:00.000,2022-03-12T00:00:00.000,Nonexempt,23.2
+332,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-10-13T00:00:00.000,2018-10-13T00:00:00.000,Nonexempt,23.2
+333,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-08-18T00:00:00.000,2018-08-18T00:00:00.000,Nonexempt,23.2
+334,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-08-28T00:00:00.000,2021-08-28T00:00:00.000,Nonexempt,23.2
+335,Sheriff and Jail,Judicial - Sheriff and Jail,Assist Procurement Specialist,State Comp Board Retirement,1988-02-23T00:00:00.000,2021-01-04T00:00:00.000,Nonexempt,23.26
+336,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Constitutional OfficePart-time,1970-03-02T00:00:00.000,2006-05-30T00:00:00.000,Nonexempt,23.4
+337,Sheriff and Jail,Judicial - Sheriff and Jail,Secretary II,State Comp Board Retirement,1982-09-01T00:00:00.000,2020-02-01T00:00:00.000,Nonexempt,23.52
+338,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,2006-01-23T00:00:00.000,2006-01-23T00:00:00.000,Nonexempt,23.52
+339,Sheriff and Jail,Judicial - Sheriff and Jail,Public Relations Assistant-SC,State Comp Board Retirement,2016-01-08T00:00:00.000,2016-01-08T00:00:00.000,Nonexempt,23.73
+340,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-03-31T00:00:00.000,2018-03-31T00:00:00.000,Nonexempt,23.78
+341,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-11-25T00:00:00.000,2017-11-25T00:00:00.000,Nonexempt,23.78
+342,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-12-09T00:00:00.000,2017-12-09T00:00:00.000,Nonexempt,23.78
+343,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-01-20T00:00:00.000,2018-01-20T00:00:00.000,Nonexempt,23.78
+344,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-09-09T00:00:00.000,2017-09-09T00:00:00.000,Nonexempt,23.78
+345,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-10-21T00:00:00.000,2022-04-23T00:00:00.000,Nonexempt,23.78
+346,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-03-31T00:00:00.000,2018-03-31T00:00:00.000,Nonexempt,23.78
+347,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-12-09T00:00:00.000,2017-12-09T00:00:00.000,Nonexempt,23.78
+348,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2016-02-23T00:00:00.000,2023-01-14T00:00:00.000,Nonexempt,23.78
+349,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-04-28T00:00:00.000,2018-04-28T00:00:00.000,Nonexempt,23.78
+350,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-12-09T00:00:00.000,2017-12-09T00:00:00.000,Nonexempt,23.78
+351,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-12-09T00:00:00.000,2017-12-09T00:00:00.000,Nonexempt,23.78
+352,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-05-26T00:00:00.000,2018-05-26T00:00:00.000,Nonexempt,23.78
+353,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-03-31T00:00:00.000,2018-03-31T00:00:00.000,Nonexempt,23.78
+354,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2018-04-14T00:00:00.000,2019-02-16T00:00:00.000,Nonexempt,23.78
+355,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2017-08-26T00:00:00.000,2017-08-26T00:00:00.000,Nonexempt,23.78
+356,Sheriff and Jail,Judicial - Sheriff and Jail,Payroll & Benefits Coordinator,State Comp Board Retirement,2002-07-08T00:00:00.000,2017-10-13T00:00:00.000,Nonexempt,23.79
+357,Sheriff and Jail,Judicial - Sheriff and Jail,Education Programs Specialist,State Comp Board Retirement,2019-05-25T00:00:00.000,2023-01-14T00:00:00.000,Nonexempt,23.93
+358,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Classification Manager,State Comp Board Retirement,2022-11-19T00:00:00.000,2022-11-19T00:00:00.000,Exempt,50054.03
+359,Sheriff and Jail,Judicial - Sheriff and Jail,Secretary II,State Comp Board Retirement,1997-04-23T00:00:00.000,1997-08-01T00:00:00.000,Nonexempt,24.09
+360,Sheriff and Jail,Judicial - Sheriff and Jail,Maintenance Mechanic - SC,State Comp Board Retirement,2009-04-23T00:00:00.000,2009-04-23T00:00:00.000,Nonexempt,24.09
+361,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2009-08-08T00:00:00.000,2009-08-08T00:00:00.000,Nonexempt,29.15
+362,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2009-02-23T00:00:00.000,2009-02-23T00:00:00.000,Nonexempt,29.15
+363,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2009-09-23T00:00:00.000,2009-09-23T00:00:00.000,Nonexempt,29.15
+364,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2007-06-08T00:00:00.000,2007-06-08T00:00:00.000,Nonexempt,29.15
+365,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2009-09-23T00:00:00.000,2009-09-23T00:00:00.000,Nonexempt,29.15
+366,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2008-04-08T00:00:00.000,2008-04-08T00:00:00.000,Nonexempt,29.15
+367,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2009-04-08T00:00:00.000,2009-04-08T00:00:00.000,Nonexempt,29.15
+368,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2012-09-08T00:00:00.000,2012-09-08T00:00:00.000,Nonexempt,25.05
+369,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2008-07-23T00:00:00.000,2010-06-23T00:00:00.000,Nonexempt,29.78
+370,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2008-10-08T00:00:00.000,2008-10-08T00:00:00.000,Nonexempt,29.78
+371,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2014-07-23T00:00:00.000,2014-07-23T00:00:00.000,Nonexempt,29.78
+372,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2002-03-23T00:00:00.000,2002-03-23T00:00:00.000,Nonexempt,29.88
+373,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2002-07-23T00:00:00.000,2002-07-23T00:00:00.000,Nonexempt,29.88
+374,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2005-11-09T00:00:00.000,2005-11-09T00:00:00.000,Nonexempt,29.88
+375,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2002-08-23T00:00:00.000,2002-08-23T00:00:00.000,Nonexempt,29.88
+376,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2004-01-08T00:00:00.000,2004-01-08T00:00:00.000,Nonexempt,29.88
+377,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2005-08-08T00:00:00.000,2005-08-08T00:00:00.000,Nonexempt,29.88
+378,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2004-04-23T00:00:00.000,2004-04-23T00:00:00.000,Nonexempt,29.88
+379,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2002-04-23T00:00:00.000,2002-04-23T00:00:00.000,Nonexempt,29.88
+380,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2002-11-08T00:00:00.000,2002-11-08T00:00:00.000,Nonexempt,29.88
+381,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-12-04T00:00:00.000,2021-12-04T00:00:00.000,Nonexempt,22.63
+382,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2009-06-17T00:00:00.000,2022-03-12T00:00:00.000,Nonexempt,22.63
+383,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2019-11-09T00:00:00.000,2019-11-09T00:00:00.000,Nonexempt,22.63
+384,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2021-08-28T00:00:00.000,2021-08-28T00:00:00.000,Nonexempt,22.63
+385,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2014-07-23T00:00:00.000,2014-07-23T00:00:00.000,Nonexempt,25.05
+386,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-01-08T00:00:00.000,2015-01-08T00:00:00.000,Nonexempt,25.05
+387,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-01-23T00:00:00.000,2015-01-23T00:00:00.000,Nonexempt,25.05
+388,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,1998-08-23T00:00:00.000,2019-09-28T00:00:00.000,Nonexempt,25.05
+389,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-05-21T00:00:00.000,2015-05-21T00:00:00.000,Nonexempt,25.05
+390,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2016-05-08T00:00:00.000,2016-05-08T00:00:00.000,Nonexempt,25.05
+391,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2017-02-06T00:00:00.000,2017-02-06T00:00:00.000,Nonexempt,25.05
+392,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2004-04-08T00:00:00.000,2019-01-19T00:00:00.000,Nonexempt,25.05
+393,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2013-03-08T00:00:00.000,2013-03-08T00:00:00.000,Nonexempt,25.05
+394,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2016-11-08T00:00:00.000,2016-11-08T00:00:00.000,Nonexempt,25.05
+395,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2014-06-23T00:00:00.000,2019-11-09T00:00:00.000,Nonexempt,25.05
+396,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-08-08T00:00:00.000,2015-08-08T00:00:00.000,Nonexempt,25.05
+397,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-08-23T00:00:00.000,2015-08-23T00:00:00.000,Nonexempt,25.05
+398,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2012-08-23T00:00:00.000,2012-08-23T00:00:00.000,Nonexempt,25.05
+399,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-04-08T00:00:00.000,2015-04-08T00:00:00.000,Nonexempt,25.05
+400,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2017-03-13T00:00:00.000,2017-03-13T00:00:00.000,Nonexempt,25.05
+401,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2013-08-23T00:00:00.000,2015-02-23T00:00:00.000,Nonexempt,25.05
+402,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2016-08-23T00:00:00.000,2016-08-23T00:00:00.000,Nonexempt,25.05
+403,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2016-08-23T00:00:00.000,2016-08-23T00:00:00.000,Nonexempt,25.05
+404,Sheriff and Jail,Sheriff - InmateClassification,Inmate Classif Specialist,State Comp Board Retirement,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,23.64
+405,Sheriff and Jail,Sheriff - InmateClassification,Inmate Classif Specialist,State-Special Proj-Retiremet,2008-01-08T00:00:00.000,2020-02-15T00:00:00.000,Nonexempt,24.37
+406,Sheriff and Jail,Sheriff - RSAT,Inmate Rehabilitation Coord,State-Special Proj-Retiremet,2008-07-23T00:00:00.000,2022-11-19T00:00:00.000,Nonexempt,24.37
+407,Sheriff and Jail,Sheriff - RSAT,Counselor IV,State-Special Proj-Retiremet,2021-08-28T00:00:00.000,2021-08-28T00:00:00.000,Exempt,55650.0
+408,Sheriff and Jail,Sheriff's 811 Market Place Prg,Secretary II,Constitutional OfficePart-time,1980-09-29T00:00:00.000,2022-11-19T00:00:00.000,Nonexempt,29.37
+409,Sheriff and Jail,Sheriff's 811 Market Place Prg,811 Food Service Worker,Constitutional OfficePart-time,2007-05-21T00:00:00.000,2021-07-17T00:00:00.000,Nonexempt,18.36
+410,Sheriff and Jail,Sheriff's 811 Market Place Prg,811 Food Service Worker,Sheriff - Full TIme,2014-07-08T00:00:00.000,2021-07-17T00:00:00.000,Nonexempt,19.76
+411,Sheriff and Jail,Sheriff's 811 Market Place Prg,811 Food Service Worker,Constitutional OfficePart-time,1992-12-04T00:00:00.000,2020-08-29T00:00:00.000,Nonexempt,21.19
+412,Sheriff and Jail,Sheriff's 811 Market Place Prg,811 Food Service Manager,State-Special Proj-Retiremet,2016-05-04T00:00:00.000,2019-05-25T00:00:00.000,Nonexempt,22.75
+413,Sheriff and Jail,Judicial - Sheriff and Jail,Public Affairs Officer,State Comp Board Retirement,2021-04-10T00:00:00.000,2021-04-10T00:00:00.000,Exempt,68238.32
+414,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2008-07-23T00:00:00.000,2008-07-23T00:00:00.000,Nonexempt,32.85
+415,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2008-07-08T00:00:00.000,2008-07-08T00:00:00.000,Nonexempt,32.85
+416,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2007-12-08T00:00:00.000,2012-12-23T00:00:00.000,Nonexempt,32.85
+417,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2006-09-23T00:00:00.000,2017-06-24T00:00:00.000,Nonexempt,32.85
+418,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2012-07-02T00:00:00.000,2019-06-01T00:00:00.000,Nonexempt,33.33
+419,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2012-01-08T00:00:00.000,2012-01-08T00:00:00.000,Nonexempt,33.33
+420,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2004-01-08T00:00:00.000,2015-08-23T00:00:00.000,Nonexempt,33.68
+421,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2006-05-08T00:00:00.000,2006-05-08T00:00:00.000,Nonexempt,33.68
+422,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2005-05-08T00:00:00.000,2005-05-08T00:00:00.000,Nonexempt,33.68
+423,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2000-12-08T00:00:00.000,2000-12-08T00:00:00.000,Nonexempt,33.68
+424,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2004-10-23T00:00:00.000,2004-10-23T00:00:00.000,Nonexempt,33.68
+425,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2004-04-08T00:00:00.000,2004-04-08T00:00:00.000,Nonexempt,33.68
+426,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2014-03-23T00:00:00.000,2014-03-23T00:00:00.000,Nonexempt,27.1
+427,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2017-07-22T00:00:00.000,2017-07-22T00:00:00.000,Nonexempt,27.1
+428,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2015-04-08T00:00:00.000,2015-04-08T00:00:00.000,Nonexempt,27.1
+429,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2015-08-23T00:00:00.000,2015-08-23T00:00:00.000,Nonexempt,27.1
+430,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2018-10-13T00:00:00.000,2018-10-13T00:00:00.000,Nonexempt,27.1
+431,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,1980-10-08T00:00:00.000,2018-08-18T00:00:00.000,Nonexempt,27.54
+432,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2015-06-08T00:00:00.000,2015-06-08T00:00:00.000,Nonexempt,27.69
+433,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2015-09-08T00:00:00.000,2015-09-08T00:00:00.000,Nonexempt,27.69
+434,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2015-07-23T00:00:00.000,2015-07-23T00:00:00.000,Nonexempt,27.69
+435,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2016-08-23T00:00:00.000,2016-08-23T00:00:00.000,Nonexempt,27.69
+436,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2010-07-08T00:00:00.000,2020-02-01T00:00:00.000,Nonexempt,27.77
+437,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1985-10-19T00:00:00.000,2011-07-23T00:00:00.000,Nonexempt,27.77
+438,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2013-06-23T00:00:00.000,2013-06-23T00:00:00.000,Nonexempt,27.77
+439,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2010-10-08T00:00:00.000,2010-10-08T00:00:00.000,Nonexempt,27.77
+440,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2014-01-08T00:00:00.000,2014-01-08T00:00:00.000,Nonexempt,27.77
+441,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2012-07-02T00:00:00.000,2020-02-01T00:00:00.000,Nonexempt,27.77
+442,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2014-01-08T00:00:00.000,2014-01-08T00:00:00.000,Nonexempt,27.77
+443,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2010-08-23T00:00:00.000,2010-08-23T00:00:00.000,Nonexempt,27.77
+444,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2010-07-23T00:00:00.000,2013-07-08T00:00:00.000,Nonexempt,27.77
+445,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2011-10-23T00:00:00.000,2011-10-23T00:00:00.000,Nonexempt,27.77
+446,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2012-07-02T00:00:00.000,2013-07-08T00:00:00.000,Nonexempt,27.77
+447,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2011-10-23T00:00:00.000,2011-10-23T00:00:00.000,Nonexempt,27.77
+448,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2011-08-08T00:00:00.000,2011-08-08T00:00:00.000,Nonexempt,27.77
+449,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Classif Specialist,State Comp Board Retirement,1995-07-24T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,27.89
+450,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2006-03-08T00:00:00.000,2006-03-08T00:00:00.000,Nonexempt,28.31
+451,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2005-12-08T00:00:00.000,2005-12-08T00:00:00.000,Nonexempt,28.31
+452,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2006-07-08T00:00:00.000,2015-05-21T00:00:00.000,Nonexempt,28.31
+453,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2002-11-08T00:00:00.000,2019-01-19T00:00:00.000,Nonexempt,28.31
+454,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2003-09-29T00:00:00.000,2006-07-12T00:00:00.000,Nonexempt,28.31
+455,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2002-01-23T00:00:00.000,2003-12-08T00:00:00.000,Nonexempt,28.31
+456,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2005-11-09T00:00:00.000,2005-11-09T00:00:00.000,Nonexempt,28.31
+457,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2006-10-23T00:00:00.000,2011-02-08T00:00:00.000,Nonexempt,28.37
+458,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2002-09-03T00:00:00.000,2016-01-08T00:00:00.000,Nonexempt,28.37
+459,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2011-01-23T00:00:00.000,2011-01-23T00:00:00.000,Nonexempt,28.37
+460,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2012-05-11T00:00:00.000,2013-07-08T00:00:00.000,Nonexempt,28.37
+461,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2014-09-23T00:00:00.000,2014-09-23T00:00:00.000,Nonexempt,28.37
+462,Sheriff and Jail,Judicial - Sheriff and Jail,Assist Procurement Specialist,State Comp Board Retirement,2001-12-23T00:00:00.000,2001-12-23T00:00:00.000,Nonexempt,28.8
+463,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Classif Specialist,State Comp Board Retirement,1998-05-23T00:00:00.000,1998-05-23T00:00:00.000,Nonexempt,28.85
+464,Sheriff and Jail,Judicial - Sheriff and Jail,Payroll & Benefits Coordinator,State Comp Board Retirement,1977-12-16T00:00:00.000,2018-05-12T00:00:00.000,Nonexempt,29.15
+465,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2006-05-23T00:00:00.000,2006-05-23T00:00:00.000,Nonexempt,29.15
+466,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2006-03-08T00:00:00.000,2006-03-08T00:00:00.000,Nonexempt,29.15
+467,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2006-10-08T00:00:00.000,2006-10-08T00:00:00.000,Nonexempt,29.15
+468,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2006-06-23T00:00:00.000,2006-06-23T00:00:00.000,Nonexempt,29.15
+469,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2008-05-08T00:00:00.000,2008-05-08T00:00:00.000,Nonexempt,29.15
+470,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2008-03-08T00:00:00.000,2010-06-23T00:00:00.000,Nonexempt,29.15
+471,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2009-01-23T00:00:00.000,2009-01-23T00:00:00.000,Nonexempt,29.15
+472,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2008-11-23T00:00:00.000,2008-11-23T00:00:00.000,Nonexempt,29.15
+473,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2007-01-08T00:00:00.000,2007-01-08T00:00:00.000,Nonexempt,29.15
+474,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2008-07-08T00:00:00.000,2008-07-08T00:00:00.000,Nonexempt,29.15
+475,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2007-10-23T00:00:00.000,2007-10-23T00:00:00.000,Nonexempt,29.15
+476,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2006-10-23T00:00:00.000,2006-10-23T00:00:00.000,Nonexempt,29.15
+477,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2009-07-23T00:00:00.000,2009-07-23T00:00:00.000,Nonexempt,29.15
+478,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2008-07-23T00:00:00.000,2008-08-05T00:00:00.000,Nonexempt,29.15
+479,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2008-03-08T00:00:00.000,2008-03-08T00:00:00.000,Nonexempt,29.15
+480,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2006-11-27T00:00:00.000,2006-11-27T00:00:00.000,Nonexempt,29.15
+481,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2006-08-08T00:00:00.000,2006-08-08T00:00:00.000,Nonexempt,29.15
+482,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1999-03-23T00:00:00.000,1999-03-23T00:00:00.000,Nonexempt,32.16
+483,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1998-08-23T00:00:00.000,2010-06-23T00:00:00.000,Nonexempt,32.16
+484,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1996-12-18T00:00:00.000,1996-12-18T00:00:00.000,Nonexempt,32.16
+485,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1998-02-23T00:00:00.000,1998-02-23T00:00:00.000,Nonexempt,32.16
+486,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2000-03-08T00:00:00.000,2000-03-08T00:00:00.000,Nonexempt,32.16
+487,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2000-08-23T00:00:00.000,2000-08-23T00:00:00.000,Nonexempt,32.16
+488,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2000-09-23T00:00:00.000,2000-09-23T00:00:00.000,Nonexempt,32.16
+489,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2006-11-27T00:00:00.000,2006-11-27T00:00:00.000,Nonexempt,29.15
+490,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1998-08-23T00:00:00.000,1998-08-23T00:00:00.000,Nonexempt,32.16
+491,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1999-01-08T00:00:00.000,1999-01-08T00:00:00.000,Nonexempt,32.16
+492,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2012-08-23T00:00:00.000,2012-08-23T00:00:00.000,Nonexempt,32.54
+493,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,1996-10-28T00:00:00.000,1996-10-28T00:00:00.000,Nonexempt,32.79
+494,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,1998-09-08T00:00:00.000,1998-09-08T00:00:00.000,Nonexempt,32.79
+495,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,2013-02-08T00:00:00.000,2013-02-08T00:00:00.000,Nonexempt,20.31
+496,Sheriff and Jail,Judicial - Sheriff and Jail,Secretary II,State Comp Board Retirement,2016-02-23T00:00:00.000,2016-02-23T00:00:00.000,Nonexempt,20.37
+497,Sheriff and Jail,Judicial - Sheriff and Jail,Property Technician - SC,State Comp Board Retirement,2002-03-08T00:00:00.000,2006-12-08T00:00:00.000,Nonexempt,20.58
+498,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-08-27T00:00:00.000,2022-08-27T00:00:00.000,Nonexempt,20.8
+499,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,2022-08-27T00:00:00.000,2022-08-27T00:00:00.000,Nonexempt,20.8
+500,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,20.8
+501,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),State Comp Board Retirement,2022-11-19T00:00:00.000,2022-11-19T00:00:00.000,Nonexempt,20.8
+502,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2014-07-08T00:00:00.000,2018-07-02T00:00:00.000,Nonexempt,25.05
+503,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2015-02-23T00:00:00.000,2015-02-23T00:00:00.000,Nonexempt,25.05
+504,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2016-11-08T00:00:00.000,2016-11-08T00:00:00.000,Nonexempt,25.05
+505,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2013-06-08T00:00:00.000,2013-06-08T00:00:00.000,Nonexempt,25.05
+506,Sheriff and Jail,Judicial - Sheriff and Jail,Executive Assistant - SC,State Comp Board Retirement,2009-04-08T00:00:00.000,2020-07-01T00:00:00.000,Nonexempt,30.22
+507,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,State Comp Board Retirement,1979-06-05T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,30.38
+508,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,2002-11-23T00:00:00.000,2002-11-23T00:00:00.000,Nonexempt,30.47
+509,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2014-08-23T00:00:00.000,2014-08-23T00:00:00.000,Nonexempt,30.53
+510,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2002-09-05T00:00:00.000,2007-12-08T00:00:00.000,Nonexempt,31.29
+511,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2012-05-08T00:00:00.000,2012-05-08T00:00:00.000,Nonexempt,31.29
+512,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2003-09-29T00:00:00.000,2003-09-29T00:00:00.000,Nonexempt,31.29
+513,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2008-05-08T00:00:00.000,2008-05-08T00:00:00.000,Nonexempt,31.29
+514,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2004-10-23T00:00:00.000,2004-10-23T00:00:00.000,Nonexempt,31.29
+515,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2003-10-23T00:00:00.000,2003-10-23T00:00:00.000,Nonexempt,31.29
+516,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2013-06-08T00:00:00.000,2013-06-08T00:00:00.000,Nonexempt,31.29
+517,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2007-03-23T00:00:00.000,2007-03-23T00:00:00.000,Nonexempt,31.29
+518,Sheriff and Jail,Judicial - Sheriff and Jail,HR Administrator - SC,State Comp Board Retirement,2002-09-03T00:00:00.000,2021-08-28T00:00:00.000,Exempt,65100.0
+519,Sheriff and Jail,Judicial - Sheriff and Jail,Network Engineer - SC,State Comp Board Retirement,2013-11-08T00:00:00.000,2013-11-08T00:00:00.000,Nonexempt,32.02
+520,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2001-01-22T00:00:00.000,2010-06-23T00:00:00.000,Nonexempt,32.16
+521,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1997-09-23T00:00:00.000,1997-09-23T00:00:00.000,Nonexempt,32.16
+522,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,1997-08-08T00:00:00.000,1997-08-08T00:00:00.000,Nonexempt,38.61
+523,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,1999-05-08T00:00:00.000,1999-05-08T00:00:00.000,Nonexempt,38.61
+524,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,1996-10-28T00:00:00.000,1996-10-28T00:00:00.000,Nonexempt,39.01
+525,Sheriff and Jail,Judicial - Sheriff and Jail,Fiscal Manager - SC,State Comp Board Retirement,1999-02-16T00:00:00.000,1999-08-30T00:00:00.000,Exempt,81445.37
+526,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,2011-07-23T00:00:00.000,2019-06-01T00:00:00.000,Exempt,83085.0
+527,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,2000-03-08T00:00:00.000,2008-06-23T00:00:00.000,Exempt,96182.0
+528,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,2000-03-08T00:00:00.000,2000-03-08T00:00:00.000,Exempt,96182.0
+529,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1998-02-23T00:00:00.000,1998-02-23T00:00:00.000,Nonexempt,32.16
+530,Sheriff and Jail,Judicial - Sheriff and Jail,HR Administrator - SC,State Comp Board Retirement,2022-08-13T00:00:00.000,2022-08-13T00:00:00.000,Exempt,86000.0
+531,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2009-02-23T00:00:00.000,2009-02-23T00:00:00.000,Nonexempt,41.55
+532,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,2003-09-29T00:00:00.000,2005-11-28T00:00:00.000,Exempt,91602.0
+533,Sheriff and Jail,Judicial - Sheriff and Jail,Work Release Van Driver,State-Special Proj-Retiremet,2018-04-28T00:00:00.000,2022-12-17T00:00:00.000,Nonexempt,19.87
+534,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,State Comp Board Retirement,2008-08-08T00:00:00.000,2008-08-08T00:00:00.000,Nonexempt,20.26
+535,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,1995-08-01T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,34.61
+536,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,2004-11-23T00:00:00.000,2004-11-23T00:00:00.000,Exempt,91602.0
+537,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,2004-01-08T00:00:00.000,2004-01-08T00:00:00.000,Exempt,91602.0
+538,Sheriff and Jail,Judicial - Sheriff and Jail,Corrections Director,State Comp Board Retirement,1985-11-14T00:00:00.000,2019-01-19T00:00:00.000,Exempt,93766.03
+539,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,1998-02-23T00:00:00.000,2007-06-23T00:00:00.000,Exempt,96182.0
+540,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,1982-05-19T00:00:00.000,2014-01-08T00:00:00.000,Nonexempt,35.0
+541,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),State Comp Board Retirement,1989-07-11T00:00:00.000,2007-12-08T00:00:00.000,Nonexempt,35.29
+542,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,1995-11-15T00:00:00.000,1996-05-15T00:00:00.000,Exempt,98586.0
+543,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieut Col),State Comp Board Retirement,2000-11-20T00:00:00.000,2021-01-04T00:00:00.000,Exempt,103069.0
+544,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieut Col),State Comp Board Retirement,1993-11-13T00:00:00.000,1996-05-15T00:00:00.000,Exempt,105645.0
+545,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieut Col),State Comp Board Retirement,1994-06-20T00:00:00.000,1996-05-15T00:00:00.000,Exempt,113701.0
+546,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Colonel),State Comp Board Retirement,1986-07-07T00:00:00.000,1996-05-15T00:00:00.000,Exempt,140958.0
+547,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Classification Manager,State Comp Board Retirement,2001-11-23T00:00:00.000,2001-11-23T00:00:00.000,Exempt,70994.3
+548,Sheriff and Jail,Judicial - Sheriff and Jail,Facilities Manager - SC,State Comp Board Retirement,2007-11-23T00:00:00.000,2007-11-23T00:00:00.000,Exempt,79104.36
+549,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2008-07-08T00:00:00.000,2008-07-08T00:00:00.000,Nonexempt,35.0
+550,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2000-11-20T00:00:00.000,2009-08-23T00:00:00.000,Nonexempt,35.0
+551,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2007-06-08T00:00:00.000,2007-06-08T00:00:00.000,Nonexempt,35.0
+552,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2007-07-23T00:00:00.000,2007-07-23T00:00:00.000,Nonexempt,35.0
+553,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2005-07-23T00:00:00.000,2005-07-23T00:00:00.000,Nonexempt,35.87
+554,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,1994-10-08T00:00:00.000,2008-06-23T00:00:00.000,Nonexempt,36.24
+555,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2001-01-22T00:00:00.000,2001-01-22T00:00:00.000,Nonexempt,35.36
+556,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),State Comp Board Retirement,2002-09-08T00:00:00.000,2003-10-08T00:00:00.000,Nonexempt,35.36
+557,Sheriff and Jail,Judicial - Sheriff and Jail,Sheriff,State Comp Board Retirement,1985-09-03T00:00:00.000,2017-02-01T00:00:00.000,Exempt,183119.58
+558,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,2018-10-13T00:00:00.000,2020-01-18T00:00:00.000,Exempt,98586.0
+559,Sheriff and Jail,Judicial - Sheriff and Jail,Fiscal Manager - SC,State Comp Board Retirement,1971-10-12T00:00:00.000,2004-08-02T00:00:00.000,Exempt,76384.26
+560,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),State Comp Board Retirement,2003-12-08T00:00:00.000,2003-12-08T00:00:00.000,Nonexempt,37.66
+561,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,1975-12-22T00:00:00.000,2020-10-10T00:00:00.000,Exempt,96182.0
+562,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2002-06-08T00:00:00.000,2002-06-08T00:00:00.000,Nonexempt,29.88
+563,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),State Comp Board Retirement,2003-07-08T00:00:00.000,2003-07-08T00:00:00.000,Nonexempt,29.88
+564,Sheriff and Jail,Judicial - Sheriff and Jail,Clinical Mental Health Profess,State Comp Board Retirement,2022-10-08T00:00:00.000,2022-10-08T00:00:00.000,Nonexempt,30.0
+565,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),State Comp Board Retirement,1996-10-28T00:00:00.000,1996-10-28T00:00:00.000,Exempt,98586.0
+566,Public Health,Public Health Vector Control,Environmental Health Asst I,Permanent Full-time,2016-04-08T00:00:00.000,2016-04-08T00:00:00.000,Nonexempt,37440.0
+567,Public Health,Public Health Vector Control,Environmental Health Asst I,Permanent Full-time,2022-10-11T00:00:00.000,2022-10-11T00:00:00.000,Nonexempt,38000.0
+568,Public Health,Public Health Vector Control,Groundskeeper Crew Leader,Permanent Full-time,2017-12-18T00:00:00.000,2022-02-28T00:00:00.000,Nonexempt,42284.0
+569,Public Health,Public Health Vector Control,Refuse Inspector,Permanent Full-time,2014-09-23T00:00:00.000,2016-03-08T00:00:00.000,Nonexempt,44130.61
+570,Public Health,Public Health Vector Control,Refuse Inspector,Permanent Full-time,2016-04-25T00:00:00.000,2016-04-25T00:00:00.000,Nonexempt,44130.61
+571,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2016-11-08T00:00:00.000,2016-11-08T00:00:00.000,Nonexempt,52794.04
+572,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2005-08-22T00:00:00.000,2011-12-08T00:00:00.000,Nonexempt,52138.04
+573,Human Services,Hum Svc Div of Social Services,Fraud Investigator,Permanent Full-time,2005-10-24T00:00:00.000,2023-03-25T00:00:00.000,Nonexempt,53432.58
+574,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2013-03-04T00:00:00.000,2016-10-24T00:00:00.000,Nonexempt,52679.27
+575,Human Services,Hum Svc Div of Social Services,Family Services Worker III,Permanent Full-time,2014-12-23T00:00:00.000,2022-09-24T00:00:00.000,Exempt,53760.01
+576,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2007-06-25T00:00:00.000,2007-06-25T00:00:00.000,Nonexempt,45350.13
+577,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,1998-05-23T00:00:00.000,2002-09-23T00:00:00.000,Nonexempt,46234.62
+578,Human Services,Hum Svc Div of Social Services,Fiscal Monitoring Spec I,Permanent Full-time,2006-03-27T00:00:00.000,2022-04-25T00:00:00.000,Exempt,46336.5
+579,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2020-06-20T00:00:00.000,2020-06-20T00:00:00.000,Nonexempt,49034.13
+580,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2020-11-07T00:00:00.000,2020-11-07T00:00:00.000,Nonexempt,48764.33
+581,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2020-11-07T00:00:00.000,2020-11-07T00:00:00.000,Nonexempt,48764.33
+582,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2022-04-11T00:00:00.000,2022-04-11T00:00:00.000,Nonexempt,48825.0
+583,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2000-01-10T00:00:00.000,2000-01-10T00:00:00.000,Nonexempt,53909.9
+584,Human Services,Hum Svc Div of Social Services,Fiscal Monitoring Spec I,Permanent Full-time,2001-08-20T00:00:00.000,2017-09-18T00:00:00.000,Exempt,49173.34
+585,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2021-01-19T00:00:00.000,2021-01-19T00:00:00.000,Nonexempt,49208.25
+586,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2000-01-10T00:00:00.000,2000-01-10T00:00:00.000,Nonexempt,53909.9
+587,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2014-12-23T00:00:00.000,2021-02-27T00:00:00.000,Exempt,54177.3
+588,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2014-12-08T00:00:00.000,2014-12-08T00:00:00.000,Nonexempt,48673.47
+589,Human Services,Hum Svc Div of Social Services,Management Analyst I,Permanent Full-time,2000-11-20T00:00:00.000,2017-04-03T00:00:00.000,Exempt,54859.9
+590,Human Services,Hum Svc Div of Social Services,Fiscal Monitoring Spec II,Permanent Full-time,2020-11-07T00:00:00.000,2021-08-14T00:00:00.000,Exempt,55125.0
+591,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2008-07-14T00:00:00.000,2022-08-27T00:00:00.000,Exempt,55145.52
+592,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2014-12-08T00:00:00.000,2022-08-27T00:00:00.000,Exempt,55145.52
+593,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,1994-02-08T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,55258.01
+594,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2004-06-21T00:00:00.000,2021-05-08T00:00:00.000,Nonexempt,55316.82
+595,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist II,Permanent Full-time,2015-10-05T00:00:00.000,2015-10-05T00:00:00.000,Nonexempt,53856.61
+596,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-11-19T00:00:00.000,2022-11-19T00:00:00.000,Nonexempt,49300.5
+597,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2013-03-11T00:00:00.000,2022-07-05T00:00:00.000,Exempt,54048.97
+598,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2020-02-01T00:00:00.000,2020-02-01T00:00:00.000,Exempt,54079.03
+599,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2018-08-20T00:00:00.000,2021-04-24T00:00:00.000,Nonexempt,49424.55
+600,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2014-01-21T00:00:00.000,2019-11-12T00:00:00.000,Exempt,51720.57
+601,Human Services,Hum Svc Div of Social Services,Administrative Analyst,Permanent Full-time,2017-07-24T00:00:00.000,2021-08-02T00:00:00.000,Exempt,54470.56
+602,Human Services,Hum Svc Div of Social Services,Business Manager,Permanent Full-time,2021-02-27T00:00:00.000,2021-12-18T00:00:00.000,Exempt,51765.0
+603,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2013-09-25T00:00:00.000,2015-09-23T00:00:00.000,Nonexempt,51905.93
+604,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2014-05-23T00:00:00.000,2020-03-16T00:00:00.000,Nonexempt,51912.0
+605,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2021-09-20T00:00:00.000,2021-09-20T00:00:00.000,Nonexempt,44417.1
+606,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2022-07-05T00:00:00.000,2022-07-05T00:00:00.000,Nonexempt,44417.1
+607,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,2019-02-19T00:00:00.000,2021-03-29T00:00:00.000,Nonexempt,44417.21
+608,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,2014-08-08T00:00:00.000,2019-09-16T00:00:00.000,Nonexempt,45013.22
+609,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2022-10-22T00:00:00.000,2022-10-22T00:00:00.000,Exempt,55500.0
+610,Human Services,Hum Svc Div of Social Services,Accountant II,Permanent Full-time,2022-02-28T00:00:00.000,2022-02-28T00:00:00.000,Exempt,49350.0
+611,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2003-02-23T00:00:00.000,2021-04-24T00:00:00.000,Nonexempt,49424.55
+612,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2019-05-11T00:00:00.000,2021-05-22T00:00:00.000,Exempt,51720.57
+613,Human Services,Hum Svc Juvenile Detention Ctr,Maintenance Supervisor I,Permanent Full-time,2012-03-19T00:00:00.000,2014-02-24T00:00:00.000,Exempt,47768.5
+614,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2014-09-23T00:00:00.000,2019-07-08T00:00:00.000,Exempt,51720.57
+615,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2014-06-23T00:00:00.000,2020-09-12T00:00:00.000,Nonexempt,49749.0
+616,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2016-08-29T00:00:00.000,2018-12-10T00:00:00.000,Nonexempt,49889.91
+617,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2002-04-29T00:00:00.000,2002-04-29T00:00:00.000,Nonexempt,50059.53
+618,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,1994-12-08T00:00:00.000,2004-07-01T00:00:00.000,Nonexempt,50059.59
+619,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2008-05-12T00:00:00.000,2020-12-19T00:00:00.000,Nonexempt,50289.75
+620,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2020-09-26T00:00:00.000,2020-09-26T00:00:00.000,Nonexempt,50350.26
+621,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2021-07-17T00:00:00.000,2022-11-07T00:00:00.000,Nonexempt,50426.25
+622,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,2012-11-05T00:00:00.000,2019-05-28T00:00:00.000,Nonexempt,45013.22
+623,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,2014-05-08T00:00:00.000,2019-05-28T00:00:00.000,Nonexempt,45241.57
+624,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2005-04-08T00:00:00.000,2007-02-12T00:00:00.000,Nonexempt,45438.88
+625,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2005-09-12T00:00:00.000,2005-09-12T00:00:00.000,Nonexempt,46574.5
+626,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Supervisor,Permanent Full-time,2016-02-23T00:00:00.000,2020-07-06T00:00:00.000,Exempt,55977.09
+627,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2014-05-08T00:00:00.000,2020-01-06T00:00:00.000,Nonexempt,49681.66
+628,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Asst Supt,Permanent Full-time,2008-07-14T00:00:00.000,2008-07-14T00:00:00.000,Exempt,87158.64
+629,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Asst Supt,Permanent Full-time,1995-07-05T00:00:00.000,2008-07-07T00:00:00.000,Exempt,96207.52
+630,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Supt,Permanent Full-time,2018-03-19T00:00:00.000,2018-03-19T00:00:00.000,Exempt,135023.11
+631,Human Services,Hum Svc Div of Social Services,Office Assistant,Permanent Full-time,2022-08-29T00:00:00.000,2022-08-29T00:00:00.000,Nonexempt,37440.0
+632,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2021-12-06T00:00:00.000,2022-05-09T00:00:00.000,Nonexempt,37440.0
+633,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-04-11T00:00:00.000,2022-10-08T00:00:00.000,Nonexempt,37440.0
+634,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2009-06-22T00:00:00.000,2019-04-27T00:00:00.000,Nonexempt,37440.0
+635,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2017-07-31T00:00:00.000,2022-07-05T00:00:00.000,Exempt,55401.84
+636,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,1989-07-16T00:00:00.000,2005-09-12T00:00:00.000,Nonexempt,70118.17
+637,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2014-05-08T00:00:00.000,2020-12-21T00:00:00.000,Nonexempt,55875.6
+638,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2001-01-02T00:00:00.000,2011-12-19T00:00:00.000,Nonexempt,55969.22
+639,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-04-11T00:00:00.000,2022-04-11T00:00:00.000,Nonexempt,37440.0
+640,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2022-05-23T00:00:00.000,2022-05-23T00:00:00.000,Nonexempt,37440.0
+641,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-08-01T00:00:00.000,2022-08-01T00:00:00.000,Nonexempt,37440.0
+642,Human Services,Hum Svc Div of Social Services,Accounting Technician II,Permanent Full-time,2006-08-02T00:00:00.000,2020-07-06T00:00:00.000,Nonexempt,37940.0
+643,Human Services,Hum Svc Div of Social Services,Family Services Associate,Permanent Full-time,2020-03-14T00:00:00.000,2020-03-14T00:00:00.000,Nonexempt,37940.0
+644,Human Services,Hum Svc Div of Social Services,Accounting Technician II,Permanent Full-time,2006-10-02T00:00:00.000,2011-07-01T00:00:00.000,Nonexempt,37940.0
+645,Human Services,Hum Svc Div of Social Services,Accounting Technician II,Permanent Full-time,2020-07-06T00:00:00.000,2020-07-06T00:00:00.000,Nonexempt,37940.0
+646,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,1996-04-22T00:00:00.000,1997-02-24T00:00:00.000,Nonexempt,37946.82
+647,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2023-02-11T00:00:00.000,2023-02-11T00:00:00.000,Nonexempt,38440.0
+648,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2022-07-18T00:00:00.000,2022-07-18T00:00:00.000,Nonexempt,38440.0
+649,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2022-10-22T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,38440.0
+650,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,38440.0
+651,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2022-10-22T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,38440.0
+652,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2022-07-05T00:00:00.000,2022-07-05T00:00:00.000,Nonexempt,38440.0
+653,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2016-11-09T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,38440.0
+654,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Intermittent Temporary,1987-09-16T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,23.26
+655,Human Services,Hum Svc Juvenile Detention Ctr,Food Service Manager,Permanent Full-time,2012-01-02T00:00:00.000,2012-01-02T00:00:00.000,Exempt,49941.72
+656,Human Services,Hum Svc Juvenile Detention Ctr,Business Manager,Permanent Full-time,2017-11-13T00:00:00.000,2020-10-26T00:00:00.000,Exempt,51765.2
+657,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,2000-03-08T00:00:00.000,2008-09-21T00:00:00.000,Nonexempt,56146.7
+658,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,2008-08-11T00:00:00.000,2016-10-09T00:00:00.000,Nonexempt,57947.99
+659,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,1999-01-08T00:00:00.000,2018-01-21T00:00:00.000,Nonexempt,59581.15
+660,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,2000-01-10T00:00:00.000,2005-09-12T00:00:00.000,Nonexempt,61975.67
+661,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,1996-02-23T00:00:00.000,2001-04-08T00:00:00.000,Nonexempt,63524.53
+662,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Supervisor,Permanent Full-time,2007-06-04T00:00:00.000,2007-06-04T00:00:00.000,Exempt,64744.64
+663,Human Services,Human Services - VJCCCA,Detention Center Supervisor,Permanent Full-time,2008-06-16T00:00:00.000,2008-06-16T00:00:00.000,Exempt,69723.0
+664,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Permanent Full-time,1981-09-01T00:00:00.000,2016-01-23T00:00:00.000,Nonexempt,71748.17
+665,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Supervisor,Permanent Full-time,1990-10-01T00:00:00.000,2016-06-13T00:00:00.000,Exempt,73196.48
+666,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Supervisor,Permanent Full-time,1996-02-23T00:00:00.000,2019-02-19T00:00:00.000,Exempt,75248.71
+667,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Supervisor,Permanent Full-time,1989-01-22T00:00:00.000,2008-06-02T00:00:00.000,Exempt,82880.05
+668,Human Services,Human Services Detention Ctr,Human Services Aide,Permanent Full-time,2018-04-16T00:00:00.000,2021-10-25T00:00:00.000,Nonexempt,37440.0
+669,Human Services,Human Services Detention Ctr,Human Services Aide,Permanent Full-time,2022-10-22T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,37440.0
+670,Human Services,Human Services Detention Ctr,Benefit Programs Specialist I,Permanent Full-time,2020-07-06T00:00:00.000,2022-07-05T00:00:00.000,Nonexempt,38440.0
+671,Human Services,Human Services Detention Ctr,Benefit Programs Specialist II,Permanent Full-time,2013-07-15T00:00:00.000,2016-02-16T00:00:00.000,Nonexempt,44130.61
+672,Human Services,Human Services Detention Ctr,Benefit Programs Specialist II,Permanent Full-time,2013-03-04T00:00:00.000,2016-02-16T00:00:00.000,Nonexempt,44130.61
+673,Human Services,Human Services Detention Ctr,Management Analyst II,Special Project w/ Retirement,2003-07-01T00:00:00.000,2023-02-25T00:00:00.000,Exempt,50243.0
+674,Human Services,Human Services Detention Ctr,Benefit Programs Supervisor,Permanent Full-time,2000-12-11T00:00:00.000,2010-04-05T00:00:00.000,Exempt,56494.26
+675,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2020-08-29T00:00:00.000,2020-08-29T00:00:00.000,Nonexempt,37440.0
+676,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-08-29T00:00:00.000,2023-04-10T00:00:00.000,Nonexempt,37440.0
+677,Human Services,Hum Svc Div of Social Services,Maintenance Worker I,Permanent Full-time,2022-11-21T00:00:00.000,2022-11-21T00:00:00.000,Nonexempt,37440.0
+678,Human Services,Hum Svc Div of Social Services,Office Assistant,Permanent Full-time,2000-02-08T00:00:00.000,2000-02-08T00:00:00.000,Nonexempt,37440.0
+679,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2021-12-20T00:00:00.000,2021-12-20T00:00:00.000,Nonexempt,43027.0
+680,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2023-03-25T00:00:00.000,2023-03-25T00:00:00.000,Nonexempt,43500.0
+681,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2023-03-11T00:00:00.000,2023-03-11T00:00:00.000,Nonexempt,43500.0
+682,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-07-18T00:00:00.000,2022-07-18T00:00:00.000,Nonexempt,43500.0
+683,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-12-03T00:00:00.000,2022-12-03T00:00:00.000,Nonexempt,43500.0
+684,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2023-04-22T00:00:00.000,2023-04-22T00:00:00.000,Nonexempt,43500.0
+685,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-07-05T00:00:00.000,2022-07-05T00:00:00.000,Nonexempt,43500.0
+686,Human Services,Hum Svc Div of Social Services,Data Quality Control Manager,Permanent Full-time,2011-06-13T00:00:00.000,2020-08-29T00:00:00.000,Nonexempt,43702.33
+687,Human Services,Hum Svc Div of Social Services,Administrative Assistant II,Permanent Full-time,2014-05-08T00:00:00.000,2014-05-08T00:00:00.000,Nonexempt,43708.69
+688,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,44000.0
+689,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-09-12T00:00:00.000,2022-09-12T00:00:00.000,Nonexempt,44000.0
+690,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2020-09-12T00:00:00.000,2020-09-12T00:00:00.000,Nonexempt,44130.45
+691,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2015-01-12T00:00:00.000,2020-06-06T00:00:00.000,Nonexempt,44130.45
+692,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2013-06-11T00:00:00.000,2020-09-12T00:00:00.000,Nonexempt,44130.45
+693,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2010-11-23T00:00:00.000,2021-05-24T00:00:00.000,Nonexempt,44130.45
+694,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-12-18T00:00:00.000,2020-06-06T00:00:00.000,Nonexempt,44130.45
+695,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2018-04-02T00:00:00.000,2021-03-01T00:00:00.000,Nonexempt,44130.45
+696,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2006-06-05T00:00:00.000,2021-05-22T00:00:00.000,Nonexempt,44130.45
+697,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2021-09-13T00:00:00.000,2021-09-13T00:00:00.000,Nonexempt,44130.45
+698,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2020-09-12T00:00:00.000,2020-09-12T00:00:00.000,Nonexempt,44130.45
+699,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2009-07-20T00:00:00.000,2020-08-31T00:00:00.000,Nonexempt,44130.45
+700,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2019-04-13T00:00:00.000,2020-08-31T00:00:00.000,Nonexempt,44130.45
+701,Human Services,Hum Svc Div of Social Services,Management Analyst I,Permanent Full-time,2019-09-03T00:00:00.000,2021-10-25T00:00:00.000,Exempt,44130.45
+702,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-10-23T00:00:00.000,2017-10-23T00:00:00.000,Nonexempt,44130.61
+703,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2021-08-30T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,50699.25
+704,Human Services,Human Services - VJCCCA,Youth Detention Specialist III,Permanent Full-time,1994-02-16T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,70118.12
+705,Human Services,Human Services - VJCCCA,Programs Manager,Special Project No Beneftis,2012-02-08T00:00:00.000,2013-07-01T00:00:00.000,Exempt,35.36
+706,Human Services,Human Services - VJCCCA,Youth Detention Specialist III,Permanent Full-time,1985-08-16T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,79720.19
+707,Human Services,Human Services - VJCCCA,Youth Detention Specialist III,Permanent Full-time,1974-10-15T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,79720.19
+708,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2016-02-23T00:00:00.000,2021-11-08T00:00:00.000,Nonexempt,50750.2
+709,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2015-06-23T00:00:00.000,2017-06-26T00:00:00.000,Nonexempt,50887.8
+710,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist Sr,Permanent Full-time,2015-10-05T00:00:00.000,2015-10-05T00:00:00.000,Nonexempt,50888.17
+711,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,1992-09-23T00:00:00.000,2016-08-23T00:00:00.000,Nonexempt,50980.36
+712,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,1997-10-13T00:00:00.000,2018-08-06T00:00:00.000,Nonexempt,51196.27
+713,Human Services,Hum Svc Div of Social Services,Fiscal Monitoring Spec I,Permanent Full-time,2009-03-16T00:00:00.000,2011-05-09T00:00:00.000,Exempt,51239.19
+714,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2021-10-25T00:00:00.000,2022-10-24T00:00:00.000,Nonexempt,51397.5
+715,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2021-10-25T00:00:00.000,2022-10-24T00:00:00.000,Nonexempt,51397.5
+716,Human Services,Hum Svc Div of Social Services,Microcomputer Systems Analyst,Permanent Full-time,2014-09-23T00:00:00.000,2021-08-16T00:00:00.000,Nonexempt,51719.85
+717,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2014-10-01T00:00:00.000,2020-02-18T00:00:00.000,Exempt,51720.57
+718,Human Services,Hum Svc Div of Social Services,Facilities Manager,Permanent Full-time,2016-01-11T00:00:00.000,2020-01-21T00:00:00.000,Exempt,51720.57
+719,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2017-07-31T00:00:00.000,2021-02-16T00:00:00.000,Exempt,51720.57
+720,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2023-04-08T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,43148.0
+721,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2023-01-28T00:00:00.000,2023-01-28T00:00:00.000,Nonexempt,43148.6
+722,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Intermittent Temporary,1988-01-16T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,20.77
+723,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,1990-10-01T00:00:00.000,2017-04-29T00:00:00.000,Nonexempt,43485.65
+724,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2009-11-30T00:00:00.000,2020-09-28T00:00:00.000,Nonexempt,43489.28
+725,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2021-09-13T00:00:00.000,2021-09-13T00:00:00.000,Nonexempt,44417.1
+726,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2011-06-14T00:00:00.000,2016-09-08T00:00:00.000,Nonexempt,44130.61
+727,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2015-01-09T00:00:00.000,2017-05-01T00:00:00.000,Nonexempt,44130.61
+728,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2016-05-09T00:00:00.000,2016-05-09T00:00:00.000,Nonexempt,44130.61
+729,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-11-06T00:00:00.000,2017-11-06T00:00:00.000,Nonexempt,44130.61
+730,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-08-07T00:00:00.000,2017-08-07T00:00:00.000,Nonexempt,44130.61
+731,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2004-07-19T00:00:00.000,2008-07-14T00:00:00.000,Nonexempt,44130.61
+732,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2013-06-03T00:00:00.000,2014-07-08T00:00:00.000,Nonexempt,44130.61
+733,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-05-08T00:00:00.000,2017-05-08T00:00:00.000,Nonexempt,44130.61
+734,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-11-06T00:00:00.000,2017-11-06T00:00:00.000,Nonexempt,44130.61
+735,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2013-02-25T00:00:00.000,2013-02-25T00:00:00.000,Nonexempt,44130.61
+736,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2015-04-23T00:00:00.000,2015-04-23T00:00:00.000,Nonexempt,44130.61
+737,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2016-05-02T00:00:00.000,2019-11-12T00:00:00.000,Nonexempt,44130.61
+738,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-05-01T00:00:00.000,2017-05-01T00:00:00.000,Nonexempt,44130.61
+739,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2020-03-14T00:00:00.000,2020-04-13T00:00:00.000,Nonexempt,44130.61
+740,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-09-11T00:00:00.000,2018-10-29T00:00:00.000,Nonexempt,44130.61
+741,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2019-09-03T00:00:00.000,2019-09-03T00:00:00.000,Nonexempt,44130.61
+742,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist II,Permanent Full-time,1997-12-23T00:00:00.000,2022-06-06T00:00:00.000,Nonexempt,44130.61
+743,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2017-03-06T00:00:00.000,2017-03-06T00:00:00.000,Nonexempt,44130.61
+744,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-04-03T00:00:00.000,2017-04-03T00:00:00.000,Nonexempt,44130.61
+745,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-10-30T00:00:00.000,2017-10-30T00:00:00.000,Nonexempt,44130.61
+746,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2019-08-03T00:00:00.000,2019-08-03T00:00:00.000,Nonexempt,44130.61
+747,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2019-10-12T00:00:00.000,2019-10-12T00:00:00.000,Nonexempt,44130.61
+748,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2010-09-23T00:00:00.000,2019-02-04T00:00:00.000,Nonexempt,44130.61
+749,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2011-12-19T00:00:00.000,2011-12-19T00:00:00.000,Nonexempt,44130.61
+750,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Intermittent Temporary,2016-05-03T00:00:00.000,2016-05-03T00:00:00.000,Nonexempt,21.22
+751,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2016-05-09T00:00:00.000,2017-10-16T00:00:00.000,Nonexempt,44130.61
+752,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-05-08T00:00:00.000,2019-01-22T00:00:00.000,Nonexempt,44130.61
+753,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2015-10-23T00:00:00.000,2015-10-23T00:00:00.000,Nonexempt,44130.61
+754,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-05-08T00:00:00.000,2017-05-08T00:00:00.000,Nonexempt,44130.61
+755,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2019-04-13T00:00:00.000,2019-04-13T00:00:00.000,Nonexempt,44130.61
+756,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2005-06-21T00:00:00.000,2015-09-08T00:00:00.000,Nonexempt,44130.61
+757,Human Services,Hum Svc Div of Social Services,Office Manager,Permanent Full-time,2018-03-05T00:00:00.000,2023-02-25T00:00:00.000,Exempt,44206.0
+758,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2008-03-10T00:00:00.000,2008-03-10T00:00:00.000,Nonexempt,44243.21
+759,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-07-18T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,44274.99
+760,Human Services,Hum Svc Div of Social Services,Administrative Technician,Permanent Full-time,2008-05-27T00:00:00.000,2018-05-14T00:00:00.000,Nonexempt,44557.0
+761,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2020-06-20T00:00:00.000,2020-06-20T00:00:00.000,Nonexempt,44882.25
+762,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-12-03T00:00:00.000,2022-12-03T00:00:00.000,Nonexempt,45000.0
+763,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-12-03T00:00:00.000,2022-12-03T00:00:00.000,Nonexempt,45000.0
+764,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2014-10-01T00:00:00.000,2014-10-01T00:00:00.000,Nonexempt,45013.22
+765,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2018-11-13T00:00:00.000,2018-11-13T00:00:00.000,Nonexempt,45013.22
+766,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,1988-01-01T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,45107.64
+767,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2005-03-08T00:00:00.000,2007-06-25T00:00:00.000,Nonexempt,45350.13
+768,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2007-06-25T00:00:00.000,2007-06-25T00:00:00.000,Nonexempt,45350.13
+769,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2000-01-24T00:00:00.000,2020-05-11T00:00:00.000,Nonexempt,60379.06
+770,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2018-02-20T00:00:00.000,2021-07-06T00:00:00.000,Exempt,60769.79
+771,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2019-04-27T00:00:00.000,2022-04-25T00:00:00.000,Nonexempt,46336.97
+772,Human Services,Hum Svc Div of Social Services,Office Manager,Permanent Full-time,2021-10-25T00:00:00.000,2021-10-25T00:00:00.000,Exempt,46437.3
+773,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2005-10-31T00:00:00.000,2005-10-31T00:00:00.000,Nonexempt,46484.68
+774,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2013-01-14T00:00:00.000,2014-07-01T00:00:00.000,Nonexempt,46712.67
+775,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2022-10-22T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,38440.0
+776,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2021-08-30T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,38440.0
+777,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2022-10-22T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,38440.0
+778,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2022-07-05T00:00:00.000,2022-07-05T00:00:00.000,Nonexempt,38440.0
+779,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2023-02-25T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,38440.0
+780,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2008-06-23T00:00:00.000,2022-04-25T00:00:00.000,Nonexempt,38440.0
+781,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Permanent Full-time,2021-04-24T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,38440.0
+782,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2007-06-25T00:00:00.000,2022-09-12T00:00:00.000,Nonexempt,38500.0
+783,Human Services,Human Services - VJCCCA,Youth Detention Specialist III,Permanent Full-time,1999-02-23T00:00:00.000,2010-08-16T00:00:00.000,Nonexempt,63524.53
+784,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2010-01-20T00:00:00.000,2018-03-19T00:00:00.000,Nonexempt,47489.75
+785,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist II,Permanent Full-time,2021-01-19T00:00:00.000,2021-01-19T00:00:00.000,Nonexempt,47586.0
+786,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist II,Permanent Full-time,2015-01-23T00:00:00.000,2015-09-21T00:00:00.000,Nonexempt,47768.51
+787,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2011-03-28T00:00:00.000,2014-12-08T00:00:00.000,Nonexempt,47952.63
+788,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2007-06-25T00:00:00.000,2016-03-14T00:00:00.000,Nonexempt,47952.63
+789,Human Services,Hum Svc Div of Social Services,Fraud Investigator,Permanent Full-time,2015-06-08T00:00:00.000,2015-06-08T00:00:00.000,Nonexempt,47952.63
+790,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist Sr,Permanent Full-time,2013-11-18T00:00:00.000,2021-11-08T00:00:00.000,Nonexempt,47952.63
+791,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2008-01-28T00:00:00.000,2016-03-14T00:00:00.000,Nonexempt,47952.63
+792,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2008-01-28T00:00:00.000,2015-11-09T00:00:00.000,Nonexempt,47952.63
+793,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2020-02-01T00:00:00.000,2023-03-27T00:00:00.000,Nonexempt,47952.63
+794,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-04-11T00:00:00.000,2022-04-11T00:00:00.000,Nonexempt,47953.5
+795,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2021-02-16T00:00:00.000,2021-12-06T00:00:00.000,Nonexempt,47953.5
+796,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Intermittent Temporary,2021-10-25T00:00:00.000,2021-10-25T00:00:00.000,Nonexempt,23.06
+797,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2021-03-27T00:00:00.000,2022-10-08T00:00:00.000,Nonexempt,48000.0
+798,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2008-07-14T00:00:00.000,2014-12-08T00:00:00.000,Nonexempt,48263.07
+799,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2006-06-05T00:00:00.000,2014-12-08T00:00:00.000,Nonexempt,48263.07
+800,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2020-05-26T00:00:00.000,2021-08-30T00:00:00.000,Nonexempt,48300.0
+801,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,1985-06-01T00:00:00.000,1998-10-08T00:00:00.000,Nonexempt,48338.98
+802,Human Services,Hum Svc Div of Social Services,Office Manager,Permanent Full-time,1995-04-25T00:00:00.000,2017-10-02T00:00:00.000,Exempt,48491.93
+803,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2013-11-18T00:00:00.000,2020-01-04T00:00:00.000,Nonexempt,48544.21
+804,Human Services,Hum Svc Div of Social Services,Administrative Assistant I,Permanent Full-time,2001-07-23T00:00:00.000,2001-07-23T00:00:00.000,Nonexempt,48658.79
+805,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2010-10-25T00:00:00.000,2021-03-13T00:00:00.000,Nonexempt,48667.5
+806,Human Services,Hum Svc Div of Social Services,Human Services Senior Manager,Permanent Full-time,1997-07-08T00:00:00.000,2021-10-25T00:00:00.000,Exempt,115500.0
+807,Human Services,Hum Svc Div of Social Services,Human Services Senior Manager,Permanent Full-time,2002-04-08T00:00:00.000,2021-10-23T00:00:00.000,Exempt,115500.0
+808,Human Services,Hum Svc Div of Social Services,Director of Human Services,Permanent Full-time,2015-05-18T00:00:00.000,2021-04-26T00:00:00.000,Exempt,164068.8
+809,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,2018-11-09T00:00:00.000,2018-11-09T00:00:00.000,Nonexempt,18.48
+810,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,1990-07-16T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,18.9
+811,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,1989-07-16T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,18.9
+812,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Intermittent Temporary,2019-10-26T00:00:00.000,2022-12-31T00:00:00.000,Nonexempt,19.7
+813,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-12-05T00:00:00.000,2022-12-05T00:00:00.000,Nonexempt,49300.0
+814,Human Services,Hum Svc Juvenile Detention Ctr,Cook,Permanent Full-time,2021-05-22T00:00:00.000,2022-09-12T00:00:00.000,Nonexempt,37440.0
+815,Human Services,Hum Svc Juvenile Detention Ctr,Administrative Technician,Permanent Full-time,2017-05-01T00:00:00.000,2020-08-15T00:00:00.000,Nonexempt,37940.0
+816,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,2008-06-07T00:00:00.000,2015-08-24T00:00:00.000,Nonexempt,18.48
+817,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,2005-02-01T00:00:00.000,2005-02-01T00:00:00.000,Nonexempt,18.48
+818,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,2015-08-24T00:00:00.000,2015-08-24T00:00:00.000,Nonexempt,18.48
+819,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,2016-08-08T00:00:00.000,2018-03-10T00:00:00.000,Nonexempt,18.48
+820,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,2019-03-02T00:00:00.000,2019-03-02T00:00:00.000,Nonexempt,18.48
+821,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,2004-02-09T00:00:00.000,2004-02-09T00:00:00.000,Nonexempt,18.48
+822,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Intermittent Temporary,2019-12-07T00:00:00.000,2023-01-28T00:00:00.000,Nonexempt,18.6
+823,Human Services,Hum Svc Juvenile Detention Ctr,Cook,Permanent Full-time,2005-04-04T00:00:00.000,2005-04-04T00:00:00.000,Nonexempt,39312.0
+824,Human Services,Hum Svc Juvenile Detention Ctr,Cook,Permanent Full-time,2019-03-30T00:00:00.000,2019-03-30T00:00:00.000,Nonexempt,39312.0
+825,Human Services,Hum Svc Juvenile Detention Ctr,Cook,Permanent Full-time,2021-09-13T00:00:00.000,2021-09-13T00:00:00.000,Nonexempt,39312.0
+826,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist Sr,Permanent Full-time,2003-06-23T00:00:00.000,2022-10-10T00:00:00.000,Nonexempt,50750.0
+827,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2019-01-07T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,50750.2
+828,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2016-10-10T00:00:00.000,2023-02-25T00:00:00.000,Nonexempt,50750.2
+829,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,2019-05-28T00:00:00.000,2022-10-24T00:00:00.000,Nonexempt,50750.2
+830,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2018-12-10T00:00:00.000,2018-12-10T00:00:00.000,Nonexempt,40379.97
+831,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2019-01-07T00:00:00.000,2019-01-07T00:00:00.000,Nonexempt,40379.97
+832,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2018-05-14T00:00:00.000,2018-05-14T00:00:00.000,Nonexempt,40695.12
+833,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,1996-02-23T00:00:00.000,2017-08-21T00:00:00.000,Nonexempt,40695.12
+834,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2017-12-18T00:00:00.000,2017-12-18T00:00:00.000,Nonexempt,40695.12
+835,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Intermittent Temporary,2017-10-30T00:00:00.000,2019-03-30T00:00:00.000,Nonexempt,19.56
+836,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2019-10-26T00:00:00.000,2019-10-26T00:00:00.000,Nonexempt,40976.95
+837,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2020-02-03T00:00:00.000,2020-02-03T00:00:00.000,Nonexempt,40978.04
+838,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2012-03-26T00:00:00.000,2019-05-28T00:00:00.000,Nonexempt,41117.62
+839,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2011-02-08T00:00:00.000,2022-07-05T00:00:00.000,Nonexempt,42559.0
+840,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2022-11-05T00:00:00.000,2023-03-13T00:00:00.000,Nonexempt,43148.0
+841,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2022-11-05T00:00:00.000,2023-03-25T00:00:00.000,Nonexempt,43148.0
+842,Human Services,Hum Svc Div of Social Services,Family Services Associate,Casual Part-time,2023-01-28T00:00:00.000,2023-01-28T00:00:00.000,Nonexempt,18.24
+843,Human Services,Hum Svc Div of Social Services,Administrative Technician,Intermittent Temporary,2015-07-28T00:00:00.000,2021-06-19T00:00:00.000,Nonexempt,18.24
+844,Human Services,Hum Svc Div of Social Services,Administrative Technician,Retiree Part-time,1979-10-05T00:00:00.000,2016-08-29T00:00:00.000,Nonexempt,18.28
+845,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Retiree Part-time,2011-06-20T00:00:00.000,2021-06-05T00:00:00.000,Nonexempt,19.4
+846,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Special Project No Beneftis,2018-12-10T00:00:00.000,2022-09-26T00:00:00.000,Nonexempt,20.0
+847,Human Services,Hum Svc Div of Social Services,Fiscal Monitoring Spec I,Retiree Part-time,1988-01-01T00:00:00.000,2022-03-14T00:00:00.000,Exempt,24.4
+848,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2006-06-05T00:00:00.000,2006-06-05T00:00:00.000,Nonexempt,37440.0
+849,Human Services,Hum Svc Div of Social Services,Office Assistant,Permanent Full-time,2003-05-23T00:00:00.000,2014-01-01T00:00:00.000,Nonexempt,37440.0
+850,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2011-10-26T00:00:00.000,2011-10-26T00:00:00.000,Nonexempt,37440.0
+851,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2017-02-27T00:00:00.000,2017-02-27T00:00:00.000,Nonexempt,37440.0
+852,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2001-04-09T00:00:00.000,2022-04-09T00:00:00.000,Nonexempt,37440.0
+853,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2008-05-27T00:00:00.000,2008-05-27T00:00:00.000,Nonexempt,37440.0
+854,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2017-01-30T00:00:00.000,2022-04-11T00:00:00.000,Nonexempt,37440.0
+855,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2013-03-04T00:00:00.000,2013-03-04T00:00:00.000,Nonexempt,37440.0
+856,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2005-05-24T00:00:00.000,2022-07-18T00:00:00.000,Nonexempt,37440.0
+857,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2018-08-20T00:00:00.000,2021-04-24T00:00:00.000,Nonexempt,37440.0
+858,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-05-09T00:00:00.000,2022-05-09T00:00:00.000,Nonexempt,37440.0
+859,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-10-22T00:00:00.000,2022-10-22T00:00:00.000,Nonexempt,37440.0
+860,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2006-06-22T00:00:00.000,2022-10-08T00:00:00.000,Nonexempt,37440.0
+861,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2007-02-08T00:00:00.000,2008-04-28T00:00:00.000,Nonexempt,37440.0
+862,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-05-23T00:00:00.000,2022-05-23T00:00:00.000,Nonexempt,37440.0
+863,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-05-23T00:00:00.000,2022-05-23T00:00:00.000,Nonexempt,37440.0
+864,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2022-07-05T00:00:00.000,2022-07-05T00:00:00.000,Nonexempt,37440.0
+865,Human Services,Hum Svc Div of Social Services,Office Assistant,Permanent Full-time,1992-10-29T00:00:00.000,2009-08-31T00:00:00.000,Nonexempt,37440.0
+866,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2020-03-28T00:00:00.000,2020-03-28T00:00:00.000,Nonexempt,37440.0
+867,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-05-23T00:00:00.000,2022-05-23T00:00:00.000,Nonexempt,37440.0
+868,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2022-08-01T00:00:00.000,2022-08-01T00:00:00.000,Nonexempt,37440.0
+869,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2021-04-24T00:00:00.000,2021-04-24T00:00:00.000,Nonexempt,37440.0
+870,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-05-09T00:00:00.000,2022-05-09T00:00:00.000,Nonexempt,37440.0
+871,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,2001-12-10T00:00:00.000,2005-04-11T00:00:00.000,Nonexempt,56146.7
+872,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2011-12-19T00:00:00.000,2019-08-03T00:00:00.000,Exempt,56338.58
+873,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2005-07-11T00:00:00.000,2013-02-25T00:00:00.000,Exempt,56494.26
+874,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2005-10-24T00:00:00.000,2014-04-28T00:00:00.000,Exempt,56494.26
+875,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Permanent Full-time,1989-04-15T00:00:00.000,2016-03-14T00:00:00.000,Nonexempt,56605.38
+876,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,1990-02-13T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,56638.72
+877,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,1991-03-06T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,56638.74
+878,Human Services,Hum Svc Div of Social Services,Family Services Worker III,Permanent Full-time,2015-06-23T00:00:00.000,2022-07-05T00:00:00.000,Exempt,56810.97
+879,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2002-06-10T00:00:00.000,2019-01-22T00:00:00.000,Exempt,57568.52
+880,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2014-11-10T00:00:00.000,2022-02-14T00:00:00.000,Exempt,57750.0
+881,Human Services,Hum Svc Div of Social Services,Family Services Worker III,Permanent Full-time,2013-07-15T00:00:00.000,2021-06-05T00:00:00.000,Exempt,57851.94
+882,Human Services,Hum Svc Div of Social Services,Business Manager,Permanent Full-time,2014-09-15T00:00:00.000,2022-09-12T00:00:00.000,Exempt,57950.0
+883,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2013-03-25T00:00:00.000,2022-09-12T00:00:00.000,Exempt,58292.0
+884,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2012-01-30T00:00:00.000,2020-04-13T00:00:00.000,Exempt,58401.0
+885,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2016-01-19T00:00:00.000,2020-07-06T00:00:00.000,Exempt,58520.88
+886,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2016-07-25T00:00:00.000,2018-10-29T00:00:00.000,Exempt,58532.52
+887,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2020-02-01T00:00:00.000,2020-02-01T00:00:00.000,Exempt,59478.66
+888,Human Services,Hum Svc Div of Social Services,Fraud Investigator,Permanent Full-time,1999-11-08T00:00:00.000,2020-07-05T00:00:00.000,Nonexempt,59701.34
+889,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor Sr,Permanent Full-time,2013-02-25T00:00:00.000,2020-08-31T00:00:00.000,Exempt,60242.07
+890,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2012-06-01T00:00:00.000,2018-01-08T00:00:00.000,Exempt,64385.77
+891,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2001-09-17T00:00:00.000,2011-01-08T00:00:00.000,Exempt,64386.64
+892,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Supervisor,Permanent Full-time,2015-10-01T00:00:00.000,2022-03-28T00:00:00.000,Exempt,60942.53
+893,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2015-10-01T00:00:00.000,2023-03-25T00:00:00.000,Nonexempt,61527.15
+894,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2018-04-30T00:00:00.000,2018-04-30T00:00:00.000,Exempt,61885.59
+895,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Permanent Full-time,1999-08-10T00:00:00.000,2011-06-08T00:00:00.000,Nonexempt,61975.68
+896,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2012-01-13T00:00:00.000,2020-04-25T00:00:00.000,Exempt,62373.0
+897,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2005-05-02T00:00:00.000,2021-02-16T00:00:00.000,Exempt,62459.87
+898,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2020-09-26T00:00:00.000,2020-09-26T00:00:00.000,Exempt,62727.0
+899,Human Services,Hum Svc Div of Social Services,Fiscal Manager II,Permanent Full-time,2016-03-28T00:00:00.000,2021-08-28T00:00:00.000,Exempt,63118.44
+900,Human Services,Hum Svc Div of Social Services,Fraud Supervisor,Permanent Full-time,1999-11-08T00:00:00.000,2014-07-08T00:00:00.000,Exempt,63436.74
+901,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,1999-03-01T00:00:00.000,2012-05-14T00:00:00.000,Exempt,63436.75
+902,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2012-04-26T00:00:00.000,2018-03-05T00:00:00.000,Exempt,64385.77
+903,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,1996-05-28T00:00:00.000,2002-04-08T00:00:00.000,Exempt,71773.68
+904,Human Services,Hum Svc Div of Social Services,Programs Manager,Permanent Full-time,2005-10-31T00:00:00.000,2023-04-08T00:00:00.000,Exempt,72180.08
+905,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2020-09-12T00:00:00.000,2020-09-12T00:00:00.000,Exempt,64698.57
+906,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2014-07-08T00:00:00.000,2015-04-13T00:00:00.000,Exempt,64776.16
+907,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Permanent Full-time,2017-06-19T00:00:00.000,2017-06-19T00:00:00.000,Exempt,65418.7
+908,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,2001-10-17T00:00:00.000,2016-11-23T00:00:00.000,Exempt,67285.97
+909,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,1990-01-02T00:00:00.000,2011-07-01T00:00:00.000,Nonexempt,67656.64
+910,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor Sr,Permanent Full-time,1995-08-08T00:00:00.000,2016-12-08T00:00:00.000,Exempt,67897.65
+911,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor Sr,Permanent Full-time,2017-10-09T00:00:00.000,2022-07-05T00:00:00.000,Exempt,67919.98
+912,Human Services,Hum Svc Div of Social Services,Microcomputer Sys Analyst Sr,Permanent Full-time,1998-05-23T00:00:00.000,2007-07-09T00:00:00.000,Exempt,68193.74
+913,Human Services,Hum Svc Div of Social Services,Human Services Operations Mgr,Permanent Full-time,2013-06-24T00:00:00.000,2022-03-26T00:00:00.000,Exempt,68481.0
+914,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,1990-05-01T00:00:00.000,2005-05-23T00:00:00.000,Exempt,70022.44
+915,Human Services,Hum Svc Div of Social Services,Programmer/Analyst V,Permanent Full-time,2003-10-08T00:00:00.000,2014-06-09T00:00:00.000,Exempt,70713.64
+916,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist II,Permanent Full-time,2015-10-05T00:00:00.000,2015-10-05T00:00:00.000,Nonexempt,46831.87
+917,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2016-06-13T00:00:00.000,2020-04-25T00:00:00.000,Nonexempt,46999.1
+918,Human Services,Hum Svc Div of Social Services,Financial Operations Mgr,Permanent Full-time,2007-06-01T00:00:00.000,2022-11-05T00:00:00.000,Exempt,72591.8
+919,Human Services,Hum Svc Div of Social Services,Programs Manager,Permanent Full-time,2004-06-14T00:00:00.000,2017-03-20T00:00:00.000,Exempt,76768.3
+920,Human Services,Hum Svc Div of Social Services,Programs Manager,Special Project w/ Retirement,2012-01-23T00:00:00.000,2023-02-27T00:00:00.000,Exempt,77467.48
+921,Human Services,Hum Svc Div of Social Services,Programs Manager,Permanent Full-time,2002-07-08T00:00:00.000,2022-03-28T00:00:00.000,Exempt,78028.53
+922,Human Services,Hum Svc Div of Social Services,Programs Manager,Permanent Full-time,1999-10-21T00:00:00.000,2022-03-26T00:00:00.000,Exempt,82083.75
+923,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Permanent Full-time,1990-05-01T00:00:00.000,2016-10-23T00:00:00.000,Exempt,83237.36
+924,Human Services,Hum Svc Div of Social Services,Programs Manager,Permanent Full-time,2016-04-18T00:00:00.000,2016-04-18T00:00:00.000,Exempt,87798.77
+925,Human Services,Hum Svc Div of Social Services,Mgmt Services Administrator,Permanent Full-time,2013-06-17T00:00:00.000,2019-07-01T00:00:00.000,Exempt,112832.22
+926,Human Services,Hum Svc Div of Social Services,Human Services Senior Manager,Permanent Full-time,1987-05-01T00:00:00.000,2021-10-25T00:00:00.000,Exempt,115500.0
+927,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2019-03-02T00:00:00.000,2019-03-02T00:00:00.000,Nonexempt,44130.61
+928,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2011-03-28T00:00:00.000,2011-03-28T00:00:00.000,Nonexempt,44130.61
+929,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2011-12-12T00:00:00.000,2016-08-23T00:00:00.000,Nonexempt,44130.61
+930,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2014-02-24T00:00:00.000,2014-02-24T00:00:00.000,Nonexempt,44130.61
+931,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,1996-11-18T00:00:00.000,2014-07-01T00:00:00.000,Nonexempt,47076.72
+932,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2015-12-08T00:00:00.000,2015-12-08T00:00:00.000,Nonexempt,47136.82
+933,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2018-01-08T00:00:00.000,2018-03-19T00:00:00.000,Nonexempt,44130.61
+934,Human Services,Hum Svc Juvenile Detention Ctr,Laundry Worker,Permanent Full-time,2006-10-30T00:00:00.000,2014-07-01T00:00:00.000,Nonexempt,37440.0
+935,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2020-10-10T00:00:00.000,2020-10-10T00:00:00.000,Nonexempt,40379.97
+936,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,1997-10-06T00:00:00.000,2021-06-07T00:00:00.000,Nonexempt,40379.97
+937,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2018-08-20T00:00:00.000,2018-08-20T00:00:00.000,Nonexempt,40379.97
+938,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-04-11T00:00:00.000,2022-04-11T00:00:00.000,Nonexempt,46725.0
+939,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-03-28T00:00:00.000,2022-03-28T00:00:00.000,Nonexempt,46725.0
+940,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist II,Permanent Full-time,2015-09-28T00:00:00.000,2015-09-28T00:00:00.000,Nonexempt,46831.87
+941,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist II,Permanent Full-time,2015-10-01T00:00:00.000,2015-10-01T00:00:00.000,Nonexempt,46831.87
+942,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2022-04-25T00:00:00.000,2023-04-08T00:00:00.000,Nonexempt,37440.0
+943,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2021-09-27T00:00:00.000,2022-08-13T00:00:00.000,Nonexempt,42870.0
+944,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2014-09-23T00:00:00.000,2019-07-22T00:00:00.000,Nonexempt,44130.61
+945,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2015-01-23T00:00:00.000,2015-01-23T00:00:00.000,Nonexempt,44130.61
+946,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2016-09-08T00:00:00.000,2016-09-08T00:00:00.000,Nonexempt,44130.61
+947,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Permanent Full-time,2019-01-07T00:00:00.000,2019-01-07T00:00:00.000,Nonexempt,40379.97
+948,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2018-07-09T00:00:00.000,2018-07-09T00:00:00.000,Nonexempt,44130.61
+949,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2021-04-10T00:00:00.000,2021-04-10T00:00:00.000,Nonexempt,44130.61
+950,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2008-01-18T00:00:00.000,2011-03-28T00:00:00.000,Nonexempt,44130.61
+951,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2019-04-27T00:00:00.000,2019-04-27T00:00:00.000,Nonexempt,44130.61
+952,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2016-06-13T00:00:00.000,2018-12-10T00:00:00.000,Nonexempt,44130.61
+953,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-02-27T00:00:00.000,2019-06-24T00:00:00.000,Nonexempt,44130.61
+954,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2019-07-20T00:00:00.000,2019-07-20T00:00:00.000,Nonexempt,44130.61
+955,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2020-04-11T00:00:00.000,2021-05-22T00:00:00.000,Nonexempt,42869.99
+956,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2020-08-17T00:00:00.000,2021-11-22T00:00:00.000,Nonexempt,42870.0
+957,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2012-09-24T00:00:00.000,2021-12-06T00:00:00.000,Nonexempt,42870.0
+958,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2023-03-11T00:00:00.000,2023-03-11T00:00:00.000,Nonexempt,42870.0
+959,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2005-07-18T00:00:00.000,2022-01-31T00:00:00.000,Nonexempt,42870.0
+960,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-11-13T00:00:00.000,2017-11-13T00:00:00.000,Nonexempt,44130.61
+961,Human Services,Hum Svc Div of Social Services,Administrative Technician,Permanent Full-time,2023-01-28T00:00:00.000,2023-01-28T00:00:00.000,Nonexempt,39837.0
+962,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Specialist I,Permanent Full-time,2020-11-07T00:00:00.000,2022-02-28T00:00:00.000,Nonexempt,40379.85
+963,Human Services,Hum Svc Div of Social Services,Office Manager,Permanent Full-time,2015-12-21T00:00:00.000,2021-09-27T00:00:00.000,Exempt,40379.85
+964,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2014-08-08T00:00:00.000,2014-08-08T00:00:00.000,Nonexempt,44130.61
+965,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-05-08T00:00:00.000,2017-05-08T00:00:00.000,Nonexempt,44130.61
+966,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,1997-07-08T00:00:00.000,2019-04-15T00:00:00.000,Nonexempt,44130.61
+967,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,2007-07-06T00:00:00.000,2022-10-10T00:00:00.000,Nonexempt,37440.0
+968,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2022-09-12T00:00:00.000,2022-09-12T00:00:00.000,Nonexempt,43000.0
+969,Human Services,Hum Svc Div of Social Services,Support Technician,Permanent Full-time,2022-09-24T00:00:00.000,2022-09-24T00:00:00.000,Nonexempt,38500.0
+970,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2018-12-10T00:00:00.000,2021-11-08T00:00:00.000,Nonexempt,42870.0
+971,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,1989-01-03T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,42934.45
+972,Human Services,Hum Svc Div of Social Services,Administrative Technician,Permanent Full-time,2001-12-10T00:00:00.000,2019-02-19T00:00:00.000,Nonexempt,42574.04
+973,Human Services,Hum Svc Div of Social Services,Human Services Aide,Permanent Full-time,1989-09-01T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,40864.77
+974,Human Services,Hum Svc Div of Social Services,Family Services Associate,Permanent Full-time,2019-06-22T00:00:00.000,2023-01-17T00:00:00.000,Nonexempt,41924.08
+975,Human Services,Hum Svc Div of Social Services,Human Services Aide,Intermittent Temporary,2022-05-09T00:00:00.000,2022-05-09T00:00:00.000,Nonexempt,18.0
+976,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2021-08-16T00:00:00.000,2021-08-16T00:00:00.000,Nonexempt,47250.0
+977,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2017-08-28T00:00:00.000,2019-04-13T00:00:00.000,Nonexempt,44130.61
+978,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Permanent Full-time,2023-03-11T00:00:00.000,2023-03-11T00:00:00.000,Nonexempt,42870.0
+979,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2007-06-13T00:00:00.000,2019-02-04T00:00:00.000,Nonexempt,44130.61
+980,Human Services,Hum Svc Div of Social Services,Comm Assessment Team Coord,Permanent Full-time,2014-08-04T00:00:00.000,2020-06-29T00:00:00.000,Exempt,44130.61
+981,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Permanent Full-time,2018-01-22T00:00:00.000,2018-01-22T00:00:00.000,Nonexempt,44130.61
+982,Public Works,PW Waste Management,Refuse Collector I,Permanent Full-time,2022-05-23T00:00:00.000,2022-12-06T00:00:00.000,Nonexempt,38190.0
+983,Public Works,PW Waste Management,Refuse Collector I,Permanent Full-time,2022-02-15T00:00:00.000,2022-02-15T00:00:00.000,Nonexempt,38190.0
+984,Public Works,PW Waste Management,Refuse Collector I,Permanent Full-time,2021-05-10T00:00:00.000,2022-03-01T00:00:00.000,Nonexempt,38190.0
+985,Public Works,PW Waste Management,Refuse Collector I,Permanent Full-time,2022-06-06T00:00:00.000,2022-12-06T00:00:00.000,Nonexempt,38190.0
+986,Public Works,PW Waste Management,Refuse Collector I,Permanent Full-time,2022-03-15T00:00:00.000,2022-03-15T00:00:00.000,Nonexempt,38190.0
+987,Public Works,PW Waste Management,Refuse Collector I,Permanent Full-time,2022-12-03T00:00:00.000,2022-12-03T00:00:00.000,Nonexempt,38190.0
+988,Public Works,PW Waste Management,Refuse Collection Supv,Permanent Full-time,2006-08-28T00:00:00.000,2021-09-28T00:00:00.000,Nonexempt,55125.0
+989,Public Works,PW Waste Management,Refuse Collector I,Permanent Full-time,2022-12-03T00:00:00.000,2022-12-03T00:00:00.000,Nonexempt,38190.0
+990,Public Works,PW Waste Management,Refuse Collector I,Permanent Full-time,2022-08-16T00:00:00.000,2022-08-16T00:00:00.000,Nonexempt,38190.0
+991,Public Works,PW Waste Management,Management Analyst II,Permanent Full-time,2018-02-05T00:00:00.000,2020-01-06T00:00:00.000,Exempt,54306.6
+992,Public Works,PW Waste Management,Education Manager,Permanent Full-time,2011-09-15T00:00:00.000,2020-04-13T00:00:00.000,Exempt,62727.0
+993,Public Works,PW Waste Management,Project Coordinator,Permanent Full-time,2008-01-16T00:00:00.000,2017-02-21T00:00:00.000,Exempt,62114.77
+994,Public Works,PW Waste Management,Financial Operations Mgr,Permanent Full-time,2021-06-05T00:00:00.000,2023-04-24T00:00:00.000,Exempt,62186.25
+995,Public Works,PW Waste Management,Fleet Coordinator,Permanent Full-time,1995-03-13T00:00:00.000,2013-07-08T00:00:00.000,Exempt,62431.12
+996,Public Works,PW Waste Management,Asst Supt of Waste Management,Permanent Full-time,1993-04-26T00:00:00.000,2000-12-18T00:00:00.000,Exempt,93314.0
+997,Public Works,PW Waste Management,Refuse Inspector,Permanent Full-time,1989-09-18T00:00:00.000,1996-05-15T00:00:00.000,Nonexempt,63214.22
+998,Public Works,PW Waste Management,Programs Manager,Permanent Full-time,2013-05-13T00:00:00.000,2022-01-31T00:00:00.000,Exempt,67942.21
+999,Public Works,PW Waste Management,Asst Supt of Waste Management,Permanent Full-time,2017-10-03T00:00:00.000,2022-09-13T00:00:00.000,Exempt,73000.0

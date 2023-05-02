@@ -1,0 +1,1001 @@
+,department,division,position_title,city,gender,ethnicity,education,veteran_status,startyear,birthyear
+0,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,Asian,Not Indicated,Not Indicated,2009,1969
+1,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Norfolk,Male,White,Not Indicated,Not Indicated,2009,1988
+2,City Council,City Council,Member Of Council,Norfolk,Male,Black,Masters Level Degree,Not Indicated,2023,1970
+3,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Suffolk,Male,Black,Not Indicated,Not Indicated,2009,1969
+4,Norfolk Community Services Board,NCSB-Case Management,Management Analyst II,Norfolk,Female,White,Not Indicated,Not Indicated,2010,1986
+5,General Services,General Services-Parking Fac,Accountant I,Norfolk,Female,Black,Masters Level Degree,Not Indicated,2018,1978
+6,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Virginia Beach,Female,White,Not Indicated,Not Indicated,2008,1980
+7,City Treasurer,City Treasurer,Deputy IV - TR,Chesapeake,Female,Black,Not Indicated,Not Indicated,2012,1971
+8,Police,Police Field Operations-Sworn,Police Officer,Norfolk,Male,Black,Some Graduate School,Not Indicated,2020,1987
+9,Norfolk Community Services Board,NCSB-Board Access Unit (MH),Program Administrator,Chesapeake,Female,Black,Not Indicated,Not Indicated,2011,1982
+10,Commonwealths Attorney,Commonwealth's Attorney,Asst Commonwealth's Att III,Virginia Beach,Male,White,Not Indicated,Not Indicated,2012,1967
+11,City Manager,City Manager - Norfolk Arts,Arts Manager,Norfolk,Female,White,Not Indicated,Not Indicated,2012,1954
+12,City Treasurer,City Treasurer,Deputy IV - TR,Norfolk,Male,Black,Bachelors Level Degree,Not Indicated,2013,1968
+13,Parks and Recreation,RPOS - Landscape Services,Tree Trimmer I,Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2019,1969
+14,Public Works,PW Div of Streets & Bridges,"Utility MaintenanceSupv, Sr",Norfolk,Male,Black,Not Indicated,Not Indicated,2010,1977
+15,Police,Police Field Operations-Civiln,Humane Officer II,Norfolk,Male,White,Not Indicated,Not Indicated,2012,1975
+16,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Hampton,Female,Black,Not Indicated,Not Indicated,2012,1972
+17,Parks and Recreation,RPOS - Landscape Services,Groundskeeper Crew Leader,Norfolk,Male,White,Not Indicated,Not Indicated,2012,1982
+18,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,Black,Not Indicated,Not Indicated,2009,1987
+19,Clerk of the Circuit Court,Clerk of the Circuit Court,In Court Clerk-CC,Norfolk,Female,White,Some College,Not Indicated,2014,1993
+20,Clerk of the Circuit Court,Clerk of the Circuit Court,Deputy Clerk III-CC,Norfolk,Female,Black,Some College,Not Indicated,2013,1985
+21,Clerk of the Circuit Court,Clerk of the Circuit Court,Administrative Manager-CC,Norfolk,Female,White,Not Indicated,Not Indicated,2009,1964
+22,Public Works,Public Works-Towing Operations,Support Technician,Virginia Beach,Male,Black,Some College,Not Indicated,2014,1990
+23,Fire-Rescue,Fire-Rescue,Firefighter EMT-I,Norfolk,Male,White,Not Indicated,Not Indicated,2010,1989
+24,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Chesapeake,Male,Black,Not Indicated,Not Indicated,2010,1981
+25,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Norfolk,Male,Asian,Not Indicated,Not Indicated,2012,1984
+26,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Virginia Beach,Female,White,HS Graduate or Equivalent,Not Indicated,2012,1989
+27,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Virginia Beach,Female,Black,Bachelors Level Degree,Not Indicated,2019,1983
+28,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not Indicated,2012,1969
+29,Clerk of the Circuit Court,Clerk of the Circuit Court,Supervising Deputy Clerk-CC,Norfolk,Male,White,Not Indicated,Not Indicated,2010,1959
+30,Commonwealths Attorney,DCJS VSDVVF,Victim/Witness Prg Advocate,Norfolk,Female,White,Not Indicated,Not Indicated,2012,1991
+31,Public Works,PW Div of Streets & Bridges,Automotive Mechanic,Virginia Beach,Male,Black,HS Graduate or Equivalent,Not Indicated,2017,1971
+32,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,Black,Not Indicated,Not Indicated,2011,1988
+33,Public Works,PW Div of Streets & Bridges,Street Maintenance Supv,Virginia Beach,Male,White,HS Graduate or Equivalent,Not Indicated,2012,1990
+34,Public Works,PW Div of Streets & Bridges,Street Maintenance Supv,Norfolk,Male,Black,Not Indicated,Not Indicated,2012,1979
+35,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Hampton,Male,White,Associate Degree,Not Indicated,2015,1985
+36,Public Works,PW Division of Design,Civil Engineer III,Chesapeake,Male,White,Bachelors Level Degree,Not Indicated,2017,1979
+37,Clerk of the Circuit Court,Clerk of the Circuit Court,Deputy Clerk II-CC,Norfolk,Male,Black,Some College,Not Indicated,2013,1990
+38,Clerk of the Circuit Court,Clerk of the Circuit Court,Deputy Clerk II-CC,Norfolk,Female,White,Not Indicated,Not Indicated,2008,1977
+39,Utilities,Utilities WasteWater,Equipment Operator III,Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2019,1979
+40,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not Indicated,2011,1989
+41,Public Works,PW Div of Streets & Bridges,Maintenance Worker I,Chesapeake,Male,Black,HS Graduate or Equivalent,Not Indicated,2019,1974
+42,Parks and Recreation,RPOS - Landscape Services,Crew Leader I,Portsmouth,Male,Black,Not Indicated,Not Indicated,2012,1973
+43,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not Indicated,2010,1986
+44,Parks and Recreation,RPOS - Landscape Services,Forestry Crew Leader,Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2012,1987
+45,Police,Police Investigative Svc-Sworn,Police Sergeant,Virginia Beach,Male,White,Bachelors Level Degree,Not Indicated,2011,1983
+46,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Virginia Beach,Female,Black,Not Indicated,Not Indicated,2013,1981
+47,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Chesapeake,Female,Black,Not Indicated,Not Indicated,2012,1968
+48,Parks and Recreation,"Rec,Pks,OpenSpace-Therapeutics",Therapeutic Rec Specialist,Norfolk,Female,White,Bachelors Level Degree,Not Indicated,2022,1999
+49,Police,Police Administrative Svcs-Swn,Police Recruit,Norfolk,Male,White,Some College,Not Indicated,2023,1993
+50,Police,Police Administration - Sworn,Police Sergeant,Moyock,Male,White,Some College,Not Indicated,2010,1987
+51,Utilities,Utilities WasteWater,Crew Leader I,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2010,1985
+52,Police,Police Investigative Svc-Sworn,Master Police Officer,Shawboro,Male,White,Not Indicated,Not Indicated,2009,1983
+53,General Services,General Services-Animal Care,Kennel Supervisor,Norfolk,Female,,Some College,Not Indicated,2017,1990
+54,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1985
+55,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2012,1966
+56,Parks and Recreation,"Rec,Pks,OpenSpace-Therapeutics",Division Head,Chesapeake,Male,Black,Not Indicated,Not Indicated,2011,1974
+57,Transit,Transit - Transportation,Traffic Signal Technician IV,Virginia Beach,Male,White,Not Indicated,Not Indicated,2011,1980
+58,Utilities,Utilities Engineering,Engineering Technician III,Oxon Hill,Female,Black,Not Indicated,Not Indicated,2011,1965
+59,Public Works,PW Div of Streets & Bridges,Equipment Operator II,Norfolk,Male,Black,Some College,Not Indicated,2017,1977
+60,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Sunbury,Male,White,Not Indicated,Not Indicated,2010,1987
+61,Transit,Transit - Transportation,Operations Manager,Chesapeake,Male,White,Not Indicated,Not Indicated,2010,1989
+62,Police,Police Investigative Svc-Sworn,Police Sergeant,Norfolk,Male,White,HS Graduate or Equivalent,Not Indicated,2012,1983
+63,Utilities,Utilities Water Distribution,Crew Leader I,Norfolk,Male,White,Not Indicated,Not Indicated,2012,1986
+64,Public Works,PW Div of Streets & Bridges,Lead Mason,Virginia Beach,Male,White,Less Than HS Graduate,Not Indicated,2013,1971
+65,Fire-Rescue,Fire-Rescue,Fire Lieutenant,Norfolk,Male,White,Not Indicated,Not Indicated,2011,1985
+66,Fire-Rescue,Fire-Rescue,Firefighter EMT-I,Norfolk,Male,White,Not Indicated,Not Indicated,2010,1977
+67,Fire-Rescue,Fire-Rescue,Fire Lieutenant,Melfa,Male,White,Not Indicated,Not Indicated,2012,1991
+68,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Portsmouth,Male,White,HS Graduate or Equivalent,Not Indicated,2015,1990
+69,City Attorney,Law,Deputy City Attorney I,Norfolk,Male,White,Doctorate (Professional),Not Indicated,2015,1958
+70,Neighborhood Services,Neighborhood Devel - IMPACT,Citizen Service Advisor III,Norfolk,Female,Black,HS Graduate or Equivalent,Not Indicated,2013,1981
+71,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,Black,Masters Level Degree,Not Indicated,2012,1967
+72,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Portsmouth,Female,Black,Not Indicated,Not Indicated,2010,1986
+73,General Services,Gen Srvs-PublicInfrastructure,Maintenance Mechanic II,Virginia Beach,Male,NS,Technical School,Not Indicated,2023,1991
+74,Fire-Rescue,Fire-Rescue,Fire Lieutenant,Chesapeake,Female,Hispanic,Not Indicated,Not Indicated,2011,1981
+75,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Suffolk,Female,Black,Not Indicated,Not Indicated,2010,1975
+76,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Associate Degree,Not Indicated,2019,1994
+77,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Virginia Beach,Female,Black,Not Indicated,Not Indicated,2010,1985
+78,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Norfolk,Female,Black,Bachelors Level Degree,Not Indicated,2023,1972
+79,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Chesapeake,Female,White,Not Indicated,Not Indicated,2010,1986
+80,Norfolk Community Services Board,NCSB- Mental Health Counseling,Counselor IV,Norfolk,Female,Black,Not Indicated,Not Indicated,2011,1982
+81,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Norfolk,Male,Black,Not Indicated,Not Indicated,2011,1981
+82,General Services,Gen Srvs-PublicInfrastructure,Operating Engineer II,Suffolk,Male,Black,Not Indicated,Not Indicated,2019,1973
+83,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Virginia Beach,Male,White,Not Indicated,Not Indicated,2011,1971
+84,Public Works,PW Right of Way,Construction Inspector II,Norfolk,Male,Black,Not Indicated,Not Indicated,2010,1965
+85,Police,Police Administrative Svcs-Swn,Master Police Officer,South Mills,Male,White,HS Graduate or Equivalent,Not Indicated,2010,1969
+86,Slover Library,Slover Library,Library Assistant II,Norfolk,Female,Black,Bachelors Level Degree,Not Indicated,2018,1992
+87,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Ahoskie,Male,Black,Not Indicated,Not Indicated,2012,1972
+88,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not Indicated,2012,1968
+89,Norfolk Community Services Board,NCSB-Intake,Clinician,Chesapeake,Female,Black,Not Indicated,Not Indicated,2009,1959
+90,Norfolk Community Services Board,NCSB-Intake,Clinical Coordinator,Chesapeake,Female,Black,Not Indicated,Not Indicated,2012,1979
+91,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1976
+92,Commonwealths Attorney,Commonwealth's Attorney,Asst Commonwealth's Att I,Norfolk,Female,Asian,Doctorate (Professional),Not Indicated,2022,1977
+93,Norfolk Community Services Board,NCSB-Board Access Unit (MH),Case Manager IV,Chesapeake,Male,White,Not Indicated,Not Indicated,2012,1978
+94,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2011,1990
+95,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Chesapeake,Male,White,Not Indicated,Not Indicated,2011,1974
+96,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Portsmouth,Female,Black,Not Indicated,Not Indicated,2012,1988
+97,Police,Police Administrative Svcs-Swn,Police Sergeant,Portsmouth,Female,Black,HS Graduate or Equivalent,Not Indicated,2012,1982
+98,General Services,General Services-Animal Care,Animal Caretaker,Norfolk,Female,White,Some College,Not Indicated,2023,1998
+99,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not Indicated,2011,1984
+100,Public Works,PW Right of Way,GIS Specialist III,Norfolk,Male,White,Not Indicated,Not Indicated,2011,1966
+101,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Moyock,Male,White,Not Indicated,Not Indicated,2011,1970
+102,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Suffolk,Male,White,Not Indicated,Not Indicated,2012,1977
+103,Public Works,PW Waste Management,Education Manager,Norfolk,Female,White,Bachelors Level Degree,Not Indicated,2011,1969
+104,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1989
+105,Utilities,Utilities WasteWater,Maintenance Worker II,Norfolk,Male,Black,Not Indicated,Not Indicated,2012,1962
+106,Public Works,PW Utility Cut Repairs,Equipment Operator II,Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2012,1984
+107,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Portsmouth,Female,Black,Not Indicated,Not Indicated,2009,1970
+108,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Norfolk,Male,White,Not Indicated,Not Indicated,2008,1969
+109,Police,Police Field Operations-Sworn,Master Police Officer,Suffolk,Male,White,Not Indicated,Not Indicated,2009,1984
+110,Zoological Park,Executive Zoo-HorticultureSvcs,Horticulture Technician,Norfolk,Female,White,Not Indicated,Not Indicated,2009,1957
+111,City Treasurer,City Treasurer,Deputy III - TR,Chesapeake,Male,Black,Bachelors Level Degree,Not Indicated,2014,1958
+112,Police,Police Field Operations-Sworn,Master Police Officer,Moyock,Male,Black,Some College,Not Indicated,2010,1975
+113,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Hampton,Male,Black,Not Indicated,Not Indicated,2009,1981
+114,Norfolk Community Services Board,NCSB-Management Info Systems,Management Analyst I,Norfolk,Female,White,Not Indicated,Not Indicated,2010,1981
+115,Neighborhood Services,Dept of Neighborhood Dev - Div,"Codes Specialist, Senior",Chesapeake,Male,White,Not Indicated,Not Indicated,2012,1956
+116,Parks and Recreation,RPOS - Landscape Services,Groundskeeper Crew Leader,Virginia Beach,Male,White,Not Indicated,Not Indicated,2009,1989
+117,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Bachelors Level Degree,Not Indicated,2010,1985
+118,Police,Police Administrative Svcs-Swn,Police Lieutenant,Virginia Beach,Male,White,HS Graduate or Equivalent,Not Indicated,2012,1985
+119,Neighborhood Services,Neighborhood Devel - IMPACT,Citizen Service Advisor III,Norfolk,Female,Black,Not Indicated,Not Indicated,2010,1964
+120,Norfolk Community Services Board,NCSB-Intensive Outpatient,Counselor III,Portsmouth,Male,Black,Not Indicated,Not Indicated,2008,1980
+121,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Virginia Beach,Male,Black,Not Indicated,Not Indicated,2009,1967
+122,Human Services,Hum Svc Div of Social Services,Support Technician,Norfolk,Female,Black,Not Indicated,Not Indicated,2011,1971
+123,Neighborhood Services,Neighborhood Devel - IMPACT,Citizen Service Advisor III,Norfolk,Female,Black,Some College,Not Indicated,2013,1983
+124,Fleet Management,General Services - Fleet Mgmt,"Automotive Repair Tech, Senior",Virginia Beach,Male,Asian,Not Indicated,Not Indicated,2011,1976
+125,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not Indicated,2009,1970
+126,Finance,Finance City Controller,Accounts Payable Manager,Virginia Beach,Male,NS,Not Indicated,Not Indicated,2009,1964
+127,General Services,Gen Srvs-PublicInfrastructure,Carpenter I,Norfolk,Male,White,HS Graduate or Equivalent,Not Indicated,2019,1978
+128,Neighborhood Services,Dept of Neighborhood Dev - Div,"Codes Specialist, Senior",Chesapeake,Male,White,HS Graduate or Equivalent,Not Indicated,2017,1958
+129,Police,Police Field Operations-Guards,School Crossing Guard,Virginia Beach,Female,Black,Less Than HS Graduate,Not Indicated,2019,1997
+130,Utilities,Utilities Water Distribution,Equipment Operator IV,Chesapeake,Male,Black,Not Indicated,Not Indicated,2010,1964
+131,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Chesapeake,Male,White,Not Indicated,Not Indicated,2013,1988
+132,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,Not Indicated,Not Indicated,2013,1991
+133,Libraries,Branch Operations,Messenger/Driver,Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2011,1963
+134,Parks and Recreation,"Rec,Parks,OpenSpace-Rec Center",Recreation Specialist,Norfolk,Male,Black,Not Indicated,Not Indicated,2010,1985
+135,Norfolk Community Services Board,NCSB-Opoid Replacement Clinic,Counselor IV,Chesapeake,Female,,Not Indicated,Not Indicated,2009,1963
+136,Information Technology,Information Technology,Radio Communications Sys Supv,Virginia Beach,Male,White,Not Indicated,Not Indicated,2012,1969
+137,Police,Police Field Operations-Sworn,Police Sergeant,Hampton,Male,White,Not Indicated,Not Indicated,2010,1979
+138,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Portsmouth,Male,Black,Bachelors Level Degree,Not Indicated,2014,1990
+139,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Chesapeake,Male,White,Not Indicated,Not Indicated,2013,1983
+140,Utilities,Utilities Engineering,Engineering Technician III,Norfolk,Female,Black,Not Indicated,Not Indicated,2012,1967
+141,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist Sr,Norfolk,Female,,Not Indicated,Not Indicated,2011,1967
+142,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2010,1986
+143,Utilities,Utilities Water Distribution,Asst Supt of Utility Division,Suffolk,Male,White,Not Indicated,Not Indicated,2012,1965
+144,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Norfolk,Female,Black,Not Indicated,Not Indicated,2011,1987
+145,Police,Police Investigative Svc-Sworn,Master Police Officer,Norfolk,Male,White,Some College,Not Indicated,2015,1986
+146,Police,Police Administration-Civilian,Compliance Inspector,Chesapeake,Male,White,Bachelors Level Degree,Not Indicated,2011,1984
+147,Information Technology,Information Technology,Microcomputer Systems Analyst,Norfolk,Male,Black,Not Indicated,Not Indicated,2011,1983
+148,Elections,Elections,Member Election Board,Norfolk,Female,White,Masters Level Degree,Not Indicated,2023,1960
+149,Public Works,PW Storm Water Mgmt,Utility Maintenance Supervisor,Norfolk,Male,Black,Not Indicated,Not Indicated,2012,1981
+150,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Portsmouth,Male,White,HS Graduate or Equivalent,Not Indicated,2023,1985
+151,Emergency Preparedness and Response,EOC/911,Public Safety Telecomm II,Norfolk,Female,Black,Not Indicated,Not Indicated,2009,1977
+152,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Norfolk,Female,White,Associate Degree,Not Indicated,2013,1988
+153,Libraries,Collection and Support Service,Library Associate II,Chesapeake,Female,White,Not Indicated,Not Indicated,2009,1963
+154,Public Works,PW Storm Water Mgmt,Equipment Operator III,Virginia Beach,Male,Black,HS Graduate or Equivalent,Not Indicated,2012,1968
+155,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Hampton,Female,Black,Not Indicated,Not Indicated,2013,1968
+156,Norfolk Community Services Board,NCSB-Medical Services,Psychiatrist,Chesapeake,Female,White,Post-Doctorate,Not Indicated,2011,1953
+157,Human Services,Hum Svc Div of Social Services,Mgmt Services Administrator,Norfolk,Male,White,Bachelors Level Degree,Not Indicated,2013,1952
+158,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not Indicated,2012,1986
+159,Public Works,PW Storm Water Mgmt,Utility Maintenance Mech II,Virginia Beach,Male,Black,HS Graduate or Equivalent,Not Indicated,2010,1991
+160,Human Resources,Human Resources,Org Dev Analyst (HR only),Chesapeake,Female,White,Not Indicated,Not Indicated,2011,1980
+161,,RyanWhite Grant Administration,Accounting Technician II,Norfolk,Female,White,Not Indicated,Not Indicated,2011,1978
+162,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),Chesapeake,Male,Black,Not Indicated,Not Indicated,2011,1981
+163,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,White,Bachelors Level Degree,Not Indicated,2010,1969
+164,Police,Police Administration - Sworn,Master Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Not Indicated,2012,1987
+165,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2012,1986
+166,Police,Police Administration - Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1985
+167,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),Chesapeake,Male,Black,Not Indicated,Not Indicated,2009,1959
+168,Sheriff and Jail,Judicial - Sheriff and Jail,Education Programs Specialist,chesapeake,Male,White,Not Indicated,Not Indicated,2011,1984
+169,Transit,Transit - Transportation,Engineering Technician II,Chesapeake,Male,White,Not Indicated,Not Indicated,2010,1956
+170,Transit,Transit - Transportation,Maintenance Shop Manager,Chesapeake,Male,Black,Not Indicated,Not Indicated,2008,1983
+171,Human Services,Hum Svc Juvenile Detention Ctr,Food Service Manager,Chesapeake,Male,Black,Not Indicated,Not Indicated,2012,1968
+172,Police,Police Field Operations-Guards,School Crossing Guard,Norfolk,Female,White,Not Indicated,Not Indicated,2009,1967
+173,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,Asian,Not Indicated,Not Indicated,2013,1992
+174,Police,Police Investigative Svc-Sworn,Police Sergeant,Virginia Beach,Male,White,Some College,Not Indicated,2010,1986
+175,Police,Police Investigative Svc-Sworn,Police Sergeant,Suffolk,Male,Black,Not Indicated,Not Indicated,2009,1985
+176,Utilities,Utilities Engineering,Engineering Technician I,Norfolk,Male,Black,Not Indicated,Not Indicated,2011,1959
+177,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Not Indicated,Not Indicated,2013,1990
+178,Norfolk Community Services Board,NCSB-Case Management,Case Manager III,Virginia Beach,Female,Black,Bachelors Level Degree,Not Indicated,2023,1991
+179,Information Technology,Information Technology,Programmer/Analyst V,Chesapeake,Female,Asian,Bachelors Level Degree,Not Indicated,2017,1976
+180,"Cultural Facilities, Arts and Entertainment",CFAE-Cultural Affrs/SpecEvents,Public Information Spec I,Chesapeake,Female,Hispanic,Bachelors Level Degree,Not Indicated,2022,1999
+181,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Chesapeake,Male,Hispanic,Not Indicated,Not Indicated,2011,1983
+182,City Real Estate Assessor,City Assessor,Real Estate Appraiser IV,Elizabeth City,Male,White,Not Indicated,Not Indicated,2009,1965
+183,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,White,Bachelors Level Degree,Not Indicated,2011,1987
+184,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Chesapeake,Female,Black,Not Indicated,Not Indicated,2010,1984
+185,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1987
+186,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Portsmouth,Male,White,Not Indicated,Not Indicated,2009,1981
+187,Utilities,Utilities Water Quality,"Water Chemist, Senior",Norfolk,Female,White,Masters Level Degree,Not Indicated,2020,1985
+188,Human Services,Human Services Detention Ctr,Benefit Programs Specialist II,Norfolk,Female,Black,Not Indicated,Not Indicated,2013,1964
+189,Utilities,Utilities Water Quality,Asst Supt of Utility Division,Norfolk,Female,Black,Not Indicated,Not Indicated,2008,1983
+190,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not Indicated,2009,1967
+191,Elections,Elections,Election Assistant I,Chesapeake,Female,White,Bachelors Level Degree,Not Indicated,2019,1994
+192,Human Services,Hum Svc Div of Social Services,Programs Manager,Virginia Beach,Female,Asian,Not Indicated,Not Indicated,2012,1972
+193,Norfolk Community Services Board,NCSB-Drug Court,Case Manager III,Virginia Beach,Female,Black,Not Indicated,Not Indicated,2011,1974
+194,Norfolk Community Services Board,Clinical Acute Services Admin,Administrative Assistant II,Suffolk,Female,Black,Not Indicated,Not Indicated,2012,1984
+195,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2009,1984
+196,Information Technology,Information Technology,Programmer/Analyst IV,Chesapeake,Male,Black,Not Indicated,Not Indicated,2013,1971
+197,Utilities,Utilities Water Distribution,Utility Maintenance Mech II,Norfolk,Male,Black,Not Indicated,Not Indicated,2013,1982
+198,Libraries,Branch Operations,Librarian II,Norfolk,Male,Black,Not Indicated,Not Indicated,2010,1982
+199,City Planning,Planning-Planning,"Design & Rehab Consultant, Sr",Virginia Beach,Male,Black,Not Indicated,Not Indicated,2011,1968
+200,Public Works,PW Storm Water Mgmt,"Utility MaintenanceSupv, Sr",Norfolk,Male,White,Not Indicated,Not Indicated,2009,1985
+201,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Chesapeake,Female,Black,Not Indicated,Not Indicated,2011,1986
+202,Information Technology,Information Technology,Programmer/Analyst V,Virginia Beach,Female,Asian,Not Indicated,Not Indicated,2011,1974
+203,Sheriff and Jail,Judicial - Sheriff and Jail,Info Tech Systems Director,Virginia Beach,Male,White,Associate Degree,Not Indicated,2015,1987
+204,Information Technology,Information Technology,Microcomputer Sys Analyst Sr,Elizabeth City,Male,White,Associate Degree,Not Indicated,2022,1983
+205,Norfolk Community Services Board,NCSB-Intensive Outpatient,Clinician,Chesapeake,Female,White,Not Indicated,Not Indicated,2010,1952
+206,Public Works,PW Storm Water Mgmt,Design/Construction Prj Mgr Sr,Suffolk,Male,Asian,Not Indicated,Not Indicated,2009,1972
+207,Utilities,Utilities Water Distribution,Maintenance Worker II,Norfolk,Male,Black,Not Indicated,Not Indicated,2013,1989
+208,Fire-Rescue,Fire-Rescue,Fire Lieutenant,Chesapeake,Male,White,Not Indicated,Not Indicated,2011,1989
+209,Slover Library,Slover Library,Library Associate  I,Norfolk,Female,White,Some College,Not Indicated,2012,1979
+210,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Coinjock,Male,White,Not Indicated,Not Indicated,2011,1972
+211,Utilities,Utilities Water Distribution,Utility Maintenance Supervisor,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2011,1985
+212,Police,Police Administrative Svc-Civl,Operations Officer II,Norfolk,Female,Black,Not Indicated,Not Indicated,2013,1965
+213,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Virginia Beach,Female,White,Bachelors Level Degree,Not Indicated,2022,1978
+214,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Suffolk,Male,Asian,Not Indicated,Not Indicated,2013,1986
+215,Public Works,PW Storm Water Mgmt,Project Manager,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1981
+216,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2013,1987
+217,Police,Police Field Operations-Civiln,Humane Officer I,Norfolk,Male,White,Not Indicated,Not Indicated,2010,1984
+218,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2012,1987
+219,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Not Indicated,Not Indicated,2009,1979
+220,Fleet Management,General Services - Fleet Mgmt,"Automotive Repair Tech, Senior",Norfolk,Male,White,Associate Degree,Not Indicated,2019,1999
+221,Police,Police Administrative Svcs-Swn,Police Sergeant,Chesapeake,Female,White,Not Indicated,Not Indicated,2009,1979
+222,Utilities,Utilities Water Production,Water Production Manager,Yorktown,Male,White,Not Indicated,Not Indicated,2010,1960
+223,Fire-Rescue,Fire-Rescue,Fire Lieutenant,Chesapeake,Female,White,Not Indicated,Not Indicated,2010,1984
+224,Utilities,Utilities Water Distribution,Equipment Operator III,Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2018,1966
+225,Sheriff and Jail,Judicial - Sheriff and Jail,Executive Assistant - SC,Virginia Beach,Female,White,Not Indicated,Not Indicated,2009,1986
+226,Emergency Preparedness and Response,EOC/911,Public Safety Telecomm II,Chesapeake,Female,Black,Not Indicated,Not Indicated,2012,1971
+227,Parks and Recreation,RPOS - Landscape Services,Bureau Manager,Suffolk,Male,White,Technical School,Not Indicated,2014,1979
+228,Police,Police Field Operations-Sworn,Master Police Officer,Chesapeake,Male,White,Masters Level Degree,Not Indicated,2010,1974
+229,Human Services,Hum Svc Div of Social Services,Fiscal Monitoring Spec I,Chesapeake,Female,Black,Not Indicated,Not Indicated,2009,1961
+230,Police,Police Administrative Svcs-Swn,Police Sergeant,Virginia Beach,Male,White,Not Indicated,Not Indicated,2008,1986
+231,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Chesapeake,Male,White,Not Indicated,Not Indicated,2013,1969
+232,Police,Police Investigative Svc-Civil,Administrative Assistant I,Gates,Female,Black,Not Indicated,Not Indicated,2012,1966
+233,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1984
+234,Elections,Elections,Director of Elections,Norfolk,Female,White,Not Indicated,Not Indicated,2011,1971
+235,Fire-Rescue,Fire-Rescue,Fire Inspector,Virginia Beach,Male,White,Not Indicated,Not Indicated,2012,1988
+236,Human Services,Hum Svc Juvenile Detention Ctr,Maintenance Supervisor I,Norfolk,Male,Black,Not Indicated,Not Indicated,2012,1959
+237,Fire-Rescue,Fire-Rescue,Fire Inspector,Hampton,Male,Black,Not Indicated,Not Indicated,2009,1982
+238,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1980
+239,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Not Indicated,Not Indicated,2011,1978
+240,Police,Police Field Operations-Sworn,Police Sergeant,Portsmouth,Male,White,Not Indicated,Not Indicated,2011,1987
+241,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,HS Graduate or Equivalent,Not Indicated,2018,1988
+242,Utilities,Utilities Engineering,Civil Engineer IV,Norfolk,Male,Black,Bachelors Level Degree,Not Indicated,2013,1989
+243,Housing and Community Development,HUD Entitlement Management,Management Analyst II,Norfolk,Female,Black,Not Indicated,Not Indicated,2010,1991
+244,Fleet Management,General Services - Fleet Mgmt,"Automotive Repair Tech, Senior",Virginia Beach,Male,White,Technical School,Not Indicated,2016,1968
+245,Utilities,Utilities WasteWater,Equipment Operator III,Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2012,1988
+246,Police,Police Administration - Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1983
+247,Cemeteries,Cemetery Fund,Equipment Operator III,Norfolk,Male,Black,Not Indicated,Not Indicated,2019,1990
+248,Zoological Park,Zoo- Operations,Security Officer,Norfolk,Male,White,Not Indicated,Not Indicated,2013,1966
+249,Human Services,Human Services - VJCCCA,Programs Manager,Newport News,Female,Black,Not Indicated,Not Indicated,2012,1949
+250,Police,Police Administration - Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2011,1988
+251,City Auditor,City Auditor,Assistant City Auditor II,Norfolk,Female,Black,HS Graduate or Equivalent,Not Indicated,2019,1978
+252,Commonwealths Attorney,Commonwealth's Attorney,Deputy Commonwealth's Att,Norfolk,Male,White,Not Indicated,Not Indicated,2012,1984
+253,Public Works,PW Waste Management,Waste Mgmt Auto Mechanic,Virginia Beach,Male,White,Technical School,Not Indicated,2015,1972
+254,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Chesapeake,Male,White,Not Indicated,Not Indicated,2011,1980
+255,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Portsmouth,Female,Black,Not Indicated,Not Indicated,2017,1987
+256,City Planning,Planning-Planning,Principal Planner,Chesapeake,Male,White,Masters Level Degree,Not Indicated,2012,1990
+257,Norfolk Community Services Board,NCSB Homeless Project,Case Manager III,Chesapeake,Female,Black,Not Indicated,Not Indicated,2012,1955
+258,Public Works,PW Waste Management,Refuse Collection Supv,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2010,1953
+259,General Services,General Services-Parking Fac,Customer Service Rep,Norfolk,Female,Black,HS Graduate or Equivalent,Not Indicated,2023,1993
+260,Police,Police Administrative Svcs-Swn,Police Sergeant,Norfolk,Male,White,Not Indicated,Not Indicated,2012,1984
+261,Fleet Management,General Services - Fleet Mgmt,"Automotive Repair Tech, Senior",Chesapeake,Male,White,Not Indicated,Not Indicated,2011,1968
+262,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Not Indicated,2012,1978
+263,Norfolk Community Services Board,NCSB-Medical Services,Support Technician,Portsmouth,Female,White,Not Indicated,Not Indicated,2012,1985
+264,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Portsmouth,Male,,Not Indicated,Not Indicated,2010,1986
+265,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Elizabeth City,Male,White,Not Indicated,Not Indicated,2011,1979
+266,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2009,1981
+267,Sheriff and Jail,Judicial - Sheriff and Jail,Maintenance Mechanic - SC,Elizabeth City,Male,White,Not Indicated,Not Indicated,2009,1971
+268,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2009,1970
+269,City Real Estate Assessor,City Assessor,Real Estate Appraisal Tm Ldr,Virginia Beach,Male,White,Not Indicated,Not Indicated,2009,1966
+270,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Female,Hispanic,Not Indicated,Not Indicated,2009,1981
+271,Commissioner of the Revenue,Commissioner of Revenue,Deputy III - COR,Norfolk,Female,Hawaiian,Not Indicated,Not Indicated,2009,1961
+272,General Services,Gen Srvs-PublicInfrastructure,Supervising Operating Engineer,Norfolk,Male,White,Not Indicated,Not Indicated,2011,1973
+273,Norfolk Community Services Board,NCSB-PACT,Psychiatrist,Virginia Beach,Female,White,Not Indicated,Not Indicated,2011,1972
+274,Utilities,Utilities Water Production,General Utility Maint Supv,Virginia Beach,Male,White,Not Indicated,Not Indicated,2013,1955
+275,Fire-Rescue,Fire-Rescue,Fire Lieutenant,Chesapeake,Male,White,Not Indicated,Not Indicated,2010,1989
+276,Police,Police Administration - Sworn,Master Police Officer,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2010,1986
+277,Police,Police Field Operations-Guards,School Crossing Guard,Hampton,Female,Black,Not Indicated,Not Indicated,2011,1953
+278,Human Services,Hum Svc Div of Social Services,Data Quality Control Manager,Norfolk,Female,Black,Not Indicated,Not Indicated,2011,1967
+279,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Currituck,Male,White,Not Indicated,Not Indicated,2011,1983
+280,Public Works,PW Director's Office,Management Analyst III,Norfolk,Female,Black,Not Indicated,Not Indicated,2011,1991
+281,General Services,Gen Srvs-PublicInfrastructure,Electrician II,Suffolk,Male,White,Less Than HS Graduate,Not Indicated,2019,1981
+282,Police,Police Field Operations-Guards,School Crossing Guard,Norfolk,Male,Black,Not Indicated,Not Indicated,2012,1963
+283,City Planning,Planning-Planning,Division Head,Norfolk,Female,White,Not Indicated,Not Indicated,2013,1964
+284,Nauticus,Maritime Center- USS Wisconsin,Maritime Center Specialist II,Norfolk,Male,White,Not Indicated,Not Indicated,2010,1963
+285,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2011,1989
+286,Resilience,Office of Resilience,Assistant Director,Virginia Beach,Male,White,Not Indicated,Not Indicated,2010,1985
+287,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Female,White,Not Indicated,Not Indicated,2011,1984
+288,Utilities,Utilities WasteWater,Utility Maintenance Supervisor,Virginia Beach,Male,Black,Not Indicated,Not Indicated,2012,1988
+289,Utilities,Utilities Water Distribution,Utility Maintenance Mech I,Norfolk,Male,Black,Not Indicated,Not Indicated,2009,1990
+290,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Virginia Beach,Female,Black,Not Indicated,Not Indicated,2012,1982
+291,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Norfolk,Female,White,HS Graduate or Equivalent,Not Indicated,2012,1976
+292,Norfolk Community Services Board,Shelter and Support Services,Human Services Aide,Norfolk,Female,Black,Not Indicated,Not Indicated,2011,1982
+293,Norfolk Community Services Board,NCSB - Housing & Homeless Serv,Counselor III,Virginia Beach,Female,Black,Not Indicated,Not Indicated,2009,1968
+294,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Chesapeake,Female,Black,Some College,Not Indicated,2017,1979
+295,Cemeteries,Cemetery Fund,Division Head,Norfolk,Male,White,Not Indicated,Not Indicated,2013,1978
+296,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Portsmouth,Male,White,Not Indicated,Not Indicated,2010,1984
+297,Budget and Strategic Planning,Office Budget & Strategic Plan,Bus Process Automation Manager,Arvada,Female,White,Bachelors Level Degree,Not Indicated,2015,1974
+298,Public Works,PW Waste Management,"Refuse Collector, Lead",Chesapeake,Male,Black,Not Indicated,Not Indicated,2010,1965
+299,Utilities,Utilities Director's Office,Support Technician,Virginia Beach,Female,Black,Not Indicated,Not Indicated,2010,1981
+300,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Norfolk,Female,White,Not Indicated,Not Indicated,2012,1988
+301,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Chesapeake,Male,White,Not Indicated,Not Indicated,2013,1981
+302,Police,Police Administrative Svc-Civl,Administrative Assistant II,Norfolk,Female,Black,Some College,Not Indicated,2014,1977
+303,Neighborhood Services,Neighborhood Development,Assistant Director,Norfolk,Female,Black,Not Indicated,Not Indicated,2011,1976
+304,Police,Police Field Operations-Guards,School Crossing Guard,Norfolk,Male,Black,HS Graduate or Equivalent,Not Indicated,2021,1962
+305,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Chesapeake,Female,,Masters Level Degree,Not Indicated,2018,1992
+306,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Chesapeake,Male,White,Not Indicated,Not Indicated,2009,1985
+307,Police,Police Administrative Svcs-Swn,Master Police Officer,Virginia Beach,Male,Black,Bachelors Level Degree,Not Indicated,2010,1965
+308,Norfolk Community Services Board,NCSB-Financial Management,Reimbursement Supervisor,Newport News,Female,Black,Some College,Not Indicated,2011,1969
+309,Emergency Preparedness and Response,EOC/Emergency Management,"Dir,OfcofEmergPrepare&Response",Virginia Beach,Male,White,Not Indicated,Not Indicated,2011,1971
+310,Parks and Recreation,"Rec,Parks,OpenSpace-Rec Center",Facilities Manager,Norfolk,Male,White,Not Indicated,Not Indicated,2012,1988
+311,Norfolk Community Services Board,NCSB-Mental Health Svs Admin,Programs Manager,Virginia Beach,Female,White,Not Indicated,Not Indicated,2013,1970
+312,Police,Police Field Operations-Sworn,Master Police Officer,Chesapeake,Male,Asian,Associate Degree,Not Indicated,2010,1985
+313,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Chesapeake,Male,White,Not Indicated,Not Indicated,2010,1969
+314,Police,Police Field Operations-Sworn,Police Lieutenant,Chesapeake,Male,White,Not Indicated,Not Indicated,2009,1981
+315,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Chesapeake,Male,Black,Not Indicated,Not Indicated,2009,1969
+316,Emergency Preparedness and Response,EOC/911,Public Safety Telecomm I,Virginia Beach,Female,White,Not Indicated,Not Indicated,2010,1984
+317,Neighborhood Services,Neighborhood Development,Neighborhood Services Manager,Norfolk,Male,White,Not Indicated,Not Indicated,2010,1973
+318,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Virginia Beach,Female,Black,Not Indicated,Not Indicated,2011,1982
+319,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Norfolk,Female,Black,Not Indicated,Not Indicated,2009,1974
+320,Elections,Elections,Election Aide,Norfolk,Female,Black,Not Indicated,Not Indicated,2012,1955
+321,Police,Police Administration - Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not Indicated,2012,1987
+322,Police,Police Field Operations-Guards,School Crossing Guard,Norfolk,Female,White,Not Indicated,Not Indicated,2009,1972
+323,General Services,Gen Srvs-PublicInfrastructure,Maintenance Supervisor II,Chesapeake,Male,Black,Not Indicated,Not Indicated,2012,1971
+324,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not Indicated,2009,1983
+325,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Female,White,Not Indicated,Not Indicated,2011,1984
+326,Parks and Recreation,RPOS - Landscape Services,Athletics Groundskeeper,Norfolk,Male,Black,Not Indicated,Not Indicated,2019,1981
+327,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Hampton,Male,Black,Not Indicated,Not Indicated,2009,1982
+328,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,White,Not Indicated,Not Indicated,2012,1988
+329,Police,Police Field Operations-Sworn,Police Sergeant,Moyock,Male,White,Not Indicated,Not Indicated,2011,1987
+330,Fire-Rescue,Fire-Rescue,Fire Inspector,Moyock,Male,White,Not Indicated,Not Indicated,2011,1991
+331,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Norfolk,Female,Black,Not Indicated,Not Indicated,2011,1963
+332,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,White,Not Indicated,Not Indicated,2010,1972
+333,Parks and Recreation,RPOS - Landscape Services,Maintenance Supervisor II,Chesapeake,Male,White,Not Indicated,Not Indicated,2013,1982
+334,Norfolk Community Services Board,NCSB-Medical Services,Psychiatrist,Virginia Beach,Male,White,Not Indicated,Not Indicated,2009,1956
+335,Human Services,Hum Svc Div of Social Services,Programs Manager,Virginia Beach,Female,Black,Some College,Veteran,1999,1970
+336,General Services,Gen Srvs-PublicInfrastructure,Electrician II,Norfolk,Male,White,Not Indicated,Veteran,1997,1957
+337,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),Smithfield,Male,White,Not Indicated,Veteran,2000,1979
+338,Fire-Rescue,Fire-Rescue,Fire Captain,Norfolk,Male,White,Not Indicated,Veteran,1996,1968
+339,Police,Police Field Operations-Sworn,Master Police Officer,Suffolk,Male,White,Not Indicated,Veteran,1996,1972
+340,Cemeteries,Cemetery Fund,Groundskeeper Crew Leader,Hampton,Male,Black,Not Indicated,Veteran,2001,1972
+341,Police,Police Investigative Svc-Sworn,Police Sergeant,Chesapeake,Male,White,Not Indicated,Veteran,1999,1975
+342,Police,Police Investigative Svc-Sworn,Master Police Officer,Port Haywood,Male,White,Bachelors Level Degree,Veteran,2005,1974
+343,General Services,Gen Srvs-PublicInfrastructure,Maintenance Mechanic II,Norfolk,Male,White,Some College,Veteran,2022,1982
+344,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,Black,Not Indicated,Veteran,2000,1964
+345,Police,Police Administrative Svcs-Swn,Master Police Officer,Norfolk,Female,White,Not Indicated,Veteran,2000,1969
+346,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,2013,1984
+347,Fire-Rescue,Fire-Rescue,Fire Lieutenant,Chesapeake,Male,White,Not Indicated,Veteran,2013,1986
+348,Police,Police Investigative Svc-Sworn,Police Sergeant,Virginia Beach,Male,Asian,Not Indicated,Veteran,2003,1977
+349,Nauticus,Maritime Center - Visitor Svcs,Maritime Center Specialist II,Norfolk,Male,Black,Some College,Veteran,1996,1950
+350,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Norfolk,Male,Black,Not Indicated,Veteran,2003,1940
+351,Emergency Preparedness and Response,EOC/911,Public Safety Telecomm III,Virginia Beach,Female,Black,Associate Degree,Veteran,2014,1984
+352,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Virginia Beach,Male,Black,Not Indicated,Veteran,2002,1970
+353,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,2015,1980
+354,Public Works,Public Works-Towing Operations,Towing Operations Manager,Norfolk,Male,White,Not Indicated,Veteran,2000,1959
+355,Parks and Recreation,"Rec.Pks,OpenSpace-Special Srvs",Lifeguard,Norfolk,Male,Black,Some College,Veteran,1995,1970
+356,City Attorney,Law,Deputy City Attorney I,Norfolk,Male,Black,Not Indicated,Veteran,2001,1958
+357,Transit,Transit - Transportation,Operations Manager,Chesapeake,Male,White,Not Indicated,Veteran,2000,1977
+358,City Attorney,Law,Paralegal Specialist II,Chesapeake,Female,White,Masters Level Degree,Veteran,2022,1985
+359,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Camden,Male,White,Not Indicated,Veteran,1997,1969
+360,Police,Police Administrative Svcs-Swn,Police Captain,Chesapeake,Male,Hispanic,Not Indicated,Veteran,2000,1973
+361,Police,Police Field Operations-Sworn,Master Police Officer,Chesapeake,Male,Black,Not Indicated,Veteran,1999,1972
+362,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,White,Some College,Veteran,2013,1981
+363,Parks and Recreation,RPOS - Landscape Services,Maintenance Mechanic II,Virginia Beach,Male,White,Associate Degree,Veteran,2021,1976
+364,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Virginia Beach,Male,White,Not Indicated,Veteran,1996,1962
+365,Fire-Rescue,Fire-Rescue,Fire Inspector,Chesapeake,Female,White,Not Indicated,Veteran,2013,1969
+366,General Services,General Services-Parking Fac,Maintenance Mechanic II,Norfolk,Male,Black,Not Indicated,Veteran,2001,1957
+367,Human Services,Hum Svc Div of Social Services,Family Services Supervisor,Norfolk,Female,Black,Masters Level Degree,Veteran,2022,1975
+368,Police,Police Investigative Svc-Sworn,Master Police Officer,Norfolk,Male,White,Not Indicated,Veteran,2000,1968
+369,Police,Police Administrative Svcs-Swn,Police Recruit,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2023,1995
+370,Police,Police Field Operations-Sworn,Police Lieutenant,Virginia Beach,Male,White,Not Indicated,Veteran,1997,1970
+371,Public Works,PW Right of Way,Construction Inspector II,Norfolk,Male,White,Not Indicated,Veteran,1998,1961
+372,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Currituck,Male,White,Not Indicated,Veteran,1996,1961
+373,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Veteran,2002,1976
+374,Information Technology,Information Technology,Network Engineer III,Virginia Beach,Male,White,Not Indicated,Veteran,1997,1956
+375,Police,Police Administrative Svcs-Swn,Police Captain,Virginia Beach,Male,Black,Not Indicated,Veteran,1998,1967
+376,Police,Police Investigative Svc-Sworn,Police Lieutenant,Suffolk,Male,Black,Not Indicated,Veteran,1999,1967
+377,Emergency Preparedness and Response,EOC/911,Public Safety Telecomm Supv,Virginia Beach,Male,Black,Not Indicated,Veteran,2000,1960
+378,,"Diversity, Equity, and Incl.",Econ Inclusion Mgr (DEI Only),Norfolk,Female,White,Bachelors Level Degree,Veteran,2023,1992
+379,Police,Police Investigative Svc-Sworn,Police Lieutenant,Portsmouth,Male,Black,Not Indicated,Veteran,2000,1978
+380,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,Not Indicated,Veteran,1996,1963
+381,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Some College,Veteran,2014,1984
+382,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Shawboro,Male,White,Not Indicated,Veteran,2013,1980
+383,Police,Police Administrative Svcs-Swn,Police Recruit,Virginia Beach,Female,NS,Doctorate (Professional),Veteran,2023,1977
+384,Transit,Transit - Transportation,Traffic Sign Fabricator II,Portsmouth,Male,Black,Some College,Veteran,2015,1985
+385,Police,Police Field Operations-Sworn,Master Police Officer,Chesapeake,Male,Black,Not Indicated,Veteran,1996,1967
+386,General Services,Gen Srvs-PublicInfrastructure,Operating Engineer II,Chesapeake,Male,White,Not Indicated,Veteran,1999,1973
+387,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Male,White,Not Indicated,Veteran,1996,1955
+388,Police,Police Investigative Svc-Sworn,Master Police Officer,Moyock,Male,White,Not Indicated,Veteran,2000,1973
+389,Commissioner of the Revenue,Commissioner of Revenue,Deputy III - COR,Hampton,Male,White,Not Indicated,Veteran,1998,1949
+390,Finance,Finance - Director's Office,Fiscal Systems Manager,Chesapeake,Male,Asian,Bachelors Level Degree,Veteran,2014,1981
+391,Public Works,PW Waste Management,Refuse Collector III,Norfolk,Male,Black,HS Graduate or Equivalent,Veteran,2013,1975
+392,Police,Police Field Operations-Sworn,Police Sergeant,Chesapeake,Male,Black,Not Indicated,Veteran,1997,1964
+393,Police,Police Field Operations-Sworn,Police Lieutenant,Moyock,Female,White,Not Indicated,Veteran,2003,1978
+394,Information Technology,Information Technology,Programmer/Analyst V,Virginia Beach,Male,White,Some College,Veteran,2014,1979
+395,Police,Police Field Operations-Sworn,Police Sergeant,Hampton,Male,White,Not Indicated,Veteran,1997,1975
+396,Police,Police Investigative Svc-Sworn,Police Sergeant,Virginia Beach,Male,White,Not Indicated,Veteran,2000,1972
+397,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Veteran,1996,1962
+398,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Captain),Virginia Beach,Male,White,Not Indicated,Veteran,1998,1974
+399,Public Works,PW Div of Streets & Bridges,Design/Construction Prj Mgr Sr,Norfolk,Male,White,Not Indicated,Veteran,2001,1960
+400,Neighborhood Services,Dept of Neighborhood Dev - Div,Codes Specialist,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2022,1996
+401,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Virginia Beach,Male,Black,Not Indicated,Veteran,1998,1960
+402,Parks and Recreation,"Rec,Parks,OpenSpace-Rec Center",Recreation Aide,Norfolk,Female,Black,Some College,Veteran,2022,2000
+403,General Services,General Services-Parking Fac,Meter Monitor,Virginia Beach,Male,White,Not Indicated,Veteran,1997,1970
+404,City Planning,Planning - Bldg Constr,"Codes Specialist, Senior",Chesapeake,Male,Black,Some College,Veteran,2022,1956
+405,Economic Development,Development,Management Analyst II,Chesapeake,Female,White,Bachelors Level Degree,Veteran,2000,1973
+406,Police,Police Administrative Svcs-Swn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Veteran,1996,1960
+407,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Moyock,Male,Am. Indian,Some College,Veteran,2019,1992
+408,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,HS Graduate or Equivalent,Veteran,2020,1990
+409,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,2020,1988
+410,City Manager,Executive City Manager,Mgmt Analyst II (CMO Only),Chesapeake,Female,Black,Some College,Veteran,2022,1996
+411,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2022,1992
+412,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Suffolk,Male,White,HS Graduate or Equivalent,Veteran,2021,2000
+413,Parks and Recreation,"Rec,Parks,OpenSpace-Rec Center",Rec Activity Instructor,Norfolk,Female,Black,Bachelors Level Degree,Veteran,2019,1995
+414,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,Black,Some College,Veteran,2017,1982
+415,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2018,1995
+416,Police,Police Field Operations-Sworn,Police Officer,Norfolk,Male,White,Some College,Veteran,2019,1990
+417,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Hampton,Female,Black,Some College,Veteran,2018,1995
+418,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Hampton,Female,Hispanic,HS Graduate or Equivalent,Veteran,2017,1983
+419,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer I,Norfolk,Female,Asian,Bachelors Level Degree,Veteran,2017,1994
+420,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Chesapeake,Male,White,Masters Level Degree,Veteran,2020,1989
+421,Human Resources,Human Resources,Emp Rel Anly I (HR only),Norfolk,Female,White,Masters Level Degree,Veteran,2018,1990
+422,Police,Police Investigative Svc-Sworn,Master Police Officer,Moyock,Male,White,Not Indicated,Veteran,2012,1979
+423,City Auditor,City Auditor,City Auditor,Norfolk,Female,Black,Masters Level Degree,Veteran,2013,1970
+424,Fleet Management,General Services - Fleet Mgmt,"Automotive Repair Tech, Senior",Virginia Beach,Male,Asian,Some College,Veteran,2017,1992
+425,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Moyock,Male,,Not Indicated,Veteran,2013,1991
+426,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Newport News,Male,White,Bachelors Level Degree,Veteran,2018,1991
+427,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,Bachelors Level Degree,Veteran,2019,1990
+428,Police,Police Field Operations-Sworn,Police Officer,Norfolk,Male,White,Some College,Veteran,2021,1995
+429,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Male,White,Bachelors Level Degree,Veteran,2018,1988
+430,Public Health,Public Health Vector Control,Refuse Inspector,Norfolk,Female,Black,Some College,Veteran,2014,1977
+431,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,Some College,Veteran,2020,1993
+432,Police,Police Investigative Svc-Sworn,Police Officer,Virginia Beach,Female,White,Bachelors Level Degree,Veteran,2019,1994
+433,Police,Police Administration - Sworn,Master Police Officer,Virginia Beach,Male,White,Some College,Veteran,2014,1989
+434,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Virginia Beach,Female,Black,Bachelors Level Degree,Veteran,2022,1998
+435,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Norfolk,Male,White,Not Indicated,Veteran,2001,1969
+436,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,2016,1990
+437,Police,Police Administrative Svcs-Swn,Police Recruit,Virginia Beach,Female,White,Bachelors Level Degree,Veteran,2023,1997
+438,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,Some College,Veteran,2018,1993
+439,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,Hispanic,Some College,Veteran,2015,1992
+440,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,Bachelors Level Degree,Veteran,2022,1999
+441,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Norfolk,Male,White,HS Graduate or Equivalent,Veteran,2023,1998
+442,Police,Police Administration - Sworn,Police Sergeant,Poquoson,Male,White,Not Indicated,Veteran,2008,1982
+443,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Virginia Beach,Male,Black,Not Indicated,Veteran,2000,1967
+444,Police,Police Field Operations-Sworn,Master Police Officer,Newport News,Male,Hispanic,Bachelors Level Degree,Veteran,2015,1985
+445,"Cultural Facilities, Arts and Entertainment",CF - MacArthur Memorial,Administrative Manager,Virginia Beach,Female,Black,Masters Level Degree,Veteran,2007,1974
+446,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Reston,Male,White,Bachelors Level Degree,Veteran,2018,1989
+447,General Services,General Services-Animal Care,Office Manager,Norfolk,Female,White,Some College,Veteran,2015,1988
+448,Police,Police Field Operations-Sworn,Police Sergeant,Virginia Beach,Female,Black,Bachelors Level Degree,Veteran,2013,1989
+449,Police,Police Field Operations-Sworn,Police Officer,Norfolk,Male,White,HS Graduate or Equivalent,Veteran,2019,1992
+450,Police,Police Field Operations-Sworn,Police Officer,Yorktown,Male,White,Some College,Veteran,2021,1991
+451,Police,Police Investigative Svc-Sworn,Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2017,1989
+452,Police,Police Administration - Sworn,Master Police Officer,South Mills,Male,White,Bachelors Level Degree,Veteran,2016,1988
+453,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Norfolk,Male,Black,Not Indicated,Veteran,1994,1963
+454,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,Associate Degree,Veteran,2017,1986
+455,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,2019,1992
+456,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,Some College,Veteran,2021,2001
+457,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2023,1994
+458,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,Not Indicated,Veteran,2002,1974
+459,Police,Police Field Operations-Sworn,Police Sergeant,Suffolk,Male,Black,Not Indicated,Veteran,2008,1977
+460,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Portsmouth,Female,White,Some College,Veteran,2016,1994
+461,Police,Police Field Operations-Sworn,Police Sergeant,South Mills,Male,Hispanic,Not Indicated,Veteran,2009,1976
+462,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,White,Some College,Veteran,2013,1982
+463,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,Black,Bachelors Level Degree,Veteran,2015,1989
+464,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2022,2000
+465,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Norfolk,Male,Asian,Some College,Veteran,2014,1991
+466,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Elizabeth City,Male,Black,Not Indicated,Veteran,2008,1986
+467,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Norfolk,Male,Black,Bachelors Level Degree,Veteran,2015,1993
+468,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2012,1983
+469,Police,Police Field Operations-Sworn,Master Police Officer,Chesapeake,Male,White,HS Graduate or Equivalent,Veteran,2013,1990
+470,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,Some College,Veteran,2022,1995
+471,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,2019,1993
+472,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Female,White,Bachelors Level Degree,Veteran,2020,1991
+473,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,Hispanic,Some College,Veteran,2018,1990
+474,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Female,Black,Bachelors Level Degree,Veteran,2009,1991
+475,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Virginia Beach,Female,Am. Indian,Some College,Veteran,2022,1991
+476,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Veteran,2004,1980
+477,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Moyock,Male,Hispanic,Not Indicated,Veteran,2022,1995
+478,Utilities,Utilities Water Distribution,Administrative Assistant I,Virginia Beach,Female,Black,Not Indicated,Veteran,2008,1973
+479,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Chesapeake,Male,Black,HS Graduate or Equivalent,Veteran,2014,1971
+480,Police,Police Administrative Svcs-Swn,Police Officer,Norfolk,Male,Black,Some College,Veteran,2022,1994
+481,Police,Police Field Operations-Sworn,Police Officer,Suffolk,Male,Asian,Associate Degree,Veteran,2017,1996
+482,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Some College,Veteran,2021,1990
+483,Police,Police Administrative Svcs-Swn,Master Police Officer,Norfolk,Male,Asian,Not Indicated,Veteran,2005,1984
+484,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Some College,Veteran,2018,1986
+485,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Female,Black,Not Indicated,Veteran,2018,1987
+486,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,Black,HS Graduate or Equivalent,Veteran,2018,1997
+487,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Some College,Veteran,2022,1993
+488,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer I,Norfolk,Male,Hispanic,Bachelors Level Degree,Veteran,2023,1992
+489,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2021,1997
+490,Commonwealths Attorney,Commonwealth's Attorney,Asst Commonwealth's Att I,Norfolk,Male,White,Doctorate (Academic),Veteran,2022,1996
+491,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,Hispanic,Some College,Veteran,2021,1994
+492,Police,Police Field Operations-Sworn,Police Officer,Norfolk,Male,Black,Some College,Veteran,2021,1992
+493,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,Hawaiian,Not Indicated,Veteran,2007,1980
+494,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,Black,Not Indicated,Veteran,2008,1985
+495,Police,Police Field Operations-Sworn,Master Police Officer,Suffolk,Male,Black,HS Graduate or Equivalent,Veteran,2012,1987
+496,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,Hispanic,Not Indicated,Veteran,2008,1973
+497,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,Black,HS Graduate or Equivalent,Veteran,2017,1994
+498,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Bachelors Level Degree,Veteran,2016,1988
+499,Police,Police Administrative Svcs-Swn,Police Recruit,Norfolk,Male,Hispanic,Some College,Veteran,2023,1994
+500,Police,Police Field Operations-Sworn,Master Police Officer,Norfolk,Male,White,Some College,Veteran,2012,1990
+501,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Norfolk,Male,White,Some College,Veteran,2006,1983
+502,Economic Development,Development,Management Analyst I,Norfolk,Male,Asian,Some College,Veteran,2022,2000
+503,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2021,2001
+504,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Female,White,Associate Degree,Veteran,2021,1991
+505,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,Hispanic,Associate Degree,Veteran,2019,1978
+506,Police,Police Field Operations-Guards,School Crossing Guard,Norfolk,Male,,Some College,Veteran,2021,1949
+507,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,2013,1976
+508,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Suffolk,Female,White,Some College,Veteran,2018,1989
+509,Economic Development,Development,Special Assistant,Norfolk,Male,Asian,Masters Level Degree,Veteran,2017,1965
+510,Police,Police Administrative Svcs-Swn,Police Recruit,Virginia Beach,Male,White,Some College,Veteran,2023,1991
+511,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Chesapeake,Male,White,Some College,Veteran,2011,1979
+512,Nauticus,Maritime Center- USS Wisconsin,Maritime Center Specialist II,Virginia Beach,Male,White,Associate Degree,Veteran,2016,1946
+513,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Chesapeake,Male,Black,Some College,Veteran,2018,1995
+514,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,2018,1986
+515,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Portsmouth,Female,Black,Associate Degree,Veteran,2015,1969
+516,Human Services,Human Services Detention Ctr,Management Analyst II,Norfolk,Female,Black,Masters Level Degree,Veteran,2003,1987
+517,Information Technology,Information Technology,Application Dev Team Supv,Suffolk,Male,White,Masters Level Degree,Veteran,2018,1965
+518,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Male,White,Some College,Veteran,2022,1988
+519,City Planning,Planning - Bldg Constr,"Permits Specialist,Senior",Norfolk,Male,NS,Associate Degree,Veteran,2017,1984
+520,Nauticus,Maritime Center- USS Wisconsin,Visitor Services Specialist,Williamsburg,Male,White,Some College,Veteran,2019,1969
+521,Police,Police Field Operations-Sworn,Police Officer,Poquoson,Male,White,Bachelors Level Degree,Veteran,2020,1989
+522,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Cheriton,Male,Black,Some College,Veteran,2020,1982
+523,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Chesapeake,Female,Black,Masters Level Degree,Veteran,2020,1987
+524,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Male,White,HS Graduate or Equivalent,Veteran,2019,1992
+525,Information Technology,Information Technology,Network Engineer IV,Norfolk,Male,Hispanic,Bachelors Level Degree,Veteran,2007,1973
+526,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Some Graduate School,Veteran,2019,1983
+527,Police,Police Field Operations-Guards,School Crossing Guard,Norfolk,Female,White,Associate Degree,Veteran,2019,1983
+528,Norfolk Community Services Board,NCSB-Case Management,Case Manager III,Norfolk,Male,Black,Bachelors Level Degree,Veteran,2021,1971
+529,General Services,General Services- Dir Office,Management Analyst II,Suffolk,Female,White,Some College,Veteran,2022,1993
+530,Commonwealths Attorney,DCJS VSDVVF,Victim/Witness Prg Advocate,Virginia Beach,Female,White,Bachelors Level Degree,Veteran,2023,1999
+531,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Associate Degree,Veteran,2021,1986
+532,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,Hispanic,Not Indicated,Veteran,2020,1994
+533,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Chesapeake,Female,Black,Some College,Veteran,2020,1991
+534,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Virginia Beach,Male,Black,Some College,Veteran,2006,1982
+535,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Newport News,Female,White,Bachelors Level Degree,Veteran,2020,1987
+536,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Gloucester,Female,Black,Some College,Veteran,2021,1977
+537,Information Technology,Information Technology,Radio Comm Sys Analyst Sr,Suffolk,Male,Black,Associate Degree,Veteran,2016,1982
+538,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Windsor,Male,Black,HS Graduate or Equivalent,Veteran,2014,1959
+539,General Services,General Services-Parking Fac,Maintenance Mechanic II,Virginia Beach,Male,Black,Some College,Veteran,2021,1968
+540,City Manager,Executive City Manager,Chief of Staff,Norfolk,Male,White,Masters Level Degree,Veteran,2016,1981
+541,Commonwealths Attorney,Commonwealth's Attorney,Public Information Spec II,Portsmouth,Female,Black,Some College,Veteran,2023,1981
+542,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Accomac,Male,White,Some College,Veteran,2018,1987
+543,City Real Estate Assessor,City Assessor,Real Estate Appraiser II,Norfolk,Male,White,Some College,Veteran,2020,1952
+544,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Norfolk,Female,Black,Not Indicated,Veteran,2014,1979
+545,Police,Police Field Operations-Guards,School Crossing Guard,Norfolk,Female,Black,Associate Degree,Veteran,2015,1974
+546,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,Associate Degree,Veteran,2017,1990
+547,Libraries,Branch Operations,Library Associate II,Elizabeth City,Female,White,Bachelors Level Degree,Veteran,2017,1971
+548,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,Associate Degree,Veteran,1994,1968
+549,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,Black,Bachelors Level Degree,Veteran,2021,1987
+550,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Male,Black,Some College,Veteran,2018,1970
+551,Commonwealths Attorney,Commonwealth's Attorney,Asst Commonwealth's Att I,Suffolk,Male,White,Bachelors Level Degree,Veteran,2022,1988
+552,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Rehabilitation Coord,Virginia Beach,Male,White,Doctorate (Academic),Veteran,2021,1973
+553,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist I,Portsmouth,Male,White,Bachelors Level Degree,Veteran,2016,1960
+554,Parks and Recreation,"Rec,Parks,OpenSpace-Rec Center",Recreation Aide,Norfolk,Female,Black,HS Graduate or Equivalent,Veteran,2022,1960
+555,Parks and Recreation,RPOS - Landscape Services,Park Ranger,Chesapeake,Male,White,Bachelors Level Degree,Veteran,2022,1994
+556,Norfolk Community Services Board,NCSB-Emergency Services,Clinician,Chesapeake,Male,Black,Doctorate (Professional),Veteran,1989,1955
+557,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,Hispanic,Some College,Veteran,2013,1980
+558,General Services,Gen Srvs-PublicInfrastructure,Maintenance Mechanic I,Norfolk,Male,Black,Some College,Veteran,2022,1986
+559,Public Works,PW Div of Streets & Bridges,Equipment Operator III,Norfolk,Male,Black,Some College,Veteran,2015,1960
+560,Police,Police Administrative Svcs-Swn,Police Recruit,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2023,1994
+561,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Male,White,Not Indicated,Veteran,2020,1960
+562,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Hampton,Male,White,Not Indicated,Veteran,2021,1995
+563,City Planning,Planning-Planning,Management Analyst I,Norfolk,Male,White,Some College,Veteran,2022,1998
+564,Utilities,Utilities WasteWater,Equipment Operator II,Chesapeake,Male,Black,HS Graduate or Equivalent,Veteran,2022,1965
+565,Police,Police Administrative Svc-Civl,Police Civilian Invest Tech,Virginia Beach,Male,White,Bachelors Level Degree,Veteran,1977,1954
+566,General Services,General Services-Parking Fac,Electronics Technician II,Elizabeth City,Male,White,Some College,Veteran,2014,1983
+567,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Portsmouth,Male,White,HS Graduate or Equivalent,Veteran,2015,1994
+568,Police,Police Field Operations-Sworn,Police Officer,Norfolk,Male,Hispanic,Associate Degree,Veteran,2022,1992
+569,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Hampton,Female,Black,HS Graduate or Equivalent,Veteran,2014,1987
+570,Norfolk Community Services Board,NCSB-Opoid Replacement Clinic,Licensed Practical Nurse,Virginia Beach,Female,Black,Technical School,Veteran,2022,1974
+571,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Norfolk,Male,Hispanic,Bachelors Level Degree,Veteran,2017,1979
+572,Public Works,PW Waste Management,Waste Mgmt Auto Mechanic,Chesapeake,Male,White,Associate Degree,Veteran,2014,1975
+573,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2017,1991
+574,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,HS Graduate or Equivalent,Veteran,2022,1998
+575,Parks and Recreation,RPOS - Landscape Services,Tree Trimmer II,Norfolk,Male,NS,Some College,Veteran,2021,1989
+576,Police,Police Field Operations-Sworn,Police Officer,Norfolk,Female,Black,HS Graduate or Equivalent,Veteran,2022,1993
+577,Utilities,Utilities Accounting&Budget,Accountant III,Norfolk,Female,White,Bachelors Level Degree,Veteran,2023,1965
+578,Police,Police Investigative Svc-Sworn,Police Civilian Invest Tech,Virginia Beach,Male,White,Associate Degree,Veteran,1996,1953
+579,City Manager,Executive City Manager,Special Assistant,Hampton,Male,Black,Bachelors Level Degree,Veteran,2023,1965
+580,Public Works,PW Waste Management,Refuse Collector I,Portsmouth,Male,Black,Associate Degree,Veteran,2022,1974
+581,Information Technology,Information Technology,Microcomputer Sys Analyst Sr,Norfolk,Male,Black,Bachelors Level Degree,Veteran,2023,1983
+582,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,White,Some College,Veteran,2019,1993
+583,Police,Police Field Operations-Sworn,Police Officer,Williamsburg,Male,White,HS Graduate or Equivalent,Veteran,2022,1999
+584,Utilities,Utilities Water Production,"Utility MaintenanceSupv, Sr",Norfolk,Male,Black,Technical School,Veteran,2018,1972
+585,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Virginia Beach,Male,Black,HS Graduate or Equivalent,Veteran,2015,1992
+586,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Virginia Beach,Female,Black,Bachelors Level Degree,Veteran,2023,1986
+587,Neighborhood Services,Dept of Neighborhood Dev - Div,Codes Specialist,Norfolk,Male,Black,Some College,Veteran,2022,1978
+588,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,Some College,Veteran,2020,1995
+589,Police,Police Investigative Svc-Sworn,Police Officer,Virginia Beach,Male,Black,Bachelors Level Degree,Veteran,2017,1980
+590,Police,Police Field Operations-Sworn,Police Officer,Suffolk,Male,Hispanic,Some College,Veteran,2022,1994
+591,Information Technology,Information Technology,Programmer/Analyst V,Suffolk,Male,Black,HS Graduate or Equivalent,Veteran,2022,1965
+592,Police,Police Administrative Svcs-Swn,Police Recruit,Virginia Beach,Male,NS,HS Graduate or Equivalent,Veteran,2022,1997
+593,Police,Police Administrative Svcs-Swn,Police Recruit,Norfolk,Male,White,HS Graduate or Equivalent,Veteran,2023,2001
+594,Police,Police Administrative Svcs-Swn,Police Recruit,Virginia Beach,Male,Am. Indian,HS Graduate or Equivalent,Veteran,2022,1996
+595,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,Black,Some College,Veteran,2016,1990
+596,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,HS Graduate or Equivalent,Veteran,2022,1997
+597,Fire-Rescue,Fire-Rescue,Firefighter Recruit,Chesapeake,Male,White,HS Graduate or Equivalent,Veteran,2022,1995
+598,City Planning,Planning-Planning,City Planner Associate,Norfolk,Female,White,Bachelors Level Degree,Veteran,2022,1990
+599,Police,Police Administrative Svcs-Swn,Police Recruit,Norfolk,Female,Hispanic,HS Graduate or Equivalent,Veteran,2022,1996
+600,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,HS Graduate or Equivalent,Veteran,2017,1990
+601,Public Works,PW Div of Streets & Bridges,Maintenance Worker II,Norfolk,Male,Black,Not Indicated,Veteran,2008,1972
+602,Circuit Court Judges,Circuit Court Judges,Legal Secretary II,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,1997,1974
+603,Human Resources,Human Resources,City Safety Officer,Chesapeake,Female,White,Bachelors Level Degree,Not a Veteran,2022,1995
+604,City Planning,Planning - Bldg Constr,Codes Enforcement Team Leader,Virginia Beach,Male,White,Associate Degree,Not a Veteran,2018,1977
+605,City Manager,Executive City Manager,Deputy City Manager,Norfolk,Female,White,Masters Level Degree,Not a Veteran,2017,1959
+606,Fire-Rescue,Fire-Rescue,Administrative Assistant II,Norfolk,Female,Hispanic,Not Indicated,Not a Veteran,1987,1963
+607,Human Resources,Human Resources,Emp Relations Mgr (HR only),Chesapeake,Female,White,Bachelors Level Degree,Not a Veteran,2014,1988
+608,Finance,Finance City Controller,Bureau Manager,Virginia Beach,Male,White,Masters Level Degree,Not a Veteran,2013,1982
+609,City Attorney,Law,Support Technician,Norfolk,Male,White,Associate Degree,Not a Veteran,2017,1984
+610,City Planning,Planning - Bldg Constr,"Permits Specialist,Senior",Chesapeake,Male,Black,Some College,Not a Veteran,2017,1963
+611,Libraries,Director's Office,Director of Libraries,Norfolk,Female,Asian,Not Indicated,Not a Veteran,1995,1974
+612,Libraries,Libraries - Administration,Accounting Technician III,Norfolk,Female,Black,Some College,Not a Veteran,1998,1972
+613,City Attorney,Law,Legal Secretary II,Chesapeake,Female,Black,Not Indicated,Not a Veteran,2013,1984
+614,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Assistant Director,Norfolk,Male,White,Some Graduate School,Not a Veteran,2014,1961
+615,City Planning,Planning - Environmental Srvcs,Construction Inspector I,Norfolk,Male,Black,HS Graduate or Equivalent,Not a Veteran,2014,1995
+616,Public Works,PW Division of Surveying,Survey Party Chief,Newport News,Male,White,Technical School,Not a Veteran,2015,1961
+617,Human Resources,Human Resources,Tota Abnce Mgmt Anly (HR only),Portsmouth,Female,Black,Masters Level Degree,Not a Veteran,2022,1982
+618,Public Works,PW Div of Streets & Bridges,Business Manager,Norfolk,Female,Black,Not Indicated,Not a Veteran,1999,1974
+619,Finance,Finance Retirement Bureau,Retirement Benefits Spec II,Chesapeake,Female,Black,Some College,Not a Veteran,2017,1989
+620,General Services,General Services-Parking Fac,Customer Service Rep,Norfolk,Female,Black,Some Graduate School,Not a Veteran,2004,1982
+621,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,2022,2000
+622,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,Asian,Some College,Not a Veteran,2020,1990
+623,City Manager,Executive City Manager,Intergovernmental Relations Of,Norfolk,Female,White,Doctorate (Academic),Not a Veteran,2015,1988
+624,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Norfolk,Male,Black,HS Graduate or Equivalent,Not a Veteran,2023,2003
+625,Public Works,PW Div of Streets & Bridges,Equipment Operator II,Norfolk,Male,Black,Less Than HS Graduate,Not a Veteran,2022,1967
+626,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Suffolk,Male,White,Some College,Not a Veteran,2021,1989
+627,City Planning,Planning - Bldg Constr,"Codes Specialist, Senior",King George,Male,Black,Some College,Not a Veteran,2015,1980
+628,Fire-Rescue,Fire-Rescue,Firefighter EMT-I,Chesapeake,Male,White,Not Indicated,Not a Veteran,2013,1980
+629,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Hampton,Male,Black,Associate Degree,Not a Veteran,2020,1988
+630,Public Works,PW Division of Design,Project Manager,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,2014,1964
+631,Public Works,PW Div of Streets & Bridges,Administrative Technician,Norfolk,Female,Black,Some College,Not a Veteran,2016,1967
+632,Utilities,Utilities Water Production,Utility Maintenance Mech III,Chesapeake,Male,Black,HS Graduate or Equivalent,Not a Veteran,2021,1980
+633,City Manager,Executive City Manager,Chief of Staff,Virginia Beach,Male,Black,Masters Level Degree,Not a Veteran,2006,1979
+634,City Planning,Planning - Bldg Constr,City Planner I,Alexandria,Female,Hispanic,Bachelors Level Degree,Not a Veteran,2019,1979
+635,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Chesapeake,Male,White,Some College,Not a Veteran,2018,1981
+636,City Planning,Planning - Bldg Constr,"Codes Specialist, Senior",Norfolk,Male,Asian,Associate Degree,Not a Veteran,2018,1995
+637,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Chesapeake,Male,White,HS Graduate or Equivalent,Not a Veteran,2022,1998
+638,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Ticket Seller,Norfolk,Female,Black,Some College,Not a Veteran,2008,1971
+639,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Virginia Beach,Female,Black,Not Indicated,Not a Veteran,1991,1963
+640,Fire-Rescue,Fire-Rescue,Fire Captain,Norfolk,Male,White,Not Indicated,Not a Veteran,1988,1962
+641,Finance,Finance - Director's Office,Debt Management Specialist I,Camden,Female,Black,Masters Level Degree,Not a Veteran,2022,1991
+642,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2022,1998
+643,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Virginia Beach,Female,White,Not Indicated,Not a Veteran,2002,1972
+644,General Services,General Services-Parking Fac,Customer Service Rep,Norfolk,Female,Black,Not Indicated,Not a Veteran,1997,1970
+645,General Services,General Services-Parking Fac,Customer Service Rep,Virginia Beach,Female,Black,Not Indicated,Not a Veteran,1996,1966
+646,Libraries,Programming Services,Project Coordinator,Norfolk,Female,Black,Some College,Not a Veteran,2017,1989
+647,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Ticket Seller,Chesapeake,Male,Asian,Bachelors Level Degree,Not a Veteran,2015,1975
+648,City Planning,Planning-Planning,City Planner I,Norfolk,Female,White,Masters Level Degree,Not a Veteran,2023,2000
+649,Human Resources,Human Resources,Comp & Staff Anly I (HR only),Suffolk,Female,Black,Masters Level Degree,Not a Veteran,2015,1987
+650,Finance,Finance City Controller,Sr Accountant IV (Fin only),Virginia Beach,Female,Black,Bachelors Level Degree,Not a Veteran,2019,1974
+651,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Ticket Seller,Norfolk,Male,White,Bachelors Level Degree,Not a Veteran,2021,1994
+652,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Event Coordinator I,Virginia Beach,Female,Black,Bachelors Level Degree,Not a Veteran,2023,1996
+653,Finance,Finance Purchasing,Procurement Specialist IV,Norfolk,Female,White,HS Graduate or Equivalent,Not a Veteran,2017,1964
+654,Public Works,PW Div of Streets & Bridges,Equipment Operator II,Chesapeake,Male,Black,Not Indicated,Not a Veteran,1987,1955
+655,Fire-Rescue,Fire-Rescue,Fire Captain,Norfolk,Male,White,Not Indicated,Not a Veteran,1996,1970
+656,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Newport News,Female,White,Some College,Not a Veteran,2022,1998
+657,City Manager,Executive City Manager,"Asst to the Cty Manager, Sr",Virginia Beach,Female,White,Not Indicated,Not a Veteran,1998,1971
+658,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Female,White,Bachelors Level Degree,Not a Veteran,2022,1994
+659,City Attorney,Law,Assistant City Attorney III,Norfolk,Female,White,Doctorate (Professional),Not a Veteran,2014,1989
+660,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Hampton,Female,Asian,Technical School,Not a Veteran,2017,1997
+661,Public Works,PW Div of Streets & Bridges,"Utility MaintenanceSupv, Sr",Norfolk,Male,Black,Not Indicated,Not a Veteran,1995,1963
+662,Human Resources,Human Resources,Assistant Director,Suffolk,Male,Black,Bachelors Level Degree,Not a Veteran,2015,1987
+663,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Chesapeake,Female,Black,Masters Level Degree,Not a Veteran,2019,1982
+664,Human Resources,Human Resources,Total Abnce Mgmt Mgr (HR only),Greensboro,Female,White,Masters Level Degree,Not a Veteran,2021,1951
+665,City Planning,Planning-Planning,City Planner I,Norfolk,Female,Black,Associate Degree,Not a Veteran,2016,1986
+666,Libraries,Branch Operations,Librarian II,Portsmouth,Female,Black,Masters Level Degree,Not a Veteran,2023,1992
+667,City Planning,Planning-Planning,Division Head,Norfolk,Female,White,Not Indicated,Not a Veteran,1994,1965
+668,Public Works,Public Works-Towing Operations,Support Technician,Portsmouth,Female,Black,Some College,Not a Veteran,2015,1973
+669,City Planning,Planning - Environmental Srvcs,Programs Manager,Norfolk,Male,White,Masters Level Degree,Not a Veteran,2015,1981
+670,Libraries,Branch Operations,Library Associate  I,Suffolk,Female,Black,Some College,Not a Veteran,2022,2001
+671,Human Resources,Human Resources,Emp Rel Anly II (HR only),Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2021,1970
+672,Public Works,PW Storm Water Mgmt,Equipment Operator II,Portsmouth,Male,Black,HS Graduate or Equivalent,Not a Veteran,2022,1980
+673,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),Virginia Beach,Female,White,Not Indicated,Not a Veteran,1998,1977
+674,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Associate Degree,Not a Veteran,2018,1985
+675,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Some College,Not a Veteran,2022,2000
+676,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,1972,1954
+677,Public Works,PW Div of Streets & Bridges,Mason,Virginia Beach,Male,Black,HS Graduate or Equivalent,Not a Veteran,2004,1980
+678,Finance,Finance City Controller,Sr Accountant IV (Fin only),Hampton,Female,Black,Masters Level Degree,Not a Veteran,2023,1980
+679,Sheriff and Jail,Sheriff's 811 Market Place Prg,811 Food Service Manager,Norfolk,Female,Black,Some College,Not a Veteran,2016,1986
+680,City Attorney,Law,Deputy City Attorney I,Virginia Beach,Male,White,Doctorate (Professional),Not a Veteran,2014,1970
+681,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Less Than HS Graduate,Not a Veteran,2016,1989
+682,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,Black,HS Graduate or Equivalent,Not a Veteran,2016,1991
+683,Libraries,Branch Operations,Library Assistant II,Norfolk,Female,Black,Some College,Not a Veteran,2021,2001
+684,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Male,Black,Some College,Not a Veteran,2021,1990
+685,City Council,City Council,Member Of Council,Norfolk,Female,,Masters Level Degree,Not a Veteran,2018,1965
+686,Human Resources,Human Resources,Comp & Staff Manager (HR only),Hampton,Female,Black,Masters Level Degree,Not a Veteran,2016,1969
+687,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,White,Technical School,Not a Veteran,2018,1991
+688,Fire-Rescue,Fire-Rescue,Assistant Fire Chief,Smithfield,Male,White,Not Indicated,Not a Veteran,1992,1963
+689,City Council,City Council,Member Of Council,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,2016,1970
+690,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Ticket Seller,Virginia Beach,Female,White,Associate Degree,Not a Veteran,2015,1960
+691,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Event Coordinator I,Virginia Beach,Female,White,Bachelors Level Degree,Not a Veteran,2022,1996
+692,Police,Police Field Operations-Sworn,Master Police Officer,Moyock,Male,White,Some College,Not a Veteran,2015,1994
+693,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,Associate Degree,Not a Veteran,2017,1994
+694,General Services,General Services-Animal Care,Administrative Assistant II,Hampton,Female,White,Bachelors Level Degree,Not a Veteran,2017,1986
+695,Libraries,Programming Services,Library Associate II,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2018,1993
+696,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Event Coordinator II,Hampton,Female,Black,Masters Level Degree,Not a Veteran,2017,1988
+697,Utilities,Utilities Water Production,Construction Inspector II,Virginia Beach,Male,White,Some College,Not a Veteran,2018,1995
+698,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Event Coordinator II,Virginia Beach,Male,White,Associate Degree,Not a Veteran,2014,1984
+699,Utilities,Utilities Water Production,Waterworks Operator III,Norfolk,Male,Black,HS Graduate or Equivalent,Not a Veteran,2023,1968
+700,Libraries,Branch Operations,Library Assistant II,Chesapeake,Female,White,Masters Level Degree,Not a Veteran,2022,1983
+701,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,Some College,Not a Veteran,2019,1996
+702,Police,Police Field Operations-Guards,School Crossing Guard,Norfolk,Female,Black,Associate Degree,Not a Veteran,2023,1981
+703,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Norfolk,Male,Black,Not Indicated,Not a Veteran,1988,1950
+704,Resilience,Office of Resilience,Chief Resilience Officer,Chesapeake,Male,White,Not Indicated,Not a Veteran,2014,1983
+705,Fire-Rescue,Fire-Rescue,Fire Captain,Chesapeake,Male,White,Not Indicated,Not a Veteran,1994,1970
+706,City Manager,City Manager-NCJS Adlt Com Sup,Pre-Trial Probation Officer II,Portsmouth,Male,Black,Masters Level Degree,Not a Veteran,2017,1986
+707,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,Norfolk,Female,Black,Associate Degree,Not a Veteran,1998,1970
+708,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Chesapeake,Male,Black,HS Graduate or Equivalent,Not a Veteran,2013,1979
+709,Sheriff and Jail,Judicial - Sheriff and Jail,MicrocomputerSystemsAnalystSC,Norfolk,Male,Black,Bachelors Level Degree,Not a Veteran,2006,1988
+710,Human Resources,Human Resources,Human Resources Spec (HR only),Chesapeake,Female,White,Associate Degree,Not a Veteran,2002,1971
+711,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Portsmouth,Female,Black,Bachelors Level Degree,Not a Veteran,2022,1999
+712,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Chesapeake,Male,,Some Graduate School,Not a Veteran,2015,1994
+713,Finance,Finance City Controller,Payroll Manager,Chesapeake,Female,White,Some College,Not a Veteran,2015,1969
+714,Human Services,Hum Svc Div of Social Services,Accountant II,Norfolk,Female,Black,Masters Level Degree,Not a Veteran,2022,1972
+715,Fire-Rescue,Fire-Rescue,Firefighter EMT-I,Norfolk,Male,White,Bachelors Level Degree,Not a Veteran,2016,1991
+716,Sheriff and Jail,Sheriff's 811 Market Place Prg,811 Food Service Worker,Norfolk,Female,Black,Associate Degree,Not a Veteran,2007,1950
+717,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,Black,Bachelors Level Degree,Not a Veteran,2013,1985
+718,City Attorney,Law,Deputy City Attorney I,Norfolk,Female,Black,Not Indicated,Not a Veteran,1998,1970
+719,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Some College,Not a Veteran,2012,1991
+720,Finance,Finance Retirement Bureau,Retirement Benefits Admin,Moyock,Female,White,Bachelors Level Degree,Not a Veteran,2015,1984
+721,Public Works,PW Division of Surveying,Engineering Technician II,Chesapeake,Male,White,Technical School,Not a Veteran,2021,1991
+722,General Services,Gen Srvs-PublicInfrastructure,"Plumber, Senior",Norfolk,Male,White,Technical School,Not a Veteran,2007,1984
+723,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,Hispanic,Some College,Not a Veteran,2021,1998
+724,Public Works,PW Division of Design,Design/Construction Prj Mgr Sr,Norfolk,Male,White,Some Graduate School,Not a Veteran,2014,1981
+725,Human Resources,Human Resources,Tota Abnce Mgmt Anly (HR only),Norfolk,Female,NS,Bachelors Level Degree,Not a Veteran,2022,1993
+726,City Attorney,Law,Deputy City Attorney II,Norfolk,Male,Am. Indian,Not Indicated,Not a Veteran,1989,1954
+727,Public Works,PW Div of Streets & Bridges,Equipment Operator II,Norfolk,Male,Black,HS Graduate or Equivalent,Not a Veteran,2022,1993
+728,Finance,Finance - Director's Office,Assistant Director,Chesapeake,Female,Black,Bachelors Level Degree,Not a Veteran,2009,1976
+729,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,White,Some College,Not a Veteran,2017,1993
+730,Police,Police Administrative Svc-Civl,Operations Officer II,Norfolk,Female,Black,Doctorate (Academic),Not a Veteran,2020,1964
+731,Public Works,PW Div of Streets & Bridges,Equipment Operator II,Chesapeake,Male,Black,Some College,Not a Veteran,2022,1997
+732,Neighborhood Services,Dept of Neighborhood Dev - Div,Codes Enforcement Team Leader,Norfolk,Male,NS,Associate Degree,Not a Veteran,2022,1991
+733,General Services,Gen Srvs-PublicInfrastructure,Maintenance Supervisor II,Norfolk,Male,White,HS Graduate or Equivalent,Not a Veteran,2022,1974
+734,Police,Police Field Operations-Sworn,Police Sergeant,Norfolk,Male,White,Bachelors Level Degree,Not a Veteran,2013,1986
+735,Public Works,PW Utility Cut Repairs,Maintenance Worker I,Norfolk,Male,Black,Not Indicated,Not a Veteran,1996,1947
+736,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,2015,1967
+737,Libraries,Branch Operations,Librarian III,Virginia Beach,Male,Black,Masters Level Degree,Not a Veteran,2015,1964
+738,Public Works,PW Div of Streets & Bridges,Equipment Operator III,Virginia Beach,Male,Black,Technical School,Not a Veteran,2012,1973
+739,City Attorney,Law,Legal Coordinator I,Chesapeake,Female,White,Associate Degree,Not a Veteran,2015,1987
+740,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,2013,1979
+741,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Portsmouth,Female,White,HS Graduate or Equivalent,Not a Veteran,2023,1993
+742,Finance,Finance Retirement Bureau,Management Analyst II,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,2020,1979
+743,General Services,Gen Srvs-PublicInfrastructure,Operating Engineer II,Chesapeake,Male,White,Technical School,Not a Veteran,2023,1998
+744,Public Works,PW Division of Design,Construction Inspector III,Virginia Beach,Female,White,Not Indicated,Not a Veteran,1997,1964
+745,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,1990,1962
+746,Finance,Finance City Controller,Sr Accountant II (Fin only),Virginia Beach,Female,Black,Some College,Not a Veteran,2022,1980
+747,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,2019,1997
+748,Police,Police Field Operations-Sworn,Master Police Officer,Suffolk,Male,Hispanic,Associate Degree,Not a Veteran,2016,1976
+749,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not a Veteran,1996,1959
+750,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Norfolk,Male,White,HS Graduate or Equivalent,Not a Veteran,2018,1990
+751,City Council,City Council,Member Of Council,Norfolk,Male,White,Not Indicated,Not a Veteran,1998,1978
+752,Fire-Rescue,Fire-Rescue,Fire Captain,Norfolk,Male,Black,Not Indicated,Not a Veteran,1994,1964
+753,Finance,Finance - Director's Office,Risk Analyst,Virginia Beach,Female,White,Masters Level Degree,Not a Veteran,2021,1984
+754,Public Works,PW Right of Way,Construction Inspector II,Norfolk,Male,White,Some College,Not a Veteran,2020,1981
+755,Police,CIT Program - OT,Executive Specialist,Norfolk,Male,White,Not Indicated,Not a Veteran,1994,1962
+756,Utilities,Utilities WasteWater,Maintenance Worker II,Norfolk,Male,Black,HS Graduate or Equivalent,Not a Veteran,2022,1994
+757,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Virginia Beach,Female,Black,Not Indicated,Not a Veteran,1998,1972
+758,Finance,Finance - Director's Office,Business Manager,Norfolk,Female,White,Not Indicated,Not a Veteran,2002,1967
+759,Finance,Finance City Controller,Sr Accountant IV (Fin only),Virginia Beach,Female,Black,Masters Level Degree,Not a Veteran,2020,1970
+760,General Services,Gen Srvs-PublicInfrastructure,Maintenance Mechanic II,Chesapeake,Male,Black,Technical School,Not a Veteran,2023,1977
+761,Finance,Finance Purchasing,Procurement Specialist I,Norfolk,Female,White,Masters Level Degree,Not a Veteran,2021,1992
+762,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,Suffolk,Female,White,HS Graduate or Equivalent,Not a Veteran,2013,1960
+763,Sheriff and Jail,Judicial - Sheriff and Jail,Secretary II,Norfolk,Female,White,Some College,Not a Veteran,2016,1974
+764,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,2012,1975
+765,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),Chesapeake,Male,Hispanic,HS Graduate or Equivalent,Not a Veteran,2012,1985
+766,Finance,Finance City Controller,Payroll Specialist,Portsmouth,Female,Black,Bachelors Level Degree,Not a Veteran,2021,1991
+767,City Manager,City Manager - Norfolk Arts,Multimedia Comm Specialist II,Virginia Beach,Female,White,Not Indicated,Not a Veteran,1989,1970
+768,General Services,General Services-Parking Fac,Administrative Assistant I,Chesapeake,Female,Black,Not Indicated,Not a Veteran,2008,1965
+769,Libraries,Branch Operations,Library Associate  I,Norfolk,Female,Hispanic,Bachelors Level Degree,Not a Veteran,2022,2000
+770,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Norfolk,Female,White,Technical School,Not a Veteran,2015,1990
+771,Neighborhood Services,Neighborhood Development,NeighborhoodDevelopSpecialist,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2017,1995
+772,General Services,Gen Srvs-PublicInfrastructure,Chief Operating Engineer,Chesapeake,Male,White,Not Indicated,Not a Veteran,1995,1967
+773,Human Resources,Human Resources,Human Resources Spec (HR only),Chesapeake,Female,Asian,Bachelors Level Degree,Not a Veteran,2020,1984
+774,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Male,White,Masters Level Degree,Not a Veteran,1979,1958
+775,Budget and Strategic Planning,Office Budget & Strategic Plan,Budget & Policy Analyst I,Norfolk,Male,White,Bachelors Level Degree,Not a Veteran,2022,2000
+776,Libraries,Collection and Support Service,Library Assistant II,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2014,1996
+777,Budget and Strategic Planning,Office Budget & Strategic Plan,Data Analyst,Norfolk,Male,White,Masters Level Degree,Not a Veteran,2023,1980
+778,Police,Police Field Operations-Sworn,Master Police Officer,Moyock,Male,White,Bachelors Level Degree,Not a Veteran,2015,1989
+779,Budget and Strategic Planning,Office Budget & Strategic Plan,Grants Manager,Norfolk,Female,White,Masters Level Degree,Not a Veteran,2014,1957
+780,Police,Police Field Operations-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not a Veteran,2011,1983
+781,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Norfolk,Female,Black,HS Graduate or Equivalent,Not a Veteran,2022,2001
+782,Budget and Strategic Planning,Office Budget & Strategic Plan,Data Analyst,Norfolk,Male,White,Masters Level Degree,Not a Veteran,2008,1989
+783,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,HS Graduate or Equivalent,Not a Veteran,2019,1994
+784,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Portsmouth,Female,Hispanic,Some College,Not a Veteran,2021,1993
+785,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,Am. Indian,HS Graduate or Equivalent,Not a Veteran,2021,1999
+786,Human Resources,Human Resources,Org Dev Analyst (HR only),Norfolk,Female,Black,Not Indicated,Not a Veteran,2014,1970
+787,Sheriff and Jail,Judicial - Sheriff and Jail,Secretary II,Norfolk,Female,White,Not Indicated,Not a Veteran,1997,1957
+788,Neighborhood Services,Dept of Neighborhood Dev - Div,Codes Specialist,Hampton,Male,White,Bachelors Level Degree,Not a Veteran,2023,1994
+789,Human Resources,Human Resources,HR Admin Mgr (HR only),Chesapeake,Female,Black,Not Indicated,Not a Veteran,1992,1960
+790,Human Resources,Human Resources,Management Analyst III,Virginia Beach,Female,Black,Masters Level Degree,Not a Veteran,2023,1952
+791,City Planning,Planning-Planning,Principal Planner,Chesapeake,Female,Hawaiian,Masters Level Degree,Not a Veteran,2020,1984
+792,Sheriff and Jail,Sheriff - InmateClassification,Inmate Classif Specialist,Newport News,Female,White,HS Graduate or Equivalent,Not a Veteran,2023,1980
+793,Finance,Finance City Controller,City Controller,Virginia Beach,Female,White,Some Graduate School,Not a Veteran,2015,1970
+794,Police,Police Field Operations-Sworn,Police Recruit,Chesapeake,Female,White,Some College,Not a Veteran,2022,2001
+795,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Norfolk,Female,Black,Not Indicated,Not a Veteran,2000,1978
+796,Neighborhood Services,Neighborhood Devel - IMPACT,Quality Assurance Specialist,Norfolk,Female,Black,HS Graduate or Equivalent,Not a Veteran,2018,1988
+797,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Virginia Beach,Male,Asian,HS Graduate or Equivalent,Not a Veteran,2023,1990
+798,City Attorney,Law,Chief Deputy City Attorney,Norfolk,Male,White,Not Indicated,Not a Veteran,2002,1972
+799,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,White,Some College,Not a Veteran,1992,1958
+800,Libraries,Programming Services,Library Assistant II,Norfolk,Female,NS,Bachelors Level Degree,Not a Veteran,2022,1992
+801,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Suffolk,Female,Black,Technical School,Not a Veteran,1988,1960
+802,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Virginia Beach,Female,Black,Not Indicated,Not a Veteran,1995,1966
+803,Transit,Transit - Transportation,Engineering Technician IV,Virginia Beach,Male,Hispanic,Some College,Not a Veteran,2019,1989
+804,Police,Police Field Operations-Sworn,Police Officer,Virginia Beach,Male,White,Some College,Not a Veteran,2018,1996
+805,"Cultural Facilities, Arts and Entertainment",CF - MacArthur Memorial,Curator,Norfolk,Male,White,Masters Level Degree,Not a Veteran,2014,1975
+806,Human Resources,Human Resources,Comp & Staff Anly II (HR only),Portsmouth,Female,Black,Bachelors Level Degree,Not a Veteran,2022,1969
+807,Circuit Court Judges,Circuit Court Judges,Program Supervisor,Newport News,Female,Black,Masters Level Degree,Not a Veteran,2021,1985
+808,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Virginia Beach,Female,Black,Bachelors Level Degree,Not a Veteran,2010,1984
+809,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Female,Hispanic,Some College,Not a Veteran,2021,2000
+810,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,NS,Some College,Not a Veteran,2022,2001
+811,Sheriff and Jail,Judicial - Sheriff and Jail,Payroll & Benefits Coordinator,Suffolk,Female,White,HS Graduate or Equivalent,Not a Veteran,2021,1961
+812,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieut Col),Virginia Beach,Female,White,Not Indicated,Not a Veteran,1994,1969
+813,Libraries,Branch Operations,Librarian II,Newport News,Male,Hispanic,Doctorate (Academic),Not a Veteran,2023,1976
+814,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Norfolk,Female,Black,Not Indicated,Not a Veteran,2003,1975
+815,Information Technology,Information Technology,Info Technology Specialist,Virginia Beach,Female,White,Not Indicated,Not a Veteran,1987,1957
+816,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not a Veteran,2003,1982
+817,City Attorney,Law,Legal Secretary II,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,2022,1972
+818,Human Resources,Human Resources,Emp Rel Anly I (HR only),Chesapeake,Female,Black,Masters Level Degree,Not a Veteran,2022,1968
+819,Information Technology,Information Technology,Microcomputer Sys Analyst Sr,Chesapeake,Male,Hawaiian,Bachelors Level Degree,Not a Veteran,2022,1998
+820,General Services,Gen Srvs-PublicInfrastructure,Storekeeper III,Norfolk,Male,Black,Some College,Not a Veteran,1996,1973
+821,Budget and Strategic Planning,Office Budget & Strategic Plan,"Budget & Policy Analyst,Senior",Chesapeake,Male,White,Masters Level Degree,Not a Veteran,2021,1988
+822,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Norfolk,Female,Black,Not Indicated,Not a Veteran,2001,1974
+823,City Attorney,Law,Legal Secretary II,Virginia Beach,Female,White,HS Graduate or Equivalent,Not a Veteran,2014,1969
+824,City Attorney,Law,Assistant City Attorney I,Virginia Beach,Male,White,Masters Level Degree,Not a Veteran,2020,1992
+825,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not a Veteran,1996,1972
+826,General Services,Gen Srvs-PublicInfrastructure,Carpenter I,Virginia Beach,Male,White,Some College,Not a Veteran,2022,1988
+827,Human Resources,Human Resources,Director of Human Resources,Norfolk,Female,Black,Not Indicated,Not a Veteran,2017,1965
+828,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Chesapeake,Female,Black,Not Indicated,Not a Veteran,1997,1966
+829,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Chesapeake,Male,Black,Not Indicated,Not a Veteran,2002,1971
+830,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Portsmouth,Female,Black,Not Indicated,Not a Veteran,2021,1989
+831,Public Works,PW Div of Streets & Bridges,Maintenance Worker I,Virginia Beach,Male,Black,HS Graduate or Equivalent,Not a Veteran,2022,2001
+832,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Bachelors Level Degree,Not a Veteran,2019,1990
+833,Sheriff and Jail,Judicial - Sheriff and Jail,Civilian Court Security,Norfolk,Male,White,Not Indicated,Not a Veteran,1996,1963
+834,Public Health,Public Health Vector Control,Environmental Health Asst I,Virginia Beach,Male,Black,Some College,Not a Veteran,2022,1994
+835,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Lieutenant),Chesapeake,Female,White,Not Indicated,Not a Veteran,1994,1969
+836,City Attorney,Law,Assistant City Attorney II,Norfolk,Male,White,Doctorate (Professional),Not a Veteran,2019,1988
+837,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Box Office Manager,Chesapeake,Female,White,Bachelors Level Degree,Not a Veteran,2007,1980
+838,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk,Chesapeake,Female,Black,Bachelors Level Degree,Not a Veteran,2015,1959
+839,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Female,Hispanic,HS Graduate or Equivalent,Not a Veteran,2019,1996
+840,Information Technology,Information Technology,Network Engineer II,Norfolk,Male,White,Not Indicated,Not a Veteran,1995,1964
+841,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Norfolk,Female,Black,Not Indicated,Not a Veteran,2013,1979
+842,Human Services,Hum Svc Div of Social Services,Family Services Worker III,Norfolk,Female,Black,Masters Level Degree,Not a Veteran,2014,1984
+843,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not a Veteran,2002,1970
+844,Human Services,Hum Svc Div of Social Services,Human Services Aide,Norfolk,Female,Black,Not Indicated,Not a Veteran,1998,1953
+845,Utilities,Utilities Water Production,Utility Maintenance Mech III,Norfolk,Male,White,Not Indicated,Not a Veteran,1987,1964
+846,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,2021,1995
+847,Police,Police Investigative Svc-Sworn,Master Police Officer,Virginia Beach,Male,White,Not Indicated,Not a Veteran,1989,1965
+848,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Portsmouth,Female,Black,Associate Degree,Not a Veteran,2020,1971
+849,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Norfolk,Female,NS,Bachelors Level Degree,Not a Veteran,2022,1966
+850,Utilities,Utilities WasteWater,Maintenance Worker II,Norfolk,Female,Black,HS Graduate or Equivalent,Not a Veteran,2022,1982
+851,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Classif Specialist,Norfolk,Female,Black,Not Indicated,Not a Veteran,1998,1973
+852,Finance,Finance Retirement Bureau,Sr Accountant IV (Fin only),Virginia Beach,Female,Asian,Masters Level Degree,Not a Veteran,2020,1994
+853,Slover Library,Slover Library,Manager of Visitor Services,Virginia Beach,Male,White,Bachelors Level Degree,Not a Veteran,2022,1983
+854,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Portsmouth,Female,Black,Some Graduate School,Not a Veteran,2014,1986
+855,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Suffolk,Male,Black,Some College,Not a Veteran,2023,2003
+856,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Norfolk,Female,Black,Not Indicated,Not a Veteran,2017,1959
+857,Fire-Rescue,Fire-Rescue,Firefighter EMT-P,Virginia Beach,Male,White,Some College,Not a Veteran,2018,1994
+858,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Moyock,Male,White,Not Indicated,Not a Veteran,2020,1998
+859,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Portsmouth,Male,Black,Bachelors Level Degree,Not a Veteran,2022,1999
+860,Police,Police Investigative Svc-Sworn,Master Police Officer,Newport News,Male,White,Not Indicated,Not a Veteran,2003,1974
+861,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Sergeant),Virginia Beach,Female,Black,Not Indicated,Not a Veteran,1994,1961
+862,Finance,Finance City Controller,Management Analyst III,Norfolk,Male,White,Bachelors Level Degree,Not a Veteran,2017,1994
+863,Neighborhood Services,Neighborhood Devel - IMPACT,Citizen Service Advisor II,Norfolk,Female,Black,HS Graduate or Equivalent,Not a Veteran,2016,1961
+864,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Virginia Beach,Female,White,HS Graduate or Equivalent,Not a Veteran,2023,1980
+865,Finance,Finance - Director's Office,Director of Finance,Virginia Beach,Female,White,Not Indicated,Not a Veteran,1992,1969
+866,Finance,Finance Purchasing,Procurement Specialist II,Norfolk,Male,White,Masters Level Degree,Not a Veteran,2007,1981
+867,Finance,Finance City Controller,Sr Accountant II (Fin only),Virginia Beach,Female,Black,Associate Degree,Not a Veteran,2021,1997
+868,Police,Police Field Operations-Sworn,Master Police Officer,Chesapeake,Male,White,Some Graduate School,Not a Veteran,2015,1980
+869,City Planning,Planning-Planning,City Planner II,Virginia Beach,Male,White,Some Graduate School,Not a Veteran,2021,1993
+870,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Chesapeake,Female,Black,HS Graduate or Equivalent,Not a Veteran,2014,1988
+871,Finance,Finance City Controller,Payroll Specialist,Virginia Beach,Female,White,Some College,Not a Veteran,2023,1970
+872,Finance,Finance City Controller,Payroll Administrator,Virginia Beach,Female,White,Bachelors Level Degree,Not a Veteran,2018,1974
+873,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Master),Chesapeake,Male,White,Not Indicated,Not a Veteran,1998,1976
+874,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,South Mills,Female,White,Associate Degree,Not a Veteran,2017,1994
+875,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Suffolk,Male,White,Associate Degree,Not a Veteran,1989,1967
+876,Police,Police Field Operations-Sworn,Police Officer,Portsmouth,Male,White,Some College,Not a Veteran,2022,1997
+877,Utilities,Utilities Water Distribution,Utility Maintenance Supervisor,Elizabeth City,Male,Black,Some College,Not a Veteran,2012,1982
+878,Housing and Community Development,Housing and Community Dev,"Projects Manager, Senior",Norfolk,Male,Asian,Masters Level Degree,Not a Veteran,2021,1981
+879,Utilities,Utilities Water Production,Crew Leader I,Norfolk,Male,Black,HS Graduate or Equivalent,Not a Veteran,2020,1975
+880,City Planning,Planning-Planning,Zoning Inspector II,Norfolk,Male,Black,Associate Degree,Not a Veteran,1998,1971
+881,City Planning,Planning-Planning,Principal Planner,Virginia Beach,Male,White,Bachelors Level Degree,Not a Veteran,2021,1981
+882,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Virginia Beach,Male,White,Not Indicated,Not a Veteran,2013,1972
+883,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2016,1980
+884,Police,Police Administrative Svc-Civl,Financial Operations Mgr,Norfolk,Female,White,Not Indicated,Not a Veteran,2013,1955
+885,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Virginia Beach,Female,Hispanic,Not Indicated,Not a Veteran,1994,1959
+886,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Williamsburg,Female,White,Masters Level Degree,Not a Veteran,2020,1993
+887,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Chesapeake,Female,White,Bachelors Level Degree,Not a Veteran,2020,1987
+888,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Virginia Beach,Male,White,Some College,Not a Veteran,2023,1998
+889,Neighborhood Services,Neighborhood Development,NeighborhoodDev Specialist Sr,Norfolk,Female,Black,Not Indicated,Not a Veteran,2013,1963
+890,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Chesapeake,Male,White,HS Graduate or Equivalent,Not a Veteran,2013,1992
+891,Police,Police Administrative Svcs-Swn,Police Officer,Hampton,Male,White,Associate Degree,Not a Veteran,2018,1960
+892,Housing and Community Development,Housing and Community Dev,Real Estate Coordinator,Chesapeake,Male,White,Masters Level Degree,Not a Veteran,2021,1965
+893,Human Services,Hum Svc Div of Social Services,Self-Sufficiency Supervisor,Norfolk,Female,Black,Masters Level Degree,Not a Veteran,2016,1985
+894,City Planning,Planning-Planning,City Planner I,Norfolk,Female,White,Masters Level Degree,Not a Veteran,2022,1995
+895,City Planning,Planning - Bldg Constr,"Codes Specialist, Senior",Virginia Beach,Male,White,Technical School,Not a Veteran,2021,1972
+896,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Asst Supt,Virginia Beach,Female,Black,Not Indicated,Not a Veteran,1995,1969
+897,Police,Police Administrative Svcs-Swn,Police Recruit,Chesapeake,Male,White,Masters Level Degree,Not a Veteran,2022,1989
+898,Human Services,Hum Svc Div of Social Services,Office Assistant,Norfolk,Female,Black,Associate Degree,Not a Veteran,2022,1964
+899,Human Services,Hum Svc Div of Social Services,Human Services Aide,Norfolk,Female,Black,Technical School,Not a Veteran,2021,1993
+900,Human Services,Hum Svc Div of Social Services,Human Services Aide,Norfolk,Female,Black,HS Graduate or Equivalent,Not a Veteran,2022,1991
+901,Human Services,Hum Svc Div of Social Services,Support Technician,Chesapeake,Female,Black,Bachelors Level Degree,Not a Veteran,2009,1990
+902,City Planning,Planning - Bldg Constr,Permits Specialist,Culver City,Female,White,Bachelors Level Degree,Not a Veteran,2021,1998
+903,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Chesapeake,Female,Black,Not Indicated,Not a Veteran,1989,1966
+904,Norfolk Community Services Board,NCSB-Case Management,Case Manager III,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2017,1986
+905,City Planning,Planning - Bldg Constr,"Codes Specialist, Senior",Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,2015,1972
+906,Human Services,Hum Svc Div of Social Services,Human Services Aide,Chesapeake,Female,Black,Some College,Not a Veteran,2022,1989
+907,Human Services,Hum Svc Div of Social Services,Support Technician,Norfolk,Female,Black,Associate Degree,Not a Veteran,2022,1988
+908,Human Services,Hum Svc Div of Social Services,Human Services Aide,Norfolk,Male,Black,Some College,Not a Veteran,2022,1995
+909,Police,Police Field Operations-Sworn,Police Officer,Chesapeake,Male,Black,Bachelors Level Degree,Not a Veteran,2017,1991
+910,Human Services,Hum Svc Div of Social Services,Family Services Associate,Chesapeake,Female,Black,Some College,Not a Veteran,2020,1976
+911,Norfolk Community Services Board,NCSB-Case Management,Case Manager III,Norfolk,Female,Black,Masters Level Degree,Not a Veteran,2022,1996
+912,Communications,Office of Communications,Multimedia Comm Specialist II,Virginia Beach,Female,,Masters Level Degree,Not a Veteran,2022,1995
+913,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Some College,Not a Veteran,2012,1989
+914,Police,Police Administration - Sworn,Master Police Officer,Virginia Beach,Male,Black,Some College,Not a Veteran,2015,1983
+915,City Attorney,Law,Assistant City Attorney II,Norfolk,Female,White,Doctorate (Professional),Not a Veteran,2014,1985
+916,Zoological Park,Executive Zoo-Animal Services,Zookeeper,Suffolk,Male,White,Bachelors Level Degree,Not a Veteran,2022,1999
+917,City Attorney,Law,Assistant City Attorney II,Norfolk,Male,White,Doctorate (Academic),Not a Veteran,2013,1986
+918,City Planning,Planning - Bldg Constr,Permit Technician,Chesapeake,Male,Black,Some College,Not a Veteran,2022,1988
+919,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Recruit),Virginia Beach,Male,Black,Some College,Not a Veteran,2023,2002
+920,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist I,Hampton,Female,Black,Technical School,Not a Veteran,2022,1987
+921,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist III,Virginia Beach,Female,Black,Not Indicated,Not a Veteran,1987,1962
+922,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Male,White,Some College,Not a Veteran,1995,1958
+923,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff (Senior),Virginia Beach,Male,White,Some College,Not a Veteran,2008,1982
+924,Human Services,Hum Svc Juvenile Detention Ctr,Business Manager,Suffolk,Female,White,Associate Degree,Not a Veteran,2017,1970
+925,Police,Police Investigative Svc-Civil,"Crime Analyst, Senior",Norfolk,Female,White,Not Indicated,Not a Veteran,1997,1960
+926,Police,Police Administrative Svc-Civl,Bureau Manager,Norfolk,Female,Black,Not Indicated,Not a Veteran,1998,1970
+927,Norfolk Community Services Board,Shelter and Support Services,Case Manager III,Virginia Beach,Female,White,Bachelors Level Degree,Not a Veteran,2022,1992
+928,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,Some College,Not a Veteran,2021,1990
+929,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Male,White,HS Graduate or Equivalent,Not a Veteran,2020,1993
+930,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Box Office Supervisor,Portsmouth,Female,Black,Not Indicated,Not a Veteran,1989,1962
+931,Police,Police Administration - Sworn,Police Lieutenant,Virginia Beach,Male,White,Not Indicated,Not a Veteran,1997,1970
+932,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Supervisor,Chesapeake,Male,Black,Not Indicated,Not a Veteran,1990,1963
+933,Human Services,Hum Svc Juvenile Detention Ctr,Detention Center Supervisor,Suffolk,Male,Black,Not Indicated,Not a Veteran,1996,1970
+934,Sheriff and Jail,Judicial - Sheriff and Jail,Clinical Mental Health Profess,Suffolk,Female,White,Masters Level Degree,Not a Veteran,2023,1991
+935,Human Services,Human Services Detention Ctr,Human Services Aide,Norfolk,Female,White,Associate Degree,Not a Veteran,2018,1985
+936,Human Services,Human Services Detention Ctr,Human Services Aide,Newport News,Female,Black,Some College,Not a Veteran,2022,1988
+937,Human Services,Human Services Detention Ctr,Benefit Programs Specialist I,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2020,1961
+938,Information Technology,Information Technology,Programmer/Analyst III,Norfolk,Male,White,Some College,Not a Veteran,2016,1990
+939,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Female,White,Some College,Not a Veteran,2020,1985
+940,Police,Police Administration-Civilian,Stenographic Reporter,Virginia Beach,Female,White,Technical School,Not a Veteran,2018,1988
+941,Police,Police Administration-Civilian,Management Analyst I,Virginia Beach,Female,Black,Some College,Not a Veteran,2005,1973
+942,Police,Police Administration-Civilian,Administrative Assistant I,Norfolk,Female,Black,Not Indicated,Not a Veteran,1999,1963
+943,Nauticus,Maritime Center - Admin,Management Analyst III,Virginia Beach,Male,White,Bachelors Level Degree,Not a Veteran,2019,1968
+944,Public Works,PW Storm Water Mgmt,Equipment Operator III,Virginia Beach,Male,Black,HS Graduate or Equivalent,Not a Veteran,2019,1989
+945,Police,Police Investigative Svc-Sworn,Master Police Officer,Chesapeake,Male,White,Not Indicated,Not a Veteran,1996,1974
+946,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Female,White,HS Graduate or Equivalent,Not a Veteran,2018,1997
+947,Transit,Transit - Transportation,Traffic Maintenance Tech I,Norfolk,Male,Black,Some College,Not a Veteran,2022,1991
+948,Public Works,PW Division of Design,Project Manager,Chesapeake,Male,Black,Not Indicated,Not a Veteran,1996,1963
+949,Public Works,PW Storm Water Mgmt,Engineering Technician IV,Norfolk,Male,White,Not Indicated,Not a Veteran,1987,1959
+950,General Services,General Services-Parking Fac,Maintenance Worker II,Norfolk,Male,Black,Not Indicated,Not a Veteran,2023,1957
+951,Information Technology,Information Technology,Microcomputer Sys Analyst Sr,Virginia Beach,Male,Am. Indian,Some College,Not a Veteran,2022,1988
+952,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Virginia Beach,Male,White,HS Graduate or Equivalent,Not a Veteran,2019,1997
+953,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Female,Black,Bachelors Level Degree,Not a Veteran,2018,1994
+954,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Suffolk,Female,Black,Some College,Not a Veteran,2016,1990
+955,Public Works,PW Waste Management,"Refuse Collector, Lead",Chesapeake,Male,Black,Technical School,Not a Veteran,2022,1979
+956,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Ticket Seller,Chesapeake,Female,Black,Bachelors Level Degree,Not a Veteran,2007,1956
+957,General Services,General Services-Parking Fac,Customer Service Rep,Chesapeake,Female,Black,Some College,Not a Veteran,2022,1982
+958,Fire-Rescue,Fire-Rescue,Firefighter EMT - Advanced,Norfolk,Male,White,Bachelors Level Degree,Not a Veteran,2016,2000
+959,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Norfolk,Female,Black,Not Indicated,Not a Veteran,2013,1991
+960,Human Services,Hum Svc Juvenile Detention Ctr,Administrative Technician,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2017,1966
+961,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Chesapeake,Female,Black,HS Graduate or Equivalent,Not a Veteran,2017,1955
+962,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Female,Black,HS Graduate or Equivalent,Not a Veteran,2018,1995
+963,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Chesapeake,Male,White,Some College,Not a Veteran,2018,1986
+964,Norfolk Community Services Board,NCSB-Emergency Services,Emergency Svc Counselor,Norfolk,Male,Black,Masters Level Degree,Not a Veteran,2014,1968
+965,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Yorktown,Female,Black,Bachelors Level Degree,Not a Veteran,2020,1990
+966,Sheriff and Jail,Judicial - Sheriff and Jail,Assist Procurement Specialist,Virginia Beach,Female,Asian,Not Indicated,Not a Veteran,1988,1968
+967,"Cultural Facilities, Arts and Entertainment",CF - MacArthur Memorial,Administrative Technician,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2015,1976
+968,Human Services,Hum Svc Div of Social Services,Management Analyst I,Virginia Beach,Female,White,Associate Degree,Not a Veteran,2019,1980
+969,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Virginia Beach,Female,Black,Some College,Not a Veteran,2017,1988
+970,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Chesapeake,Female,Black,Bachelors Level Degree,Not a Veteran,2021,1992
+971,Human Services,Human Services - VJCCCA,Youth Detention Specialist III,Chesapeake,Male,Black,Not Indicated,Not a Veteran,1994,1963
+972,Police,Police Investigative Svc-Sworn,Police Sergeant,Chesapeake,Male,White,Not Indicated,Not a Veteran,2000,1970
+973,Public Works,PW Waste Management,Refuse Collector III,Norfolk,Male,Black,Not Indicated,Not a Veteran,2018,1987
+974,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Male,White,Some Graduate School,Not a Veteran,2018,1983
+975,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,2016,1988
+976,Human Services,Hum Svc Div of Social Services,Family Services Worker II,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,2015,1981
+977,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Suffolk,Male,White,HS Graduate or Equivalent,Not a Veteran,2018,1998
+978,Police,Police Investigative Svc-Sworn,Police Sergeant,Moyock,Male,Black,Not Indicated,Not a Veteran,2002,1970
+979,Police,Police Investigative Svc-Sworn,Police Sergeant,Chesapeake,Male,White,Not Indicated,Not a Veteran,1994,1968
+980,Human Services,Hum Svc Div of Social Services,Benefit Programs Supervisor,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2014,1960
+981,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Virginia Beach,Female,Black,Not Indicated,Not a Veteran,1994,1964
+982,"Cultural Facilities, Arts and Entertainment","CulturalFaciities,Arts&Entrmnt",Crew Leader I,Virginia Beach,Male,White,Bachelors Level Degree,Not a Veteran,2021,1997
+983,City Treasurer,City Treasurer,Deputy I - TR,Chesapeake,Female,Black,Bachelors Level Degree,Not a Veteran,2022,1999
+984,Human Services,Hum Svc Div of Social Services,Family Services Worker I,Chesapeake,Female,White,Bachelors Level Degree,Not a Veteran,2022,1976
+985,Sheriff and Jail,Judicial - Sheriff and Jail,Deputy Sheriff,Norfolk,Male,White,Technical School,Not a Veteran,2018,1990
+986,Information Technology,Information Technology,Network Security Engineer,Chesapeake,Male,Black,Associate Degree,Not a Veteran,2020,1977
+987,Elections,Elections,Election Aide,Virginia Beach,Female,White,HS Graduate or Equivalent,Not a Veteran,2018,1999
+988,Sheriff and Jail,Judicial - Sheriff and Jail,Education Programs Specialist,Suffolk,Female,Black,Masters Level Degree,Not a Veteran,2019,1990
+989,Sheriff and Jail,Judicial - Sheriff and Jail,Inmate Classification Manager,Virginia Beach,Female,White,Some College,Not a Veteran,2022,1981
+990,Human Services,Hum Svc Juvenile Detention Ctr,Youth Detention Specialist II,Virginia Beach,Male,Black,Not Indicated,Not a Veteran,1990,1962
+991,Commonwealths Attorney,Commonwealth's Attorney,Asst Commonwealth's Att III,Virginia Beach,Male,White,Not Indicated,Not a Veteran,2020,1985
+992,City Planning,Planning-Planning,City Planner II,Norfolk,Male,White,Bachelors Level Degree,Not a Veteran,2018,1998
+993,Libraries,Branch Operations,Library Associate  I,Norfolk,Female,White,Bachelors Level Degree,Not a Veteran,2022,1999
+994,Sheriff and Jail,Judicial - Sheriff and Jail,Records Clerk II - SC,Virginia Beach,Female,Hispanic,Not Indicated,Not a Veteran,2000,1968
+995,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Chesapeake,Female,Black,Associate Degree,Not a Veteran,2016,1985
+996,Norfolk Community Services Board,NCSB-Case Management,Case Manager IV,Virginia Beach,Female,White,Masters Level Degree,Not a Veteran,2020,1989
+997,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Hampton,Female,Black,Some College,Not a Veteran,2017,1990
+998,City Council,City Council,Member Of Council,Norfolk,Female,Black,Some Graduate School,Not a Veteran,2014,1965
+999,Human Services,Hum Svc Div of Social Services,Benefit Programs Specialist II,Norfolk,Female,Black,Bachelors Level Degree,Not a Veteran,2013,1978
