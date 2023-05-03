@@ -31,13 +31,26 @@ salaries_df = pd.read_csv('data/salaries.csv')
 
 ##### Create Plotly figures #####
 
-avg_salary_by_dept_div = salaries_df.groupby(['department', 'division'])['annual_salary'].agg('mean').reset_index()
-avg_salary_by_dept_div_violin = px.violin(data_frame = avg_salary_by_dept_div,
-                                          x = 'department',
-                                          y = 'annual_salary',
-                                          )
+med_salary_by_dept = salaries_df.groupby('department')['annual_salary'].agg('median').reset_index()
+med_salary_by_dept_bar = px.bar(data_frame = med_salary_by_dept,
+                                   y = 'department',
+                                   x = 'annual_salary',
+                                   labels = {'department' : 'Department',
+                                             'annual_salary' : 'Annual Salary ($)'},
+                                   title = 'Median Annual Salary by Department')
+
+salary_dist = px.histogram(data_frame = salaries_df,
+                           x = 'annual_salary',
+                           labels = {'annual_salary': 'Annual Salary ($)',
+                                     'count' : 'Number of Employees'}, 
+                           title = 'Annual Salary Distribution',
+                           nbins = 60)
+                           
+                           
 
 ##### Streamlit configuration #####
 st.title('City of Norfolk Employee Data')
 
-st.plotly_chart(avg_salary_by_dept_div_violin)
+tab_1, tab_2 = st.tabs(['Median Salary by Department', 'Salary Distribution'])
+tab_1.plotly_chart(med_salary_by_dept_bar)
+tab_2.plotly_chart(salary_dist)
