@@ -34,7 +34,7 @@ def pull_data(endpoints = endpoints):
     for idx, nm in enumerate(endpoints):
         print(f'\nPulling {nm} data...\n')
         # Read in json data to Pandas DataFrame
-        df = pd.read_json(endpoints[nm])
+        df = pd.read_json(endpoints[nm] + '?$limit=10000')
         # Write out dataframe to data directory
         df.to_csv(f'data/{nm}.csv')
-    return print('\nDone!\n') 
+    return print('\nDone!\n')

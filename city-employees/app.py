@@ -23,18 +23,20 @@ def refresh_data(refresh = False):
     if refresh == True:
         pull_data()
 
-##### Create Pandas DataFrames from data in /data #####
+##### Create Pandas DataFrames from /data #####
 census_df = pd.read_csv('data/census.csv')
 demographics_df = pd.read_csv('data/demographics.csv')
 salaries_df = pd.read_csv('data/salaries.csv') 
 
 ##### Create Plotly figures #####
-salaries_by_department_violin = px.violin(data_frame = salaries_df,
+
+avg_salary_by_dept_div = salaries_df.groupby(['department', 'division'])['annual_base_rate'].agg('mean').reset_index()
+avg_salary_by_dept_div_violin = px.violin(data_frame = avg_salary_by_dept_div,
                                           x = 'department',
                                           y = 'annual_base_rate',
-                                          color = 'division')
+                                          )
 
 ##### Streamlit configuration #####
 st.title('City of Norfolk Employee Data')
 
-st.plotly_chart(salaries_by_department_violin)
+st.plotly_chart(avg_salary_by_dept_div_violin)
