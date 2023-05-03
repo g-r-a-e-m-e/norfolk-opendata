@@ -1,300 +1,300 @@
-,label,census_2020,census_2010,census_2000
-0,Population,238005,242803,234403.0
-1,Population of one race,218754,233978,228583.0
-2,Population of one race: White alone,102841,114304,113358.0
-3,Population of one race: Black or African American alone,95594,104672,103387.0
-4,Population of one race: American Indian and Alaska Native alone,1328,1200,1071.0
-5,Population of one race: Asian alone,9025,7999,6593.0
-6,Population of one race: Native Hawaiian and Other Pacific Islander alone,521,396,251.0
-7,Population of one race: Some Other Race alone,9445,5407,3923.0
-8,Population of two or more races,19251,8825,5820.0
-9,Population of two races,17394,7784,5304.0
-10,Population of two races: White; Black or African American,4158,2574,1233.0
-11,Population of two races: White; American Indian and Alaska Native,2411,986,765.0
-12,Population of two races: White; Asian,2394,1559,869.0
-13,Population of two races: White; Native Hawaiian and Other Pacific Islander,175,105,71.0
-14,Population of two races: White; Some Other Race,5284,538,768.0
-15,Population of two races: Black or African American; American Indian and Alaska Native,879,626,439.0
-16,Population of two races: Black or African American; Asian,484,463,312.0
-17,Population of two races: Black or African American; Native Hawaiian and Other Pacific Islander,77,96,29.0
-18,Population of two races: Black or African American; Some Other Race,1113,469,440.0
-19,Population of two races: American Indian and Alaska Native; Asian,35,46,37.0
-20,Population of two races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,11,11.0
-21,Population of two races: American Indian and Alaska Native; Some Other Race,110,37,27.0
-22,Population of two races: Asian; Native Hawaiian and Other Pacific Islander,174,97,127.0
-23,Population of two races: Asian; Some Other Race,85,145,161.0
-24,Population of two races: Native Hawaiian and Other Pacific Islander; Some Other Race,15,32,15.0
-25,Population of three races,1654,935,456.0
-26,Population of three races: White; Black or African American; American Indian and Alaska Native,629,444,148.0
-27,Population of three races: White; Black or African American; Asian,207,137,39.0
-28,Population of three races: White; Black or African American; Native Hawaiian and Other Pacific Islander,16,23,13.0
-29,Population of three races: White; Black or African American; Some Other Race,214,55,77.0
-30,Population of three races: White; American Indian and Alaska Native; Asian,110,68,23.0
-31,Population of three races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,13,13,3.0
-32,Population of three races: White; American Indian and Alaska Native; Some Other Race,172,20,20.0
-33,Population of three races: White; Asian; Native Hawaiian and Other Pacific Islander,133,60,31.0
-34,Population of three races: White; Asian; Some Other Race,46,21,36.0
-35,Population of three races: White; Native Hawaiian and Other Pacific Islander; Some Other Race,1,11,1.0
-36,Population of three races: Black or African American; American Indian and Alaska Native; Asian,17,24,15.0
-37,Population of three races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,7,5.0
-38,Population of three races: Black or African American; American Indian and Alaska Native; Some Other Race,31,14,7.0
-39,Population of three races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander,50,12,11.0
-40,Population of three races: Black or African American; Asian; Some Other Race,4,13,11.0
-41,Population of three races: Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,0,7,5.0
-42,Population of three races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,2.0
-43,Population of three races: American Indian and Alaska Native; Asian; Some Other Race,0,2,3.0
-44,Population of three races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,2.0
-45,Population of three races: Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,11,2,4.0
-46,Population of four races,192,90,56.0
-47,Population of four races: White; Black or African American; American Indian and Alaska Native; Asian,60,53,26.0
-48,Population of four races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,5,3,1.0
-49,Population of four races: White; Black or African American; American Indian and Alaska Native; Some Other Race,61,10,3.0
-50,Population of four races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,30,6,5.0
-51,Population of four races: White; Black or African American; Asian; Some Other Race,15,2,5.0
-52,Population of four races: White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,1,1,0.0
-53,Population of four races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,10,7,9.0
-54,Population of four races: White; American Indian and Alaska Native; Asian; Some Other Race,9,0,0.0
-55,Population of four races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-56,Population of four races: White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,3.0
-57,Population of four races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,5,2.0
-58,Population of four races: Black or African American; American Indian and Alaska Native; Asian; Some Other Race,0,0,0.0
-59,Population of four races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,1,0,0.0
-60,Population of four races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,2,2.0
-61,Population of four races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-62,Population of five races,11,16,4.0
-63,Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,7,7,4.0
-64,Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race,4,4,0.0
-65,Population of five races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,0.0
-66,Population of five races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-67,Population of five races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-68,Population of five races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,0.0
-69,Population of six races,0,0,0.0
-70,Population of six races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-71,Population Hispanic or Latino,23130,16144,8915.0
-72,Population not Hispanic or Latino,214875,226659,225488.0
-73,Population not Hispanic or Latino: Population of one race,202224,219541,220640.0
-74,Population not Hispanic or Latino: Population of one race: White alone,97205,107463,110221.0
-75,Population not Hispanic or Latino: Population of one race: Black or African American alone,93553,102452,102268.0
-76,Population not Hispanic or Latino: Population of one race: American Indian and Alaska Native alone,832,935,971.0
-77,Population not Hispanic or Latino: Population of one race: Asian alone,8828,7861,6477.0
-78,Population not Hispanic or Latino: Population of one race: Native Hawaiian and Other Pacific Islander alone,475,359,220.0
-79,Population not Hispanic or Latino: Population of one race: Some Other Race alone,1331,471,483.0
-80,Population not Hispanic or Latino: Population of two or more races,12651,7118,4848.0
-81,Population not Hispanic or Latino: Population of two races,11419,6332,4407.0
-82,Population not Hispanic or Latino: White; Black or African American,3789,2362,1150.0
-83,Population not Hispanic or Latino: White; American Indian and Alaska Native,2209,889,705.0
-84,Population not Hispanic or Latino: White; Asian,2213,1476,830.0
-85,Population not Hispanic or Latino: White; Native Hawaiian and Other Pacific Islander,156,94,70.0
-86,Population not Hispanic or Latino: White; Some Other Race,1106,79,414.0
-87,Population not Hispanic or Latino: Black or African American; American Indian and Alaska Native,797,565,401.0
-88,Population not Hispanic or Latino: Black or African American; Asian,453,438,296.0
-89,Population not Hispanic or Latino: Black or African American; Native Hawaiian and Other Pacific Islander,58,81,27.0
-90,Population not Hispanic or Latino: Black or African American; Some Other Race,387,113,217.0
-91,Population not Hispanic or Latino: American Indian and Alaska Native; Asian,32,36,30.0
-92,Population not Hispanic or Latino: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,7,11.0
-93,Population not Hispanic or Latino: American Indian and Alaska Native; Some Other Race,18,5,18.0
-94,Population not Hispanic or Latino: Asian; Native Hawaiian and Other Pacific Islander,164,93,123.0
-95,Population not Hispanic or Latino: Asian; Some Other Race,37,82,110.0
-96,Population not Hispanic or Latino: Native Hawaiian and Other Pacific Islander; Some Other Race,0,12,5.0
-97,Population not Hispanic or Latino: Population of three races,1104,721,391.0
-98,Population not Hispanic or Latino: Population of three races: White; Black or African American; American Indian and Alaska Native,534,362,125.0
-99,Population not Hispanic or Latino: Population of three races: White; Black or African American; Asian,182,116,37.0
-100,Population not Hispanic or Latino: Population of three races: White; Black or African American; Native Hawaiian and Other Pacific Islander,16,21,12.0
-101,Population not Hispanic or Latino: Population of three races: White; Black or African American; Some Other Race,54,19,66.0
-102,Population not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Asian,102,57,19.0
-103,Population not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,13,11,3.0
-104,Population not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Some Other Race,17,7,17.0
-105,Population not Hispanic or Latino: Population of three races: White; Asian; Native Hawaiian and Other Pacific Islander,106,52,28.0
-106,Population not Hispanic or Latino: Population of three races: White; Asian; Some Other Race,15,7,25.0
-107,Population not Hispanic or Latino: Population of three races: White; Native Hawaiian and Other Pacific Islander; Some Other Race,0,11,1.0
-108,Population not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Asian,14,22,14.0
-109,Population not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,7,5.0
-110,Population not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Some Other Race,7,4,7.0
-111,Population not Hispanic or Latino: Population of three races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander,36,11,11.0
-112,Population not Hispanic or Latino: Population of three races: Black or African American; Asian; Some Other Race,1,9,9.0
-113,Population not Hispanic or Latino: Population of three races: Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,0,2,2.0
-114,Population not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,2.0
-115,Population not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Asian; Some Other Race,0,1,2.0
-116,Population not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,2.0
-117,Population not Hispanic or Latino: Population of three races: Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,7,0,4.0
-118,Population not Hispanic or Latino: Population of four races,122,57,48.0
-119,Population not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Asian,48,39,24.0
-120,Population not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,5,3,1.0
-121,Population not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Some Other Race,19,1,3.0
-122,Population not Hispanic or Latino: Population of four races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,30,6,3.0
-123,Population not Hispanic or Latino: Population of four races: White; Black or African American; Asian; Some Other Race,14,0,4.0
-124,Population not Hispanic or Latino: Population of four races: White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,1,0,0.0
-125,Population not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,2,6.0
-126,Population not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Asian; Some Other Race,0,0,0.0
-127,Population not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-128,Population not Hispanic or Latino: Population of four races: White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,3.0
-129,Population not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,2.0
-130,Population not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Some Other Race,0,0,0.0
-131,Population not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,1,0,0.0
-132,Population not Hispanic or Latino: Population of four races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,2.0
-133,Population not Hispanic or Latino: Population of four races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-134,Population not Hispanic or Latino: Population of five races,6,8,2.0
-135,Population not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,4,2.0
-136,Population in group quarters: Institutionalized population: Juvenile facilities,42,65,
-137,Population not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race,2,0,0.0
-138,Population not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,0.0
-139,Population not Hispanic or Latino: Population of five races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-140,Population not Hispanic or Latino: Population of five races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-141,Population not Hispanic or Latino: Population of five races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-142,Population not Hispanic or Latino: Population of six races,0,0,0.0
-143,Population not Hispanic or Latino: Population of six races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-144,Population 18 years and over,192486,192191,178051.0
-145,Population 18 years and over: Population of one race,179525,187208,174803.0
-146,Population 18 years and over: Population of one race: White alone,88457,97168,93037.0
-147,Population 18 years and over: Population of one race: Black or African American alone,74424,77714,72307.0
-148,Population 18 years and over: Population of one race: American Indian and Alaska Native alone,1131,1011,881.0
-149,Population 18 years and over: Population of one race: Asian alone,7911,6797,5394.0
-150,Population 18 years and over: Population of one race: Native Hawaiian and Other Pacific Islander alone,424,329,201.0
-151,Population 18 years and over: Population of one race: Some Other Race alone,7178,4189,2983.0
-152,Population 18 years and over: Population of two or more races,12961,4983,3248.0
-153,Population 18 years and over: Population of two races,11785,4436,2975.0
-154,Population 18 years and over: Population of two races: White; Black or African American,2245,991,307.0
-155,Population 18 years and over: Population of two races: White; American Indian and Alaska Native,1890,777,564.0
-156,Population 18 years and over: Population of two races: White; Asian,1559,928,461.0
-157,Population 18 years and over: Population of two races: White; Native Hawaiian and Other Pacific Islander,127,76,41.0
-158,Population 18 years and over: Population of two races: White; Some Other Race,3856,344,552.0
-159,Population 18 years and over: Population of two races: Black or African American; American Indian and Alaska Native,654,473,331.0
-160,Population 18 years and over: Population of two races: Black or African American; Asian,312,264,138.0
-161,Population 18 years and over: Population of two races: Black or African American; Native Hawaiian and Other Pacific Islander,40,58,21.0
-162,Population 18 years and over: Population of two races: Black or African American; Some Other Race,769,242,240.0
-163,Population 18 years and over: Population of two races: American Indian and Alaska Native; Asian,26,31,29.0
-164,Population 18 years and over: Population of two races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,10,7.0
-165,Population 18 years and over: Population of two races: American Indian and Alaska Native; Some Other Race,89,30,25.0
-166,Population 18 years and over: Population of two races: Asian; Native Hawaiian and Other Pacific Islander,149,89,114.0
-167,Population 18 years and over: Population of two races: Asian; Some Other Race,57,96,134.0
-168,Population 18 years and over: Population of two races: Native Hawaiian and Other Pacific Islander; Some Other Race,12,27,11.0
-169,Population 18 years and over: Population of three races,1032,472,241.0
-170,Population 18 years and over: Population of three races: White; Black or African American; American Indian and Alaska Native,425,263,100.0
-171,Population 18 years and over: Population of three races: White; Black or African American; Asian,82,36,10.0
-172,Population 18 years and over: Population of three races: White; Black or African American; Native Hawaiian and Other Pacific Islander,11,7,3.0
-173,Population 18 years and over: Population of three races: White; Black or African American; Some Other Race,123,17,26.0
-174,Population 18 years and over: Population of three races: White; American Indian and Alaska Native; Asian,66,32,13.0
-175,Population 18 years and over: Population of three races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,7,12,2.0
-176,Population 18 years and over: Population of three races: White; American Indian and Alaska Native; Some Other Race,124,12,12.0
-177,Population 18 years and over: Population of three races: White; Asian; Native Hawaiian and Other Pacific Islander,85,27,16.0
-178,Population 18 years and over: Population of three races: White; Asian; Some Other Race,20,13,20.0
-179,Population 18 years and over: Population of three races: White; Native Hawaiian and Other Pacific Islander; Some Other Race,0,11,1.0
-180,Population 18 years and over: Population of three races: Black or African American; American Indian and Alaska Native; Asian,6,13,8.0
-181,Population 18 years and over: Population of three races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,5,5.0
-182,Population 18 years and over: Population of three races: Black or African American; American Indian and Alaska Native; Some Other Race,25,5,4.0
-183,Population 18 years and over: Population of three races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander,50,7,4.0
-184,Population 18 years and over: Population of three races: Black or African American; Asian; Some Other Race,1,5,6.0
-185,Population 18 years and over: Population of three races: Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,0,3,4.0
-186,Population 18 years and over: Population of three races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,2.0
-187,Population 18 years and over: Population of three races: American Indian and Alaska Native; Asian; Some Other Race,0,2,1.0
-188,Population 18 years and over: Population of three races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,1.0
-189,Population 18 years and over: Population of three races: Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,7,0,3.0
-190,Population 18 years and over: Population of four races,137,63,29.0
-191,Population 18 years and over: Population of four races: White; Black or African American; American Indian and Alaska Native; Asian,33,38,10.0
-192,Population 18 years and over: Population of four races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,3,2,1.0
-193,Population 18 years and over: Population of four races: White; Black or African American; American Indian and Alaska Native; Some Other Race,50,6,3.0
-194,Population 18 years and over: Population of four races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,30,4,3.0
-195,Population 18 years and over: Population of four races: White; Black or African American; Asian; Some Other Race,10,0,2.0
-196,Population 18 years and over: Population of four races: White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,1,1,0.0
-197,Population 18 years and over: Population of four races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,6,5.0
-198,Population 18 years and over: Population of four races: White; American Indian and Alaska Native; Asian; Some Other Race,5,0,0.0
-199,Population 18 years and over: Population of four races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-200,Population 18 years and over: Population of four races: White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,2.0
-201,Population 18 years and over: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,5,1.0
-202,Population 18 years and over: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Some Other Race,0,0,0.0
-203,Population 18 years and over: Population of four races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,1,0,0.0
-204,Population 18 years and over: Population of four races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,2.0
-205,Population 18 years and over: Population of four races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-206,Population 18 years and over: Population of five races,7,12,3.0
-207,Population 18 years and over: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,5,7,3.0
-208,Population 18 years and over: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race,2,1,0.0
-209,Population 18 years and over: Population of five races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,3,0.0
-210,Population 18 years and over: Population of five races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-211,Population 18 years and over: Population of five races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-212,Population 18 years and over: Population of five races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,0.0
-213,Population 18 years and over: Population of six races,0,0,0.0
-214,Population 18 years and over: Population of six races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0
-215,Population 18 years and over: Hispanic or Latino,17069,11893,6518.0
-216,Population 18 years and over: Not Hispanic or Latino,175417,180298,171533.0
-217,Population 18 years and over: Not Hispanic or Latino: Population of one race,166894,176226,168796.0
-218,Population 18 years and over: Not Hispanic or Latino: Population of one race: White alone,84012,91953,90660.0
-219,Population 18 years and over: Not Hispanic or Latino: Population of one race: Black or African American alone,73068,76221,71606.0
-220,Population 18 years and over: Not Hispanic or Latino: Population of one race: American Indian and Alaska Native alone,722,804,802.0
-221,Population 18 years and over: Not Hispanic or Latino: Population of one race: Asian alone,7749,6691,5315.0
-222,Population 18 years and over: Not Hispanic or Latino: Population of one race: Native Hawaiian and Other Pacific Islander alone,390,300,179.0
-223,Population 18 years and over: Not Hispanic or Latino: Population of one race: Some other race alone,953,257,234.0
-224,Population 18 years and over: Not Hispanic or Latino: Population of two or more races,8523,4072,2737.0
-225,Population 18 years and over: Not Hispanic or Latino: Population of two races,7731,3639,2504.0
-226,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; Black or African American,2079,906,275.0
-227,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; American Indian and Alaska Native,1757,714,534.0
-228,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; Asian,1473,881,446.0
-229,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; Native Hawaiian and Other Pacific Islander,118,71,40.0
-230,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; Some other race,878,58,349.0
-231,Population 18 years and over: Not Hispanic or Latino: Population of two races: Black or African American; American Indian and Alaska Native,611,433,308.0
-232,Population 18 years and over: Not Hispanic or Latino: Population of two races: Black or African American; Asian,288,258,128.0
-233,Population 18 years and over: Not Hispanic or Latino: Population of two races: Black or African American; Native Hawaiian and Other Pacific Islander,34,50,19.0
-234,Population 18 years and over: Not Hispanic or Latino: Population of two races: Black or African American; Some other race,281,72,146.0
-235,Population 18 years and over: Not Hispanic or Latino: Population of two races: American Indian and Alaska Native; Asian,23,23,23.0
-236,Population 18 years and over: Not Hispanic or Latino: Population of two races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,6,7.0
-237,Population 18 years and over: Not Hispanic or Latino: Population of two races: American Indian and Alaska Native; Some other race,16,5,16.0
-238,Population 18 years and over: Not Hispanic or Latino: Population of two races: Asian; Native Hawaiian and Other Pacific Islander,140,85,112.0
-239,Population 18 years and over: Not Hispanic or Latino: Population of two races: Asian; Some other race,33,65,98.0
-240,Population 18 years and over: Not Hispanic or Latino: Population of two races: Native Hawaiian and Other Pacific Islander; Some other race,0,12,3.0
-241,Population 18 years and over: Not Hispanic or Latino: Population of three races,695,387,210.0
-242,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Black or African American; American Indian and Alaska Native,364,224,91.0
-243,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Black or African American; Asian,77,28,10.0
-244,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Black or African American; Native Hawaiian and Other Pacific Islander,11,6,3.0
-245,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Black or African American; Some other race,29,7,20.0
-246,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Asian,58,30,10.0
-247,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,7,10,2.0
-248,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Some other race,17,6,10.0
-249,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Asian; Native Hawaiian and Other Pacific Islander,71,25,14.0
-250,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Asian; Some other race,5,6,16.0
-251,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Native Hawaiian and Other Pacific Islander; Some other race,0,11,1.0
-252,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Asian,5,12,7.0
-253,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,5,5.0
-254,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Some other race,7,2,4.0
-255,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander,36,6,4.0
-256,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; Asian; Some other race,1,4,5.0
-257,Population in group quarters: Institutionalized population: Nursing facilities/Skilled-nursing facilities,898,924,
-258,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,0,2,2.0
-259,Population 18 years and over: Not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,2.0
-260,Population 18 years and over: Not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Asian; Some other race,0,1,0.0
-261,Population 18 years and over: Not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,0,0,1.0
-262,Population 18 years and over: Not Hispanic or Latino: Population of three races: Asian; Native Hawaiian and Other Pacific Islander; Some other race,7,0,3.0
-263,Population 18 years and over: Not Hispanic or Latino: Population of four races,91,39,22.0
-264,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Asian,28,25,8.0
-265,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,3,2,1.0
-266,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Some other race,15,1,3.0
-267,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,30,4,1.0
-268,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; Asian; Some other race,9,0,1.0
-269,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,1,0,0.0
-270,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,2,3.0
-271,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Asian; Some other race,0,0,0.0
-272,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0
-273,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,1,2.0
-274,Population 18 years and over: Not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,1.0
-275,Population 18 years and over: Not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Some other race,0,0,0.0
-276,Population 18 years and over: Not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,1,0,0.0
-277,Population 18 years and over: Not Hispanic or Latino: Population of four races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,2.0
-278,Population 18 years and over: Not Hispanic or Latino: Population of four races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0
-279,Population 18 years and over: Not Hispanic or Latino: Population of five races,6,7,1.0
-280,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,4,1.0
-281,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Some other race,2,0,0.0
-282,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,0,3,0.0
-283,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0
-284,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0
-285,Population 18 years and over: Not Hispanic or Latino: Population of five races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0
-286,Population 18 years and over: Not Hispanic or Latino: Population of six races,0,0,0.0
-287,Population 18 years and over: Not Hispanic or Latino: Population of six races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0
-288,Housing Units,101386,95018,94416.0
-289,Occupied Housing Units,93447,86485,86210.0
-290,Vacant Housing Units,7939,8533,8206.0
-291,Population in group quarters,22260,32780,23289.0
-292,Population in group quarters: Institutionalized population,1813,2746,3000.0
-293,Population in group quarters: Institutionalized population: Correctional facilities for adults,873,1734,
-294,Population in group quarters: Institutionalized population: Other institutional facilities,0,23,
-295,Population in group quarters: Noninstitutionalized population,20447,30034,20289.0
-296,Population in group quarters: Noninstitutionalized population: College/University student housing,6498,6488,
-297,Population in group quarters: Noninstitutionalized population: Military quarters,13015,22687,16378.0
-298,Population in group quarters: Noninstitutionalized population: Other noninstitutional facilities,934,859,
+,Unnamed: 0,label,census_2020,census_2010,census_2000,decadal_delta_2020_vs_2010,decadal_delta_2000_vs_2000
+0,0,Population,238005,242803,234403.0,-4798,8400.0
+1,1,Population of one race,218754,233978,228583.0,-15224,5395.0
+2,2,Population of one race: White alone,102841,114304,113358.0,-11463,946.0
+3,3,Population of one race: Black or African American alone,95594,104672,103387.0,-9078,1285.0
+4,4,Population of one race: American Indian and Alaska Native alone,1328,1200,1071.0,128,129.0
+5,5,Population of one race: Asian alone,9025,7999,6593.0,1026,1406.0
+6,6,Population of one race: Native Hawaiian and Other Pacific Islander alone,521,396,251.0,125,145.0
+7,7,Population of one race: Some Other Race alone,9445,5407,3923.0,4038,1484.0
+8,8,Population of two or more races,19251,8825,5820.0,10426,3005.0
+9,9,Population of two races,17394,7784,5304.0,9610,2480.0
+10,10,Population of two races: White; Black or African American,4158,2574,1233.0,1584,1341.0
+11,11,Population of two races: White; American Indian and Alaska Native,2411,986,765.0,1425,221.0
+12,12,Population of two races: White; Asian,2394,1559,869.0,835,690.0
+13,13,Population of two races: White; Native Hawaiian and Other Pacific Islander,175,105,71.0,70,34.0
+14,14,Population of two races: White; Some Other Race,5284,538,768.0,4746,-230.0
+15,15,Population of two races: Black or African American; American Indian and Alaska Native,879,626,439.0,253,187.0
+16,16,Population of two races: Black or African American; Asian,484,463,312.0,21,151.0
+17,17,Population of two races: Black or African American; Native Hawaiian and Other Pacific Islander,77,96,29.0,-19,67.0
+18,18,Population of two races: Black or African American; Some Other Race,1113,469,440.0,644,29.0
+19,19,Population of two races: American Indian and Alaska Native; Asian,35,46,37.0,-11,9.0
+20,20,Population of two races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,11,11.0,-11,0.0
+21,21,Population of two races: American Indian and Alaska Native; Some Other Race,110,37,27.0,73,10.0
+22,22,Population of two races: Asian; Native Hawaiian and Other Pacific Islander,174,97,127.0,77,-30.0
+23,23,Population of two races: Asian; Some Other Race,85,145,161.0,-60,-16.0
+24,24,Population of two races: Native Hawaiian and Other Pacific Islander; Some Other Race,15,32,15.0,-17,17.0
+25,25,Population of three races,1654,935,456.0,719,479.0
+26,26,Population of three races: White; Black or African American; American Indian and Alaska Native,629,444,148.0,185,296.0
+27,27,Population of three races: White; Black or African American; Asian,207,137,39.0,70,98.0
+28,28,Population of three races: White; Black or African American; Native Hawaiian and Other Pacific Islander,16,23,13.0,-7,10.0
+29,29,Population of three races: White; Black or African American; Some Other Race,214,55,77.0,159,-22.0
+30,30,Population of three races: White; American Indian and Alaska Native; Asian,110,68,23.0,42,45.0
+31,31,Population of three races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,13,13,3.0,0,10.0
+32,32,Population of three races: White; American Indian and Alaska Native; Some Other Race,172,20,20.0,152,0.0
+33,33,Population of three races: White; Asian; Native Hawaiian and Other Pacific Islander,133,60,31.0,73,29.0
+34,34,Population of three races: White; Asian; Some Other Race,46,21,36.0,25,-15.0
+35,35,Population of three races: White; Native Hawaiian and Other Pacific Islander; Some Other Race,1,11,1.0,-10,10.0
+36,36,Population of three races: Black or African American; American Indian and Alaska Native; Asian,17,24,15.0,-7,9.0
+37,37,Population of three races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,7,5.0,-7,2.0
+38,38,Population of three races: Black or African American; American Indian and Alaska Native; Some Other Race,31,14,7.0,17,7.0
+39,39,Population of three races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander,50,12,11.0,38,1.0
+40,40,Population of three races: Black or African American; Asian; Some Other Race,4,13,11.0,-9,2.0
+41,41,Population of three races: Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,0,7,5.0,-7,2.0
+42,42,Population of three races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,2.0,-2,0.0
+43,43,Population of three races: American Indian and Alaska Native; Asian; Some Other Race,0,2,3.0,-2,-1.0
+44,44,Population of three races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,2.0,0,-2.0
+45,45,Population of three races: Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,11,2,4.0,9,-2.0
+46,46,Population of four races,192,90,56.0,102,34.0
+47,47,Population of four races: White; Black or African American; American Indian and Alaska Native; Asian,60,53,26.0,7,27.0
+48,48,Population of four races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,5,3,1.0,2,2.0
+49,49,Population of four races: White; Black or African American; American Indian and Alaska Native; Some Other Race,61,10,3.0,51,7.0
+50,50,Population of four races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,30,6,5.0,24,1.0
+51,51,Population of four races: White; Black or African American; Asian; Some Other Race,15,2,5.0,13,-3.0
+52,52,Population of four races: White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,1,1,0.0,0,1.0
+53,53,Population of four races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,10,7,9.0,3,-2.0
+54,54,Population of four races: White; American Indian and Alaska Native; Asian; Some Other Race,9,0,0.0,9,0.0
+55,55,Population of four races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+56,56,Population of four races: White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,3.0,-1,-2.0
+57,57,Population of four races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,5,2.0,-5,3.0
+58,58,Population of four races: Black or African American; American Indian and Alaska Native; Asian; Some Other Race,0,0,0.0,0,0.0
+59,59,Population of four races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,1,0,0.0,1,0.0
+60,60,Population of four races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,2,2.0,-2,0.0
+61,61,Population of four races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+62,62,Population of five races,11,16,4.0,-5,12.0
+63,63,Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,7,7,4.0,0,3.0
+64,64,Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race,4,4,0.0,0,4.0
+65,65,Population of five races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,0.0,-4,4.0
+66,66,Population of five races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+67,67,Population of five races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+68,68,Population of five races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,0.0,-1,1.0
+69,69,Population of six races,0,0,0.0,0,0.0
+70,70,Population of six races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+71,71,Population Hispanic or Latino,23130,16144,8915.0,6986,7229.0
+72,72,Population not Hispanic or Latino,214875,226659,225488.0,-11784,1171.0
+73,73,Population not Hispanic or Latino: Population of one race,202224,219541,220640.0,-17317,-1099.0
+74,74,Population not Hispanic or Latino: Population of one race: White alone,97205,107463,110221.0,-10258,-2758.0
+75,75,Population not Hispanic or Latino: Population of one race: Black or African American alone,93553,102452,102268.0,-8899,184.0
+76,76,Population not Hispanic or Latino: Population of one race: American Indian and Alaska Native alone,832,935,971.0,-103,-36.0
+77,77,Population not Hispanic or Latino: Population of one race: Asian alone,8828,7861,6477.0,967,1384.0
+78,78,Population not Hispanic or Latino: Population of one race: Native Hawaiian and Other Pacific Islander alone,475,359,220.0,116,139.0
+79,79,Population not Hispanic or Latino: Population of one race: Some Other Race alone,1331,471,483.0,860,-12.0
+80,80,Population not Hispanic or Latino: Population of two or more races,12651,7118,4848.0,5533,2270.0
+81,81,Population not Hispanic or Latino: Population of two races,11419,6332,4407.0,5087,1925.0
+82,82,Population not Hispanic or Latino: White; Black or African American,3789,2362,1150.0,1427,1212.0
+83,83,Population not Hispanic or Latino: White; American Indian and Alaska Native,2209,889,705.0,1320,184.0
+84,84,Population not Hispanic or Latino: White; Asian,2213,1476,830.0,737,646.0
+85,85,Population not Hispanic or Latino: White; Native Hawaiian and Other Pacific Islander,156,94,70.0,62,24.0
+86,86,Population not Hispanic or Latino: White; Some Other Race,1106,79,414.0,1027,-335.0
+87,87,Population not Hispanic or Latino: Black or African American; American Indian and Alaska Native,797,565,401.0,232,164.0
+88,88,Population not Hispanic or Latino: Black or African American; Asian,453,438,296.0,15,142.0
+89,89,Population not Hispanic or Latino: Black or African American; Native Hawaiian and Other Pacific Islander,58,81,27.0,-23,54.0
+90,90,Population not Hispanic or Latino: Black or African American; Some Other Race,387,113,217.0,274,-104.0
+91,91,Population not Hispanic or Latino: American Indian and Alaska Native; Asian,32,36,30.0,-4,6.0
+92,92,Population not Hispanic or Latino: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,7,11.0,-7,-4.0
+93,93,Population not Hispanic or Latino: American Indian and Alaska Native; Some Other Race,18,5,18.0,13,-13.0
+94,94,Population not Hispanic or Latino: Asian; Native Hawaiian and Other Pacific Islander,164,93,123.0,71,-30.0
+95,95,Population not Hispanic or Latino: Asian; Some Other Race,37,82,110.0,-45,-28.0
+96,96,Population not Hispanic or Latino: Native Hawaiian and Other Pacific Islander; Some Other Race,0,12,5.0,-12,7.0
+97,97,Population not Hispanic or Latino: Population of three races,1104,721,391.0,383,330.0
+98,98,Population not Hispanic or Latino: Population of three races: White; Black or African American; American Indian and Alaska Native,534,362,125.0,172,237.0
+99,99,Population not Hispanic or Latino: Population of three races: White; Black or African American; Asian,182,116,37.0,66,79.0
+100,100,Population not Hispanic or Latino: Population of three races: White; Black or African American; Native Hawaiian and Other Pacific Islander,16,21,12.0,-5,9.0
+101,101,Population not Hispanic or Latino: Population of three races: White; Black or African American; Some Other Race,54,19,66.0,35,-47.0
+102,102,Population not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Asian,102,57,19.0,45,38.0
+103,103,Population not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,13,11,3.0,2,8.0
+104,104,Population not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Some Other Race,17,7,17.0,10,-10.0
+105,105,Population not Hispanic or Latino: Population of three races: White; Asian; Native Hawaiian and Other Pacific Islander,106,52,28.0,54,24.0
+106,106,Population not Hispanic or Latino: Population of three races: White; Asian; Some Other Race,15,7,25.0,8,-18.0
+107,107,Population not Hispanic or Latino: Population of three races: White; Native Hawaiian and Other Pacific Islander; Some Other Race,0,11,1.0,-11,10.0
+108,108,Population not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Asian,14,22,14.0,-8,8.0
+109,109,Population not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,7,5.0,-7,2.0
+110,110,Population not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Some Other Race,7,4,7.0,3,-3.0
+111,111,Population not Hispanic or Latino: Population of three races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander,36,11,11.0,25,0.0
+112,112,Population not Hispanic or Latino: Population of three races: Black or African American; Asian; Some Other Race,1,9,9.0,-8,0.0
+113,113,Population not Hispanic or Latino: Population of three races: Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,0,2,2.0,-2,0.0
+114,114,Population not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,2.0,-2,0.0
+115,115,Population not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Asian; Some Other Race,0,1,2.0,-1,-1.0
+116,116,Population not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,2.0,0,-2.0
+117,117,Population not Hispanic or Latino: Population of three races: Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,7,0,4.0,7,-4.0
+118,118,Population not Hispanic or Latino: Population of four races,122,57,48.0,65,9.0
+119,119,Population not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Asian,48,39,24.0,9,15.0
+120,120,Population not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,5,3,1.0,2,2.0
+121,121,Population not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Some Other Race,19,1,3.0,18,-2.0
+122,122,Population not Hispanic or Latino: Population of four races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,30,6,3.0,24,3.0
+123,123,Population not Hispanic or Latino: Population of four races: White; Black or African American; Asian; Some Other Race,14,0,4.0,14,-4.0
+124,124,Population not Hispanic or Latino: Population of four races: White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,1,0,0.0,1,0.0
+125,125,Population not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,2,6.0,2,-4.0
+126,126,Population not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Asian; Some Other Race,0,0,0.0,0,0.0
+127,127,Population not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+128,128,Population not Hispanic or Latino: Population of four races: White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,3.0,-1,-2.0
+129,129,Population not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,2.0,-4,2.0
+130,130,Population not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Some Other Race,0,0,0.0,0,0.0
+131,131,Population not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,1,0,0.0,1,0.0
+132,132,Population not Hispanic or Latino: Population of four races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,2.0,-1,-1.0
+133,133,Population not Hispanic or Latino: Population of four races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+134,134,Population not Hispanic or Latino: Population of five races,6,8,2.0,-2,6.0
+135,135,Population not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,4,2.0,0,2.0
+136,136,Population in group quarters: Institutionalized population: Juvenile facilities,42,65,,-23,
+137,137,Population not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race,2,0,0.0,2,0.0
+138,138,Population not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,4,0.0,-4,4.0
+139,139,Population not Hispanic or Latino: Population of five races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+140,140,Population not Hispanic or Latino: Population of five races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+141,141,Population not Hispanic or Latino: Population of five races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+142,142,Population not Hispanic or Latino: Population of six races,0,0,0.0,0,0.0
+143,143,Population not Hispanic or Latino: Population of six races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+144,144,Population 18 years and over,192486,192191,178051.0,295,14140.0
+145,145,Population 18 years and over: Population of one race,179525,187208,174803.0,-7683,12405.0
+146,146,Population 18 years and over: Population of one race: White alone,88457,97168,93037.0,-8711,4131.0
+147,147,Population 18 years and over: Population of one race: Black or African American alone,74424,77714,72307.0,-3290,5407.0
+148,148,Population 18 years and over: Population of one race: American Indian and Alaska Native alone,1131,1011,881.0,120,130.0
+149,149,Population 18 years and over: Population of one race: Asian alone,7911,6797,5394.0,1114,1403.0
+150,150,Population 18 years and over: Population of one race: Native Hawaiian and Other Pacific Islander alone,424,329,201.0,95,128.0
+151,151,Population 18 years and over: Population of one race: Some Other Race alone,7178,4189,2983.0,2989,1206.0
+152,152,Population 18 years and over: Population of two or more races,12961,4983,3248.0,7978,1735.0
+153,153,Population 18 years and over: Population of two races,11785,4436,2975.0,7349,1461.0
+154,154,Population 18 years and over: Population of two races: White; Black or African American,2245,991,307.0,1254,684.0
+155,155,Population 18 years and over: Population of two races: White; American Indian and Alaska Native,1890,777,564.0,1113,213.0
+156,156,Population 18 years and over: Population of two races: White; Asian,1559,928,461.0,631,467.0
+157,157,Population 18 years and over: Population of two races: White; Native Hawaiian and Other Pacific Islander,127,76,41.0,51,35.0
+158,158,Population 18 years and over: Population of two races: White; Some Other Race,3856,344,552.0,3512,-208.0
+159,159,Population 18 years and over: Population of two races: Black or African American; American Indian and Alaska Native,654,473,331.0,181,142.0
+160,160,Population 18 years and over: Population of two races: Black or African American; Asian,312,264,138.0,48,126.0
+161,161,Population 18 years and over: Population of two races: Black or African American; Native Hawaiian and Other Pacific Islander,40,58,21.0,-18,37.0
+162,162,Population 18 years and over: Population of two races: Black or African American; Some Other Race,769,242,240.0,527,2.0
+163,163,Population 18 years and over: Population of two races: American Indian and Alaska Native; Asian,26,31,29.0,-5,2.0
+164,164,Population 18 years and over: Population of two races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,10,7.0,-10,3.0
+165,165,Population 18 years and over: Population of two races: American Indian and Alaska Native; Some Other Race,89,30,25.0,59,5.0
+166,166,Population 18 years and over: Population of two races: Asian; Native Hawaiian and Other Pacific Islander,149,89,114.0,60,-25.0
+167,167,Population 18 years and over: Population of two races: Asian; Some Other Race,57,96,134.0,-39,-38.0
+168,168,Population 18 years and over: Population of two races: Native Hawaiian and Other Pacific Islander; Some Other Race,12,27,11.0,-15,16.0
+169,169,Population 18 years and over: Population of three races,1032,472,241.0,560,231.0
+170,170,Population 18 years and over: Population of three races: White; Black or African American; American Indian and Alaska Native,425,263,100.0,162,163.0
+171,171,Population 18 years and over: Population of three races: White; Black or African American; Asian,82,36,10.0,46,26.0
+172,172,Population 18 years and over: Population of three races: White; Black or African American; Native Hawaiian and Other Pacific Islander,11,7,3.0,4,4.0
+173,173,Population 18 years and over: Population of three races: White; Black or African American; Some Other Race,123,17,26.0,106,-9.0
+174,174,Population 18 years and over: Population of three races: White; American Indian and Alaska Native; Asian,66,32,13.0,34,19.0
+175,175,Population 18 years and over: Population of three races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,7,12,2.0,-5,10.0
+176,176,Population 18 years and over: Population of three races: White; American Indian and Alaska Native; Some Other Race,124,12,12.0,112,0.0
+177,177,Population 18 years and over: Population of three races: White; Asian; Native Hawaiian and Other Pacific Islander,85,27,16.0,58,11.0
+178,178,Population 18 years and over: Population of three races: White; Asian; Some Other Race,20,13,20.0,7,-7.0
+179,179,Population 18 years and over: Population of three races: White; Native Hawaiian and Other Pacific Islander; Some Other Race,0,11,1.0,-11,10.0
+180,180,Population 18 years and over: Population of three races: Black or African American; American Indian and Alaska Native; Asian,6,13,8.0,-7,5.0
+181,181,Population 18 years and over: Population of three races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,5,5.0,-5,0.0
+182,182,Population 18 years and over: Population of three races: Black or African American; American Indian and Alaska Native; Some Other Race,25,5,4.0,20,1.0
+183,183,Population 18 years and over: Population of three races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander,50,7,4.0,43,3.0
+184,184,Population 18 years and over: Population of three races: Black or African American; Asian; Some Other Race,1,5,6.0,-4,-1.0
+185,185,Population 18 years and over: Population of three races: Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,0,3,4.0,-3,-1.0
+186,186,Population 18 years and over: Population of three races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,2.0,-2,0.0
+187,187,Population 18 years and over: Population of three races: American Indian and Alaska Native; Asian; Some Other Race,0,2,1.0,-2,1.0
+188,188,Population 18 years and over: Population of three races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,1.0,0,-1.0
+189,189,Population 18 years and over: Population of three races: Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,7,0,3.0,7,-3.0
+190,190,Population 18 years and over: Population of four races,137,63,29.0,74,34.0
+191,191,Population 18 years and over: Population of four races: White; Black or African American; American Indian and Alaska Native; Asian,33,38,10.0,-5,28.0
+192,192,Population 18 years and over: Population of four races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,3,2,1.0,1,1.0
+193,193,Population 18 years and over: Population of four races: White; Black or African American; American Indian and Alaska Native; Some Other Race,50,6,3.0,44,3.0
+194,194,Population 18 years and over: Population of four races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,30,4,3.0,26,1.0
+195,195,Population 18 years and over: Population of four races: White; Black or African American; Asian; Some Other Race,10,0,2.0,10,-2.0
+196,196,Population 18 years and over: Population of four races: White; Black or African American; Native Hawaiian and Other Pacific Islander; Some Other Race,1,1,0.0,0,1.0
+197,197,Population 18 years and over: Population of four races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,6,5.0,-2,1.0
+198,198,Population 18 years and over: Population of four races: White; American Indian and Alaska Native; Asian; Some Other Race,5,0,0.0,5,0.0
+199,199,Population 18 years and over: Population of four races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+200,200,Population 18 years and over: Population of four races: White; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,2.0,-1,-1.0
+201,201,Population 18 years and over: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,5,1.0,-5,4.0
+202,202,Population 18 years and over: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Some Other Race,0,0,0.0,0,0.0
+203,203,Population 18 years and over: Population of four races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,1,0,0.0,1,0.0
+204,204,Population 18 years and over: Population of four races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,2.0,0,-2.0
+205,205,Population 18 years and over: Population of four races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+206,206,Population 18 years and over: Population of five races,7,12,3.0,-5,9.0
+207,207,Population 18 years and over: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,5,7,3.0,-2,4.0
+208,208,Population 18 years and over: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Some Other Race,2,1,0.0,1,1.0
+209,209,Population 18 years and over: Population of five races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some Other Race,0,3,0.0,-3,3.0
+210,210,Population 18 years and over: Population of five races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+211,211,Population 18 years and over: Population of five races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+212,212,Population 18 years and over: Population of five races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,1,0.0,-1,1.0
+213,213,Population 18 years and over: Population of six races,0,0,0.0,0,0.0
+214,214,Population 18 years and over: Population of six races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some Other Race,0,0,0.0,0,0.0
+215,215,Population 18 years and over: Hispanic or Latino,17069,11893,6518.0,5176,5375.0
+216,216,Population 18 years and over: Not Hispanic or Latino,175417,180298,171533.0,-4881,8765.0
+217,217,Population 18 years and over: Not Hispanic or Latino: Population of one race,166894,176226,168796.0,-9332,7430.0
+218,218,Population 18 years and over: Not Hispanic or Latino: Population of one race: White alone,84012,91953,90660.0,-7941,1293.0
+219,219,Population 18 years and over: Not Hispanic or Latino: Population of one race: Black or African American alone,73068,76221,71606.0,-3153,4615.0
+220,220,Population 18 years and over: Not Hispanic or Latino: Population of one race: American Indian and Alaska Native alone,722,804,802.0,-82,2.0
+221,221,Population 18 years and over: Not Hispanic or Latino: Population of one race: Asian alone,7749,6691,5315.0,1058,1376.0
+222,222,Population 18 years and over: Not Hispanic or Latino: Population of one race: Native Hawaiian and Other Pacific Islander alone,390,300,179.0,90,121.0
+223,223,Population 18 years and over: Not Hispanic or Latino: Population of one race: Some other race alone,953,257,234.0,696,23.0
+224,224,Population 18 years and over: Not Hispanic or Latino: Population of two or more races,8523,4072,2737.0,4451,1335.0
+225,225,Population 18 years and over: Not Hispanic or Latino: Population of two races,7731,3639,2504.0,4092,1135.0
+226,226,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; Black or African American,2079,906,275.0,1173,631.0
+227,227,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; American Indian and Alaska Native,1757,714,534.0,1043,180.0
+228,228,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; Asian,1473,881,446.0,592,435.0
+229,229,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; Native Hawaiian and Other Pacific Islander,118,71,40.0,47,31.0
+230,230,Population 18 years and over: Not Hispanic or Latino: Population of two races: White; Some other race,878,58,349.0,820,-291.0
+231,231,Population 18 years and over: Not Hispanic or Latino: Population of two races: Black or African American; American Indian and Alaska Native,611,433,308.0,178,125.0
+232,232,Population 18 years and over: Not Hispanic or Latino: Population of two races: Black or African American; Asian,288,258,128.0,30,130.0
+233,233,Population 18 years and over: Not Hispanic or Latino: Population of two races: Black or African American; Native Hawaiian and Other Pacific Islander,34,50,19.0,-16,31.0
+234,234,Population 18 years and over: Not Hispanic or Latino: Population of two races: Black or African American; Some other race,281,72,146.0,209,-74.0
+235,235,Population 18 years and over: Not Hispanic or Latino: Population of two races: American Indian and Alaska Native; Asian,23,23,23.0,0,0.0
+236,236,Population 18 years and over: Not Hispanic or Latino: Population of two races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,6,7.0,-6,-1.0
+237,237,Population 18 years and over: Not Hispanic or Latino: Population of two races: American Indian and Alaska Native; Some other race,16,5,16.0,11,-11.0
+238,238,Population 18 years and over: Not Hispanic or Latino: Population of two races: Asian; Native Hawaiian and Other Pacific Islander,140,85,112.0,55,-27.0
+239,239,Population 18 years and over: Not Hispanic or Latino: Population of two races: Asian; Some other race,33,65,98.0,-32,-33.0
+240,240,Population 18 years and over: Not Hispanic or Latino: Population of two races: Native Hawaiian and Other Pacific Islander; Some other race,0,12,3.0,-12,9.0
+241,241,Population 18 years and over: Not Hispanic or Latino: Population of three races,695,387,210.0,308,177.0
+242,242,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Black or African American; American Indian and Alaska Native,364,224,91.0,140,133.0
+243,243,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Black or African American; Asian,77,28,10.0,49,18.0
+244,244,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Black or African American; Native Hawaiian and Other Pacific Islander,11,6,3.0,5,3.0
+245,245,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Black or African American; Some other race,29,7,20.0,22,-13.0
+246,246,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Asian,58,30,10.0,28,20.0
+247,247,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,7,10,2.0,-3,8.0
+248,248,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; American Indian and Alaska Native; Some other race,17,6,10.0,11,-4.0
+249,249,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Asian; Native Hawaiian and Other Pacific Islander,71,25,14.0,46,11.0
+250,250,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Asian; Some other race,5,6,16.0,-1,-10.0
+251,251,Population 18 years and over: Not Hispanic or Latino: Population of three races: White; Native Hawaiian and Other Pacific Islander; Some other race,0,11,1.0,-11,10.0
+252,252,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Asian,5,12,7.0,-7,5.0
+253,253,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,0,5,5.0,-5,0.0
+254,254,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; American Indian and Alaska Native; Some other race,7,2,4.0,5,-2.0
+255,255,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander,36,6,4.0,30,2.0
+256,256,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; Asian; Some other race,1,4,5.0,-3,-1.0
+257,257,Population in group quarters: Institutionalized population: Nursing facilities/Skilled-nursing facilities,898,924,,-26,
+258,258,Population 18 years and over: Not Hispanic or Latino: Population of three races: Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,0,2,2.0,-2,0.0
+259,259,Population 18 years and over: Not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,2,2.0,-2,0.0
+260,260,Population 18 years and over: Not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Asian; Some other race,0,1,0.0,-1,1.0
+261,261,Population 18 years and over: Not Hispanic or Latino: Population of three races: American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,0,0,1.0,0,-1.0
+262,262,Population 18 years and over: Not Hispanic or Latino: Population of three races: Asian; Native Hawaiian and Other Pacific Islander; Some other race,7,0,3.0,7,-3.0
+263,263,Population 18 years and over: Not Hispanic or Latino: Population of four races,91,39,22.0,52,17.0
+264,264,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Asian,28,25,8.0,3,17.0
+265,265,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander,3,2,1.0,1,1.0
+266,266,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; American Indian and Alaska Native; Some other race,15,1,3.0,14,-2.0
+267,267,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander,30,4,1.0,26,3.0
+268,268,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; Asian; Some other race,9,0,1.0,9,-1.0
+269,269,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Black or African American; Native Hawaiian and Other Pacific Islander; Some other race,1,0,0.0,1,0.0
+270,270,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,2,3.0,2,-1.0
+271,271,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Asian; Some other race,0,0,0.0,0,0.0
+272,272,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0,0,0.0
+273,273,Population 18 years and over: Not Hispanic or Latino: Population of four races: White; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,1,2.0,-1,-1.0
+274,274,Population 18 years and over: Not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,0,4,1.0,-4,3.0
+275,275,Population 18 years and over: Not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Asian; Some other race,0,0,0.0,0,0.0
+276,276,Population 18 years and over: Not Hispanic or Latino: Population of four races: Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,1,0,0.0,1,0.0
+277,277,Population 18 years and over: Not Hispanic or Latino: Population of four races: Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,2.0,0,-2.0
+278,278,Population 18 years and over: Not Hispanic or Latino: Population of four races: American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0,0,0.0
+279,279,Population 18 years and over: Not Hispanic or Latino: Population of five races,6,7,1.0,-1,6.0
+280,280,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander,4,4,1.0,0,3.0
+281,281,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Asian; Some other race,2,0,0.0,2,0.0
+282,282,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; Black or African American; American Indian and Alaska Native; Native Hawaiian and Other Pacific Islander; Some other race,0,3,0.0,-3,3.0
+283,283,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; Black or African American; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0,0,0.0
+284,284,Population 18 years and over: Not Hispanic or Latino: Population of five races: White; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0,0,0.0
+285,285,Population 18 years and over: Not Hispanic or Latino: Population of five races: Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0,0,0.0
+286,286,Population 18 years and over: Not Hispanic or Latino: Population of six races,0,0,0.0,0,0.0
+287,287,Population 18 years and over: Not Hispanic or Latino: Population of six races: White; Black or African American; American Indian and Alaska Native; Asian; Native Hawaiian and Other Pacific Islander; Some other race,0,0,0.0,0,0.0
+288,288,Housing Units,101386,95018,94416.0,6368,602.0
+289,289,Occupied Housing Units,93447,86485,86210.0,6962,275.0
+290,290,Vacant Housing Units,7939,8533,8206.0,-594,327.0
+291,291,Population in group quarters,22260,32780,23289.0,-10520,9491.0
+292,292,Population in group quarters: Institutionalized population,1813,2746,3000.0,-933,-254.0
+293,293,Population in group quarters: Institutionalized population: Correctional facilities for adults,873,1734,,-861,
+294,294,Population in group quarters: Institutionalized population: Other institutional facilities,0,23,,-23,
+295,295,Population in group quarters: Noninstitutionalized population,20447,30034,20289.0,-9587,9745.0
+296,296,Population in group quarters: Noninstitutionalized population: College/University student housing,6498,6488,,10,
+297,297,Population in group quarters: Noninstitutionalized population: Military quarters,13015,22687,16378.0,-9672,6309.0
+298,298,Population in group quarters: Noninstitutionalized population: Other noninstitutional facilities,934,859,,75,
