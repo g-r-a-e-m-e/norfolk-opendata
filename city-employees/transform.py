@@ -16,16 +16,8 @@ import datetime as dt
 import pandas as pd
 from pipeline import pull_data
 
-# Pull current data
-pull_data()
-
-# Read in data
-census_df = pd.read_csv('data/census.csv')
-demographics_df = pd.read_csv('data/demographics.csv')
-salaries_df = pd.read_csv('data/salaries.csv')
-
 # Functions to transform features in each DataFrame
-def census_transform(data = census_df):
+def census_transform(data):
     # Census data are taken every 10 years.
     # Creating decadal_delta fields to compare values between each census
     data['decadal_delta_2020_vs_2010'] = data['census_2020'] - data['census_2010']
@@ -37,10 +29,10 @@ def census_transform(data = census_df):
     # Write to /data
     data.to_csv('data/census.csv')
     
-    return  print('\nDone!\n')
+    return print('\nDone!\n')
 
 
-def demographics_transform(data = demographics_df):
+def demographics_transform(data):
     # Create current_year variable to create additional fields
     current_year = int(dt.datetime.now().strftime('%Y'))
     
@@ -58,7 +50,8 @@ def demographics_transform(data = demographics_df):
     
     return print('\nDone!\n')
 
-def salaries_transform(data = salaries_df):
+
+def salaries_transform(data):
     # Create start_year field from start_date
     data['start_year'] = data['start_date'].apply(lambda x: int(dt.datetime.fromisoformat(x).strftime('%Y')))
     
@@ -96,7 +89,18 @@ def salaries_transform(data = salaries_df):
     
     return print('\nDone!\n')
 
-# Perform transformations
-census_transform()
-demographics_transform()
-salaries_transform()
+
+# Function to pull data and perform transformations
+def transform_all():
+    # Pull current data
+    pull_data()
+
+    # Read in data
+    census_df = pd.read_csv('data/census.csv')
+    demographics_df = pd.read_csv('data/demographics.csv')
+    salaries_df = pd.read_csv('data/salaries.csv')
+    
+    # Perform transformations
+    census_transform(census_df)
+    demographics_transform(demographics_df)
+    salaries_transform(salaries_df)
