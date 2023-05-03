@@ -24,6 +24,7 @@ def refresh_data(refresh = False):
     if refresh == True:
         transform
 
+
 ##### Create Pandas DataFrames from /data #####
 census_df = pd.read_csv('data/census.csv')
 demographics_df = pd.read_csv('data/demographics.csv')
@@ -35,6 +36,7 @@ xref_df = demographics_df.merge(salaries_df,
                                 right_on = ['department', 'division', 'position_title', 'start_year'],
                                 how = 'inner',
                                 suffixes = ['_demo', '_sal'])
+
 
 ##### Create Plotly figures #####
 
@@ -60,7 +62,10 @@ salary_vs_tenure_scatter = px.scatter(xref_df,
                                       labels = {'tenure' : 'Employee Tenure (years)',
                                                 'annual_salary' : 'Annual Salary ($)'},
                                       title = 'Annual Salary vs. Employee Tenure')
+
+
 ##### Streamlit configuration #####
+
 st.title('City of Norfolk Employee Data')
 
 tabs = ['Median Salary by Department', 'Salary Distribution', 'Salary vs. Tenure']
