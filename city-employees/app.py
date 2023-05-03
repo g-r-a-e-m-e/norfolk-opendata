@@ -3,7 +3,8 @@
 """
 app.py
 
-This is the Streamlit app to explore and analyze City of Norfolk OpenData
+This is the Streamlit app to explore and analyze city employee data from 
+https://data.norfolk.gov
 
 Created on Tue May  2 16:40:13 2023
 
