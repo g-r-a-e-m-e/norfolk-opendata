@@ -84,6 +84,7 @@ def salaries_transform(data = salaries_df):
             emp_stat = 'OTHER'
         
         return emp_stat
+    
     data['employee_status'] = data['employee_classification'].apply(lambda x: employee_status(x))
     
     
