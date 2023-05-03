@@ -34,7 +34,7 @@ salaries_df = pd.read_csv('data/salaries.csv')
 avg_salary_by_dept_div = salaries_df.groupby(['department', 'division'])['annual_salary'].agg('mean').reset_index()
 avg_salary_by_dept_div_violin = px.violin(data_frame = avg_salary_by_dept_div,
                                           x = 'department',
-                                          y = 'annual_base_rate',
+                                          y = 'annual_salary',
                                           )
 
 ##### Streamlit configuration #####
