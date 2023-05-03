@@ -15,14 +15,14 @@ Created on Tue May  2 16:40:13 2023
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-from pipeline import pull_data
+import transform
 
 ##### Helper functions #####
 
 # refresh_data will pull current data available from https://data.norfolk.gov
 def refresh_data(refresh = False):
     if refresh == True:
-        pull_data()
+        transform
 
 ##### Create Pandas DataFrames from /data #####
 census_df = pd.read_csv('data/census.csv')
@@ -31,7 +31,7 @@ salaries_df = pd.read_csv('data/salaries.csv')
 
 ##### Create Plotly figures #####
 
-avg_salary_by_dept_div = salaries_df.groupby(['department', 'division'])['annual_base_rate'].agg('mean').reset_index()
+avg_salary_by_dept_div = salaries_df.groupby(['department', 'division'])['annual_salary'].agg('mean').reset_index()
 avg_salary_by_dept_div_violin = px.violin(data_frame = avg_salary_by_dept_div,
                                           x = 'department',
                                           y = 'annual_base_rate',
